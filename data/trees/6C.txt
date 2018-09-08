@@ -1,0 +1,14 @@
+NP
+NP
+PP
+.
+NNP
+Chill
+IN
+NP
+for
+CD
+NNS
+10
+minutes
+.

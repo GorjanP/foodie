@@ -1,0 +1,33 @@
+eggs
+beat [23]
+
+oil
+beat [23]
+
+vanilla
+beat [23]
+
+sugar
+beat [23]
+
+flour
+Beat [40]
+
+salt
+Beat [40]
+
+powder
+Beat [40]
+
+soda
+Beat [40]
+
+cinnamon
+Beat [40]
+
+blueberries
+fold [57]
+
+loaf
+Bake [69]
+

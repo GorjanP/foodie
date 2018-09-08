@@ -1,0 +1,42 @@
+peaches
+    A - 17 - combine
+white sugar
+    A - 17 - combine
+brown sugar
+    A - 17 - combine
+cinnamon
+    A - 17 - combine
+nutmeg
+    A - 17 - combine
+lemon juice
+    A - 17 - combine
+flour
+    A - 68 - combine
+white sugar
+    A - 68 - combine
+brown sugar
+    A - 68 - combine
+powder
+    A - 68 - combine
+salt
+    A - 68 - combine
+butter
+    A - 85 - Blend
+fingertips
+    A - 85 - Blend
+mixture
+    A - 85 - Blend
+coarse meal
+    A - 85 - Blend
+water
+    A - 102 - Stir
+    P - 107 - combined
+peaches
+    A - 109 - Remove
+entire cobbler
+    A - 122 - Sprinkle
+sugar
+    A - 122 - Sprinkle
+cinnamon mixture
+    A - 122 - Sprinkle
+

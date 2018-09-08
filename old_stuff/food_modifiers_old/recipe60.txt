@@ -1,0 +1,27 @@
+flour
+sift [5]
+
+powder
+sift [5]
+
+salt
+sift [5]
+
+sugar
+sift [5]
+
+milk
+pour [24]
+
+egg
+pour [24]
+
+melted butter
+pour [24]
+
+batter
+scoop [53]
+
+pancake
+scoop [53]
+

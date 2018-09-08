@@ -1,0 +1,48 @@
+chicken broth
+    A - 0 - Whisk
+oyster sauce
+    A - 0 - Whisk
+soy sauce
+    A - 0 - Whisk
+fish sauce
+    A - 0 - Whisk
+white sugar
+    A - 0 - Whisk
+brown sugar
+    A - 0 - Whisk
+    P - 19 - blended
+oil
+chicken
+    A - 32 - Add
+shallots
+    A - 49 - Stir
+garlic
+    A - 49 - Stir
+juices
+    A - 60 - cooking
+sauce mixture
+    A - 86 - Add
+sauce
+    A - 99 - stir
+    A - 97 - cook
+    A - 86 - Add
+sauce
+    A - 110 - Pour
+sauce
+    A - 120 - stir
+    A - 118 - Cook
+sauce glazes
+    A - 133 - cook
+    A - 133 - cook
+meat
+    A - 133 - cook
+    A - 133 - cook
+basil
+    A - 150 - Stir
+basil
+    A - 156 - stir
+    A - 154 - Cook
+    P - 160 - wilted
+rice
+    A - 166 - Serve
+

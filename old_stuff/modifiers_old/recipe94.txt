@@ -1,0 +1,54 @@
+chicken
+    A - 15 - combine
+    A - 0 - Preheat
+carrots
+    A - 15 - combine
+    A - 0 - Preheat
+peas
+    A - 15 - combine
+    A - 0 - Preheat
+celery
+    A - 15 - combine
+    A - 0 - Preheat
+water
+    A - 25 - Add
+onions
+    A - 51 - cook
+butter
+    A - 51 - cook
+    P - 56 - soft
+flour
+    A - 60 - Stir
+salt
+    A - 60 - Stir
+pepper
+    A - 60 - Stir
+celery seed
+    A - 60 - Stir
+chicken broth
+    A - 72 - stir
+milk
+    A - 72 - stir
+chicken mixture
+    A - 92 - Place
+bottom pie crust
+    A - 92 - Place
+hot liquid mixture
+    A - 98 - Pour
+top crust
+    A - 102 - Cover
+excess dough
+    A - 110 - cut
+    A - 106 - seal
+    A - 102 - Cover
+steam
+    A - 122 - allow
+    A - 114 - Make
+pastry
+    A - 127 - Bake
+    P - 143 - brown
+    P - 147 - bubbly
+filling
+    A - 127 - Bake
+    P - 147 - bubbly
+

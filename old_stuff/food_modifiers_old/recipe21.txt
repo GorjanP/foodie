@@ -1,0 +1,51 @@
+cream
+Beat [0]
+
+metal
+Beat [0]
+
+electric mixer
+Beat [0]
+
+confectioners
+add [16]
+
+sugar
+add [16]
+
+vanilla extract
+add [16]
+
+cream
+beat [26]
+
+whipped cream
+Lift [35]
+
+whipped cream
+Spread [55]
+
+cookie
+Spread [55]
+
+cookies
+Press [66]
+
+whipped cream
+Spread [74]
+
+platter
+Spread [74]
+
+platter
+Assemble [89]
+
+whipped cream
+Assemble [89]
+
+whipped cream
+whipped [110]
+
+grated chocolate
+sprinkle [112]
+

@@ -1,0 +1,12 @@
+chicken
+Mix [0]
+
+grapes
+Mix [0]
+
+celery
+Mix [0]
+
+oranges
+Mix [0]
+

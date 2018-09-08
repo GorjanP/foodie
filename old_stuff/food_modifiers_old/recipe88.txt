@@ -1,0 +1,18 @@
+oil
+Preheat [0]
+
+olive oil
+Brush [11]
+
+garlic powder
+Sprinkle [17]
+
+Italian seasoning
+Sprinkle [17]
+
+salt
+Sprinkle [17]
+
+balsamic vinegar
+Brush [43]
+

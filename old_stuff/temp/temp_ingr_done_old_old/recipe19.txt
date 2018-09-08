@@ -1,0 +1,24 @@
+cheese
+shredded, processed
+-------
+cream
+condensed, undiluted
+-------
+hash
+frozen, brown, thawed
+-------
+mushroom soup
+condensed, undiluted
+-------
+onion
+chopped
+-------
+pepper
+
+-------
+potatoes
+frozen, brown, thawed
+-------
+salt
+
+-------

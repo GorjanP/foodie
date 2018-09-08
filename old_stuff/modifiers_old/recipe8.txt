@@ -1,0 +1,47 @@
+sliced onions
+    A - 0 - Place
+roast
+kosher salt
+black pepper
+roast
+onions
+onions
+    A - 39 - Place
+garlic
+    A - 39 - Place
+roast
+    A - 39 - Place
+red wine
+    A - 56 - mix
+tomatoes
+    A - 56 - mix
+beef broth
+    A - 56 - mix
+Worcestershire sauce
+    A - 56 - mix
+rosemary
+    A - 56 - mix
+oregano
+    A - 56 - mix
+basil
+    A - 56 - mix
+thyme
+    A - 56 - mix
+kosher salt
+    A - 56 - mix
+black pepper
+    A - 56 - mix
+wine mixture
+    A - 84 - pour
+    A - 56 - mix
+roast
+    A - 84 - pour
+    A - 56 - mix
+sauce
+    A - 115 - thicken
+tomato paste
+    A - 115 - thicken
+juices
+    A - 115 - thicken
+    P - 131 - combined
+

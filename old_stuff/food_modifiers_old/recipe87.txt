@@ -1,0 +1,45 @@
+salted boiling water
+pasta [13]
+
+angel hair pasta
+cook [9]
+
+heat oil
+oil [38]
+
+onions
+Saute [42]
+
+garlic
+Saute [42]
+
+tomatoes
+Stir [48]
+
+chicken
+Stir [48]
+
+basil
+Stir [48]
+
+salt
+Stir [48]
+
+hot pepper sauce
+Stir [48]
+
+mixture
+Simmer [72]
+
+tomatoes
+Simmer [72]
+
+sauce
+Toss [90]
+
+hot cooked angel hair pasta
+Toss [90]
+
+Parmesan cheese
+Serve [101]
+

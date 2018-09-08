@@ -1,0 +1,36 @@
+salted water
+Bring [0]
+
+ziti pasta
+Add [12]
+
+brown onion
+onion [35]
+
+ground beef
+onion [35]
+
+spaghetti sauce
+Add [42]
+
+Provolone cheese
+follows [74]
+
+sour cream
+follows [74]
+
+sauce mixture
+follows [74]
+
+mozzarella cheese
+follows [74]
+
+sauce mixture
+follows [74]
+
+grated Parmesan cheese
+grated [103]
+
+cheeses
+Bake [106]
+

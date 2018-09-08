@@ -1,0 +1,45 @@
+flour
+mix [7]
+
+salt
+mix [7]
+
+pepper
+mix [7]
+
+oregano
+mix [7]
+
+chicken pieces
+Coat [18]
+
+flour mixture
+Coat [18]
+
+butter
+melt [30]
+
+oil
+melt [30]
+
+chicken
+Place [38]
+
+chicken pieces
+Turn [48]
+
+mushrooms
+add [54]
+
+wine
+Pour [57]
+
+sherry
+Pour [57]
+
+chicken
+simmer [66]
+
+juices
+simmer [66]
+

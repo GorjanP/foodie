@@ -1,0 +1,21 @@
+blackberries
+    A - 19 - Combine
+sugar
+    A - 19 - Combine
+cinnamon
+    A - 19 - Combine
+nutmeg
+    A - 19 - Combine
+    P - 34 - blended
+cake mix
+    A - 49 - stir
+margarine
+    A - 49 - stir
+    P - 56 - crumbly
+berries
+    A - 58 - Sprinkle
+mixture
+    A - 66 - Bake
+    P - 75 - bubbly
+    P - 82 - brown
+

@@ -1,0 +1,42 @@
+-------------Distance 1-------------
+chicken
+    Mix
+    together
+    ,
+    grapes
+    ,
+    nuts
+grapes
+    chicken
+celery
+    Mix
+    ,
+    oranges
+oranges
+    celery
+    ,
+    and
+    dressing
+
+-------------Distance 2-------------
+chicken
+    ,
+    celery
+    .
+grapes
+    Mix
+    together
+    ,
+    ,
+    nuts
+celery
+    chicken
+    ,
+    ,
+    and
+    dressing
+    .
+oranges
+    Mix
+    ,
+

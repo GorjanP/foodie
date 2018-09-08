@@ -1,0 +1,39 @@
+ground beef
+combine [20]
+
+onion
+combine [20]
+
+celery
+combine [20]
+
+meat
+saute [29]
+
+onion
+saute [29]
+
+cook
+package [63]
+
+water
+drain [68]
+
+meat mixture
+stir [72]
+
+tomatoes
+stir [72]
+
+corn
+stir [72]
+
+taco sauce
+stir [72]
+
+taco seasoning mix
+stir [72]
+
+entire mixture
+place [94]
+

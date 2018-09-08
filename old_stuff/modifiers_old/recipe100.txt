@@ -1,0 +1,30 @@
+salted water
+    A - 0 - Bring
+pasta
+    A - 11 - Cook
+boiling water
+    A - 11 - Cook
+    P - 20 - cooked
+bite
+    A - 11 - Cook
+cold water
+    A - 35 - rinse
+    A - 33 - Drain
+pasta
+    A - 50 - Stir
+chicken
+    A - 50 - Stir
+bacon
+    A - 50 - Stir
+Muenster cheese
+    A - 50 - Stir
+celery
+    A - 50 - Stir
+pepper
+    A - 50 - Stir
+cherry tomatoes
+    A - 50 - Stir
+avocado
+    A - 50 - Stir
+    P - 73 - coated
+

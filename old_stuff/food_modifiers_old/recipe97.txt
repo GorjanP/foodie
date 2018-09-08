@@ -1,0 +1,78 @@
+salted water
+Bring [0]
+
+boiling water
+cook [11]
+
+butter
+Melt [27]
+
+olive oil
+Melt [27]
+
+shallots
+stir [46]
+
+garlic
+stir [46]
+
+red pepper flakes
+stir [46]
+
+hot butter
+stir [46]
+
+oil
+stir [46]
+
+shallots
+stir [46]
+
+Season shrimp
+pepper [79]
+
+kosher salt
+pepper [79]
+
+black pepper
+pepper [79]
+
+shrimp
+Remove [97]
+
+white wine
+Pour [105]
+
+lemon juice
+Pour [105]
+
+food
+bring [114]
+
+butter
+Melt [137]
+
+olive oil
+stir [144]
+
+butter mixture
+stir [144]
+
+shrimp
+Toss [159]
+
+parsley
+Toss [159]
+
+butter mixture
+Toss [159]
+
+salt
+Toss [159]
+
+black pepper
+Toss [159]
+
+olive oil
+teaspoon [184]
+

@@ -1,0 +1,151 @@
+-------------Distance 1-------------
+hash browns
+    .
+    Mix
+    ,
+    eggs
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+    .
+eggs
+    hash browns
+ham
+    hash browns
+Cheddar-Jack cheese
+    hash browns
+onion powder
+    hash browns
+salt
+    hash browns
+pepper
+    hash browns
+mixture
+    Pour
+bars
+    cutting
+    into
+
+-------------Distance 2-------------
+hash browns
+    Grease
+    Pour
+eggs
+    .
+    Mix
+    ,
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+    .
+ham
+    .
+    Mix
+    ,
+    eggs
+    ,
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+    .
+Cheddar-Jack cheese
+    .
+    Mix
+    ,
+    eggs
+    ,
+    ham
+    ,
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+    .
+onion powder
+    .
+    Mix
+    ,
+    eggs
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+    .
+salt
+    .
+    Mix
+    ,
+    eggs
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    ,
+    and
+    pepper
+    together
+    .
+pepper
+    .
+    Mix
+    ,
+    eggs
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    together
+    .
+mixture
+    .
+    dish
+    .
+bars
+    Cool
+    before
+

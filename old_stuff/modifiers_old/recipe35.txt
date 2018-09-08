@@ -1,0 +1,17 @@
+mangoes
+    A - 0 - Combine
+cream
+    A - 0 - Combine
+brown sugar
+    A - 0 - Combine
+corn syrup
+    A - 0 - Combine
+spiced rum
+    A - 29 - Stir
+salt
+    A - 29 - Stir
+mixture
+    A - 42 - Pour
+ice cream maker
+    A - 42 - Pour
+

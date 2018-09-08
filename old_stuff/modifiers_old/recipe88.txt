@@ -1,0 +1,13 @@
+oil
+    A - 0 - Preheat
+olive oil
+    A - 11 - Brush
+garlic powder
+    A - 16 - Sprinkle
+Italian seasoning
+    A - 16 - Sprinkle
+salt
+    A - 16 - Sprinkle
+balsamic vinegar
+    A - 40 - Brush
+

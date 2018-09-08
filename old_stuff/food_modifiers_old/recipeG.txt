@@ -1,0 +1,24 @@
+tomatoes
+mix [4]
+
+onion
+mix [4]
+
+basil
+mix [4]
+
+salt
+Season [14]
+
+pepper
+Season [14]
+
+balsamic vinegar
+Season [14]
+
+olive oil
+Season [14]
+
+fried chicken
+Spoon [29]
+

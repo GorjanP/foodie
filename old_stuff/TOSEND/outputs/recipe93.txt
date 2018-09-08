@@ -1,0 +1,127 @@
+-------------Distance 1-------------
+eggs
+    zucchini
+onion
+    zucchini
+flour
+    zucchini
+Parmesan cheese
+    zucchini
+mozzarella cheese
+    zucchini
+salt
+    zucchini
+oil
+    amount
+    of
+    skillet
+zucchini mixture
+    .
+    Drop
+    heaping
+    .
+
+-------------Distance 2-------------
+eggs
+    combine
+    the
+    ,
+    ,
+    onion
+    ,
+    flour
+    ,
+    Parmesan cheese
+    ,
+    mozzarella cheese
+    ,
+    and
+    salt
+onion
+    combine
+    the
+    ,
+    eggs
+    ,
+    ,
+    flour
+    ,
+    Parmesan cheese
+    ,
+    mozzarella cheese
+    ,
+    and
+    salt
+flour
+    combine
+    the
+    ,
+    eggs
+    ,
+    onion
+    ,
+    ,
+    Parmesan cheese
+    ,
+    mozzarella cheese
+    ,
+    and
+    salt
+Parmesan cheese
+    combine
+    the
+    ,
+    eggs
+    ,
+    onion
+    ,
+    flour
+    ,
+    ,
+    mozzarella cheese
+    ,
+    and
+    salt
+mozzarella cheese
+    combine
+    the
+    ,
+    eggs
+    ,
+    onion
+    ,
+    flour
+    ,
+    Parmesan cheese
+    ,
+    ,
+    and
+    salt
+salt
+    combine
+    the
+    ,
+    eggs
+    ,
+    onion
+    ,
+    flour
+    ,
+    Parmesan cheese
+    ,
+    mozzarella cheese
+    ,
+    and
+oil
+    Heat
+    a
+    small
+    in
+    a
+    heat
+zucchini mixture
+    Heat
+    by
+    tablespoonfuls
+    golden
+

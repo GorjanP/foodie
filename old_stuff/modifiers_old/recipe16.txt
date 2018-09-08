@@ -1,0 +1,34 @@
+eggs
+    A - 12 - Crack
+yolks intact
+    A - 22 - keep
+    A - 12 - Crack
+avocado
+    A - 26 - Arrange
+avocado
+    A - 26 - Arrange
+egg yolk
+    A - 47 - spoon
+avocado hole
+    A - 47 - spoon
+egg white
+    A - 55 - spooning
+    P - 61 - full
+egg yolk
+    A - 63 - Repeat
+egg white
+    A - 63 - Repeat
+avocado
+    A - 63 - Repeat
+filled avocado
+parsley
+sea salt
+pepper
+eggs
+    A - 95 - bake
+    A - 88 - baking
+bacon
+    A - 105 - Sprinkle
+avocado
+    A - 105 - Sprinkle
+

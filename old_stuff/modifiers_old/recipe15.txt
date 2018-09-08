@@ -1,0 +1,19 @@
+hash browns
+    A - 22 - Mix
+eggs
+    A - 22 - Mix
+ham
+    A - 22 - Mix
+Cheddar-Jack cheese
+    A - 22 - Mix
+onion powder
+    A - 22 - Mix
+salt
+    A - 22 - Mix
+pepper
+    A - 22 - Mix
+mixture
+    A - 39 - Pour
+bars
+    A - 76 - Cool
+

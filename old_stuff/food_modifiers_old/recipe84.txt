@@ -1,0 +1,42 @@
+garlic powder
+Sprinkle [14]
+
+chicken breast
+Sprinkle [14]
+
+salt
+Sprinkle [14]
+
+pepper
+Sprinkle [14]
+
+rosemary sprig
+Lay [30]
+
+chicken breast
+Lay [30]
+
+bacon
+Wrap [39]
+
+chicken
+Wrap [39]
+
+rosemary
+hold [46]
+
+bacon
+Secure [51]
+
+additional thick rosemary stem
+Secure [51]
+
+chicken breasts
+Cook [64]
+
+juices
+Cook [64]
+
+bacon
+combat [111]
+

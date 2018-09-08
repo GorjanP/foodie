@@ -1,0 +1,36 @@
+brown sugar
+Mix [19]
+
+butter
+Mix [19]
+
+eggs
+Mix [19]
+
+vanilla
+Mix [19]
+
+flour
+Stir [35]
+
+soda
+Stir [35]
+
+cinnamon
+Stir [35]
+
+cloves
+Stir [35]
+
+walnuts
+Stir [47]
+
+batter
+Spread [53]
+
+cloves
+Mix [92]
+
+zucchini bars
+Spread [100]
+

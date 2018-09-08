@@ -1,0 +1,39 @@
+oil
+Heat [0]
+
+sage
+Saute [10]
+
+parsley
+Saute [10]
+
+sun-dried tomatoes
+Saute [10]
+
+onion
+Saute [10]
+
+onion
+Saute [10]
+
+pork
+Mix [31]
+
+broth
+Stir [48]
+
+heavy cream
+Stir [48]
+
+salt
+Stir [48]
+
+pepper
+Stir [48]
+
+pork
+Reduce [70]
+
+sauce
+simmer [76]
+

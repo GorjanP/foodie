@@ -1,0 +1,51 @@
+eggs
+Crack [12]
+
+yolks intact
+keep [22]
+
+avocado
+Arrange [27]
+
+avocado
+Arrange [27]
+
+egg yolk
+spoon [48]
+
+avocado hole
+spoon [48]
+
+egg white
+Continue [57]
+
+egg yolk
+Repeat [67]
+
+egg white
+Repeat [67]
+
+avocado
+Repeat [67]
+
+filled avocado
+Season [80]
+
+parsley
+Season [80]
+
+sea salt
+Season [80]
+
+pepper
+Season [80]
+
+eggs
+bake [103]
+
+bacon
+Sprinkle [113]
+
+avocado
+Sprinkle [113]
+

@@ -1,0 +1,52 @@
+oil
+    A - 0 - Preheat
+steak
+salt
+pepper
+recipe
+    A - 44 - Let
+olive oil
+    A - 56 - Heat
+onion
+    A - 66 - Stir
+Italian salad
+    A - 83 - Pour
+red peppers
+    A - 96 - stir
+    A - 90 - bring
+    A - 83 - Pour
+mushrooms
+    A - 96 - stir
+    A - 90 - bring
+    A - 83 - Pour
+peppers
+    A - 109 - cook
+    A - 103 - Reduce
+vegetables
+    A - 120 - Remove
+red wine
+    A - 142 - add
+    A - 135 - Increase
+salad
+    A - 146 - Simmer
+wine
+    A - 146 - Simmer
+syrupy sauce
+    A - 146 - Simmer
+spinach
+    A - 166 - divide
+steak
+    A - 175 - slice
+grain
+    A - 175 - slice
+cooked vegetable mixture
+    A - 184 - Spoon
+spinach
+    A - 184 - Spoon
+sliced steak
+    A - 195 - place
+    A - 184 - Spoon
+red wine sauce
+blue cheese
+    A - 210 - sprinkle
+

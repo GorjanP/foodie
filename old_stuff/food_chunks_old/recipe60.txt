@@ -1,0 +1,9 @@
+flour
+powder
+salt
+sugar
+milk
+egg
+melted butter
+batter
+pancake

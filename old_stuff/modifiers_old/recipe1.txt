@@ -1,0 +1,28 @@
+olive oil
+eggs
+    A - 11 - Place
+bread crumbs
+    A - 11 - Place
+chicken
+    A - 21 - Dip
+eggs
+    A - 21 - Dip
+bread crumbs
+    A - 21 - Dip
+chicken
+    A - 33 - Place
+juices
+    A - 40 - fry
+    A - 33 - Place
+tomatoes
+    A - 58 - mix
+onion
+    A - 58 - mix
+basil
+    A - 58 - mix
+salt
+pepper
+balsamic vinegar
+olive oil
+fried chicken
+

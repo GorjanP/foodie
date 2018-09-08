@@ -1,0 +1,51 @@
+oil
+Heat [0]
+
+white wine
+Heat [0]
+
+chicken
+Add [16]
+
+chicken
+Remove [31]
+
+garlic
+Saute [39]
+
+drippings
+Saute [39]
+
+onion
+add [49]
+
+tomatoes
+Add [57]
+
+white wine
+add [68]
+
+thyme
+Add [79]
+
+basil
+Add [79]
+
+chicken
+Return [90]
+
+chicken
+Cook [97]
+
+olives
+Add [113]
+
+parsley
+Add [113]
+
+salt
+Season [127]
+
+pepper
+Season [127]
+

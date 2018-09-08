@@ -1,0 +1,42 @@
+Grease
+flour
+butter
+    A - 25 - melt
+sugar
+    A - 35 - stir
+    A - 30 - Remove
+eggs
+    A - 35 - stir
+    A - 30 - Remove
+vanilla
+    A - 35 - stir
+    A - 30 - Remove
+cocoa
+    A - 46 - Beat
+flour
+    A - 46 - Beat
+salt
+    A - 46 - Beat
+powder
+    A - 46 - Beat
+batter
+    A - 62 - Spread
+softened butter
+    A - 86 - Combine
+    A - 83 - Make
+cocoa
+    A - 86 - Combine
+    A - 83 - Make
+honey
+    A - 86 - Combine
+    A - 83 - Make
+vanilla extract
+    A - 86 - Combine
+    A - 83 - Make
+confectioners
+    A - 86 - Combine
+    A - 83 - Make
+sugar
+    A - 86 - Combine
+    A - 83 - Make
+

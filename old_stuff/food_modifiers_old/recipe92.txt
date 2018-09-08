@@ -1,0 +1,39 @@
+egg
+Place [0]
+
+cold water
+cover [6]
+
+water
+Bring [11]
+
+eggs
+let [24]
+
+hot water
+stand [26]
+
+hot water
+Remove [36]
+
+chopped eggs
+Place [47]
+
+mayonnaise
+stir [56]
+
+mustard
+stir [56]
+
+green onion
+stir [56]
+
+salt
+Season [67]
+
+pepper
+Season [67]
+
+favourite bread
+serve [76]
+

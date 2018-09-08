@@ -1,0 +1,25 @@
+olive oil
+    A - 12 - Heat
+garlic
+    A - 12 - Heat
+    P - 24 - warmed
+garlic
+    A - 31 - Transfer
+oil
+    A - 31 - Transfer
+bread crumbs
+    A - 40 - Combine
+Parmesan cheese
+    A - 40 - Combine
+chicken breasts
+    A - 50 - Dip
+olive oil-garlic mixture
+    A - 50 - Dip
+bread crumb mixture
+    A - 58 - transfer
+    A - 50 - Dip
+coated chicken
+    A - 67 - Transfer
+juices
+    A - 75 - Bake
+

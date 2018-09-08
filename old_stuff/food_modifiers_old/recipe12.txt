@@ -1,0 +1,51 @@
+Heat oil
+heat [8]
+
+spaghetti
+add [9]
+
+toast
+add [9]
+
+garlic
+Stir [26]
+
+spaghetti pieces
+Stir [26]
+
+broth
+Pour [37]
+
+spaghetti
+Stir [49]
+
+broth
+Stir [49]
+
+liquid
+Stir [49]
+
+stock
+Repeat [65]
+
+noodles
+absorbed [75]
+
+Season spaghetti
+spaghetti [92]
+
+salt
+spaghetti [92]
+
+red pepper flakes
+spaghetti [92]
+
+Parmigiano-Reggiano cheese
+Stir [105]
+
+parsley
+Stir [105]
+
+spaghetti
+Stir [105]
+

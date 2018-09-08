@@ -1,0 +1,21 @@
+crushed onions
+    A - 12 - Spread
+beaten egg
+    A - 19 - Pour
+chicken
+    A - 27 - Dip
+beaten egg
+    A - 27 - Dip
+crushed onions
+    A - 33 - press
+    A - 27 - Dip
+chicken
+    A - 38 - tap
+breaded chicken
+    A - 47 - Put
+chicken
+    A - 54 - Bake
+    P - 59 - pink
+juices
+    A - 54 - Bake
+

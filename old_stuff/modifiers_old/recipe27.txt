@@ -1,0 +1,39 @@
+lime sour cream
+    A - 1 - prepare
+sour cream
+    A - 4 - mix
+    A - 1 - prepare
+lime juice
+    A - 4 - mix
+    A - 1 - prepare
+salt
+    A - 4 - mix
+    A - 1 - prepare
+olive oil
+    A - 28 - Heat
+green onions
+    A - 40 - Cook
+    P - 43 - softened
+garlic
+    A - 49 - Stir
+cumin
+    A - 49 - Stir
+black beans
+    A - 77 - Stir
+salt
+pepper
+sweet potatoes
+    A - 95 - Mix
+egg
+    A - 95 - Mix
+bread crumbs
+    A - 95 - Mix
+oil
+    A - 135 - baking
+bean patties
+    A - 142 - Place
+cakes
+    A - 155 - Turn
+lime sour cream
+    A - 169 - Serve
+

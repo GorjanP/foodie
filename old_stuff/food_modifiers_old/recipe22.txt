@@ -1,0 +1,27 @@
+Cheddar cheese
+Mix [0]
+
+onion
+Mix [0]
+
+eggs
+Stir [13]
+
+biscuit mix
+Stir [13]
+
+zucchini mixture
+Stir [13]
+
+Heat vegetable oil
+oil [28]
+
+batter
+Scoop [38]
+
+pancakes
+cook [47]
+
+batter
+Repeat [60]
+

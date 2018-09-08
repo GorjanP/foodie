@@ -1,0 +1,39 @@
+soy sauce
+Place [0]
+
+olive oil
+Place [0]
+
+lemon juice
+Place [0]
+
+Worcestershire sauce
+Place [0]
+
+garlic powder
+Place [0]
+
+basil
+Place [0]
+
+parsley
+Place [0]
+
+pepper
+Place [0]
+
+hot pepper sauce
+Add [27]
+
+garlic
+Add [27]
+
+high speed
+Blend [37]
+
+meat
+Pour [48]
+
+meat
+Cook [66]
+

@@ -1,0 +1,48 @@
+olive oil
+Coat [12]
+
+garlic
+sprinkle [26]
+
+hot red pepper flakes
+sprinkle [26]
+
+chicken breasts
+Arrange [35]
+
+marinara sauce
+pour [46]
+
+chicken
+pour [46]
+
+basil
+Sprinkle [52]
+
+marinara sauce
+Sprinkle [52]
+
+mozzarella cheese
+Sprinkle [52]
+
+Parmesan cheese
+Sprinkle [52]
+
+mozzarella cheese
+top [79]
+
+Parmesan cheese
+top [79]
+
+cheese
+Bake [90]
+
+chicken
+Bake [90]
+
+chicken breasts
+Bake [90]
+
+chicken breast
+read [142]
+

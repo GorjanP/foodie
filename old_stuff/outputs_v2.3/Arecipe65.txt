@@ -1,0 +1,66 @@
+-------------Distance 1-------------
+chicken
+    Place
+    cooker
+    .
+barbecue sauce
+    mix
+    the
+    ,
+    Italian salad
+Italian salad
+    barbecue sauce
+    dressing
+    ,
+    brown sugar
+    ,
+    and
+    Worcestershire sauce
+brown sugar
+    Italian salad
+Worcestershire sauce
+    Italian salad
+chicken
+    Pour
+    over
+    the
+
+-------------Distance 2-------------
+chicken
+    in
+    a
+    slow
+    mix
+barbecue sauce
+    .
+    bowl
+    ,
+    dressing
+    ,
+    brown sugar
+    ,
+    and
+    Worcestershire sauce
+    .
+Italian salad
+    mix
+    the
+    ,
+brown sugar
+    barbecue sauce
+    dressing
+    ,
+    ,
+    and
+    Worcestershire sauce
+Worcestershire sauce
+    barbecue sauce
+    dressing
+    ,
+    brown sugar
+    ,
+    and
+chicken
+    .
+    .
+

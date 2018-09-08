@@ -1,0 +1,160 @@
+-------------Distance 1-------------
+chili powder
+    mix
+    ,
+    garlic powder
+    ,
+    onion powder
+    ,
+    red pepper flakes
+    ,
+    oregano
+    ,
+    paprika
+    ,
+    cumin
+    ,
+    salt
+    and
+    pepper
+garlic powder
+    chili powder
+onion powder
+    chili powder
+red pepper flakes
+    chili powder
+oregano
+    chili powder
+cumin
+    chili powder
+salt
+    chili powder
+pepper
+    chili powder
+
+-------------Distance 2-------------
+chili powder
+    bowl
+    ,
+    together
+    .
+garlic powder
+    mix
+    ,
+    ,
+    onion powder
+    ,
+    red pepper flakes
+    ,
+    oregano
+    ,
+    paprika
+    ,
+    cumin
+    ,
+    salt
+    and
+    pepper
+onion powder
+    mix
+    ,
+    garlic powder
+    ,
+    ,
+    red pepper flakes
+    ,
+    oregano
+    ,
+    paprika
+    ,
+    cumin
+    ,
+    salt
+    and
+    pepper
+red pepper flakes
+    mix
+    ,
+    garlic powder
+    ,
+    onion powder
+    ,
+    ,
+    oregano
+    ,
+    paprika
+    ,
+    cumin
+    ,
+    salt
+    and
+    pepper
+oregano
+    mix
+    ,
+    garlic powder
+    ,
+    onion powder
+    ,
+    red pepper flakes
+    ,
+    ,
+    paprika
+    ,
+    cumin
+    ,
+    salt
+    and
+    pepper
+cumin
+    mix
+    ,
+    garlic powder
+    ,
+    onion powder
+    ,
+    red pepper flakes
+    ,
+    oregano
+    ,
+    paprika
+    ,
+    ,
+    salt
+    and
+    pepper
+salt
+    mix
+    ,
+    garlic powder
+    ,
+    onion powder
+    ,
+    red pepper flakes
+    ,
+    oregano
+    ,
+    paprika
+    ,
+    cumin
+    ,
+    and
+    pepper
+pepper
+    mix
+    ,
+    garlic powder
+    ,
+    onion powder
+    ,
+    red pepper flakes
+    ,
+    oregano
+    ,
+    paprika
+    ,
+    cumin
+    ,
+    salt
+    and
+

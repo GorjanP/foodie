@@ -1,0 +1,21 @@
+water
+    A - 0 - Stir
+    P - 14 - tender
+olive oil
+    A - 20 - Heat
+eggs
+    A - 29 - cook
+    A - 20 - Heat
+seasoned salt
+    A - 29 - cook
+    A - 20 - Heat
+pepper
+    A - 29 - cook
+    A - 20 - Heat
+eggs
+    A - 41 - Combine
+avocado
+    A - 41 - Combine
+feta cheese
+    A - 41 - Combine
+

@@ -1,0 +1,24 @@
+mangoes
+Combine [0]
+
+cream
+Combine [0]
+
+brown sugar
+Combine [0]
+
+corn syrup
+Combine [0]
+
+spiced rum
+Stir [31]
+
+salt
+Stir [31]
+
+mixture
+Pour [45]
+
+ice cream maker
+Pour [45]
+

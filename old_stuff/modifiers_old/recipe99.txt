@@ -1,0 +1,40 @@
+Heat oil
+onion
+    A - 10 - stir
+    A - 8 - cook
+garlic
+    A - 10 - stir
+    A - 8 - cook
+    P - 16 - browned
+onion mixture
+    A - 22 - Mix
+vegetable broth
+    A - 27 - cover
+    A - 22 - Mix
+cumin
+    A - 27 - cover
+    A - 22 - Mix
+cayenne pepper
+    A - 27 - cover
+    A - 22 - Mix
+salt
+    A - 27 - cover
+    A - 22 - Mix
+pepper
+    A - 27 - cover
+    A - 22 - Mix
+mixture
+    A - 42 - Bring
+broth
+    A - 55 - simmer
+    A - 51 - reduce
+    A - 49 - Cover
+    P - 63 - absorbed
+frozen corn
+    A - 69 - Stir
+black beans
+    A - 87 - mix
+    A - 78 - simmer
+    A - 78 - simmer
+    A - 69 - Stir
+

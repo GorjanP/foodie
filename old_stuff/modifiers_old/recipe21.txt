@@ -1,0 +1,36 @@
+cream
+    A - 0 - Beat
+metal
+    A - 0 - Beat
+electric mixer
+    A - 0 - Beat
+confectioners
+    A - 15 - add
+sugar
+    A - 15 - add
+vanilla extract
+    A - 15 - add
+cream
+    A - 24 - beat
+    A - 15 - add
+whipped cream
+    A - 36 - whisk
+    A - 32 - Lift
+whipped cream
+    A - 52 - Spread
+cookie
+    A - 52 - Spread
+cookies
+    A - 62 - Press
+whipped cream
+    A - 70 - Spread
+platter
+    A - 70 - Spread
+platter
+    A - 84 - Assemble
+whipped cream
+    A - 84 - Assemble
+whipped cream
+grated chocolate
+    A - 105 - sprinkle
+

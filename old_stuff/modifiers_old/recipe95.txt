@@ -1,0 +1,32 @@
+chicken breasts
+    A - 0 - Place
+Dust
+flour
+butter
+    A - 25 - Melt
+    P - 35 - bubbling
+chicken breasts
+    A - 37 - Saute
+    P - 41 - browned
+chicken stock
+    A - 49 - Add
+lemon juice
+    A - 49 - Add
+basil
+    A - 49 - Add
+lemon zest
+    A - 49 - Add
+chicken
+    A - 61 - simmer
+    A - 59 - Cover
+    P - 67 - pink
+chicken
+    A - 76 - Transfer
+warm platter
+    A - 76 - Transfer
+liquid
+    A - 89 - remaining
+    P - 98 - reduced
+sauce
+chicken
+

@@ -1,0 +1,57 @@
+salted water
+Bring [0]
+
+linguini pasta
+Add [12]
+
+chicken
+place [33]
+
+Cajun seasoning
+place [33]
+
+chicken
+saute [55]
+
+butter
+saute [55]
+
+juices
+saute [55]
+
+peppers
+Add [74]
+
+sliced mushrooms
+Add [74]
+
+green onions
+Add [74]
+
+heavy cream
+stir [98]
+
+sauce
+Season [104]
+
+basil
+Season [104]
+
+lemon pepper
+Season [104]
+
+salt
+Season [104]
+
+garlic powder
+Season [104]
+
+ground black pepper
+Season [104]
+
+sauce
+toss [130]
+
+grated Parmesan cheese
+Sprinkle [135]
+

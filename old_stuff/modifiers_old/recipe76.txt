@@ -1,0 +1,39 @@
+aluminum foil
+    A - 7 - Spray
+bananas
+    A - 16 - wrap
+    A - 7 - Spray
+peel
+    A - 23 - Slice
+banana
+    A - 23 - Slice
+banana
+    A - 23 - Slice
+bananas
+peel
+    A - 51 - like
+banana
+    A - 66 - open
+chocolate chips
+    A - 73 - place
+    A - 66 - open
+peel
+    A - 73 - place
+    A - 66 - open
+banana
+    A - 73 - place
+    A - 66 - open
+chocolate chips
+bananas
+    A - 97 - Wrap
+aluminum foil
+    A - 97 - Wrap
+coals
+    A - 104 - place
+    A - 97 - Wrap
+bananas
+    A - 133 - Unwrap
+peels
+    A - 136 - open
+    A - 133 - Unwrap
+

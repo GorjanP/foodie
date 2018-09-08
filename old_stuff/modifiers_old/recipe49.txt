@@ -1,0 +1,20 @@
+mayonnaise
+    A - 16 - mix
+Parmesan cheese
+    A - 16 - mix
+garlic powder
+    A - 16 - mix
+bread crumbs
+    A - 25 - Place
+chicken
+    A - 32 - Dip
+mayonnaise mixture
+    A - 32 - Dip
+bread crumbs
+    A - 32 - Dip
+coated chicken
+    A - 45 - Arrange
+chicken juices
+    A - 52 - Bake
+    P - 69 - brown
+

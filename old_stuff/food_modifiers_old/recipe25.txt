@@ -1,0 +1,72 @@
+oil
+Preheat [0]
+
+steak
+Season [14]
+
+salt
+Season [14]
+
+pepper
+Season [14]
+
+recipe
+Let [44]
+
+olive oil
+Heat [56]
+
+onion
+Stir [67]
+
+Italian salad
+Pour [84]
+
+red peppers
+stir [98]
+
+mushrooms
+stir [98]
+
+peppers
+cook [112]
+
+vegetables
+Remove [123]
+
+red wine
+add [145]
+
+salad
+Simmer [150]
+
+wine
+Simmer [150]
+
+syrupy sauce
+Simmer [150]
+
+spinach
+divide [171]
+
+steak
+slice [180]
+
+grain
+slice [180]
+
+cooked vegetable mixture
+Spoon [189]
+
+spinach
+Spoon [189]
+
+sliced steak
+place [202]
+
+red wine sauce
+sprinkle [221]
+
+blue cheese
+sprinkle [220]
+

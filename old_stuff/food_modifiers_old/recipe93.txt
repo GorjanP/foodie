@@ -1,0 +1,24 @@
+eggs
+combine [5]
+
+onion
+combine [5]
+
+flour
+combine [5]
+
+Parmesan cheese
+combine [5]
+
+mozzarella cheese
+combine [5]
+
+salt
+combine [5]
+
+oil
+Heat [32]
+
+zucchini mixture
+Drop [45]
+

@@ -1,0 +1,96 @@
+oil
+Whisk [0]
+
+salt
+Whisk [0]
+
+pepper
+chipotle [7]
+
+cayenne pepper
+chipotle [7]
+
+black pepper
+chipotle [7]
+
+garlic
+chipotle [7]
+
+chicken breasts
+Place [25]
+
+plastic wrap
+Cover [36]
+
+sugar
+Spread [49]
+
+sugar
+watch [64]
+
+sugar
+turn [83]
+
+sugar
+remove [116]
+
+vinegar
+Pour [120]
+
+sugar
+stir [124]
+
+blueberries
+add [135]
+
+sugar-vinegar mixture
+add [135]
+
+blueberries
+simmer [153]
+
+mixture
+soften [156]
+
+sauce
+simmer [182]
+
+splash
+add [193]
+
+water
+add [193]
+
+salt
+Stir [199]
+
+pepper
+Stir [199]
+
+berries
+Strain [216]
+
+juice
+juice [228]
+
+oil
+Preheat [234]
+
+chicken
+Drain [247]
+
+chicken breasts
+Place [253]
+
+juices
+Cook [260]
+
+chicken
+Transfer [300]
+
+blueberry sauce
+Serve [313]
+
+sauce
+Serve [313]
+

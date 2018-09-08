@@ -1,0 +1,45 @@
+pork chops
+pan [27]
+
+salt
+pan [27]
+
+black pepper
+pan [27]
+
+tomato slice
+top [28]
+
+basil
+Divide [35]
+
+oregano
+Divide [35]
+
+garlic
+Divide [35]
+
+pork chops
+Divide [35]
+
+olive oil
+Divide [35]
+
+aluminum foil
+Cover [54]
+
+pork
+Cook [61]
+
+pork
+top [106]
+
+mozzarella cheese
+chop [109]
+
+aluminum foil
+replace [117]
+
+cheese
+wait [126]
+

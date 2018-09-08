@@ -1,0 +1,47 @@
+muffin liners
+flour
+    A - 20 - Combine
+sugar
+    A - 20 - Combine
+salt
+    A - 20 - Combine
+powder
+    A - 20 - Combine
+vegetable oil
+    A - 34 - Place
+egg
+    A - 43 - add
+    A - 34 - Place
+milk
+    A - 43 - add
+    A - 34 - Place
+flour mixture
+    A - 54 - Mix
+blueberries
+    A - 59 - Fold
+muffin
+    A - 63 - Fill
+crumb
+    A - 72 - sprinkle
+    A - 63 - Fill
+mixture
+    A - 72 - sprinkle
+    A - 63 - Fill
+Crumb Topping
+    A - 79 - Make
+sugar
+    A - 82 - Mix
+    A - 79 - Make
+flour
+    A - 82 - Mix
+    A - 79 - Make
+butter
+    A - 82 - Mix
+    A - 79 - Make
+cinnamon
+    A - 82 - Mix
+    A - 79 - Make
+muffins
+    A - 106 - sprinkle
+    A - 101 - Mix
+

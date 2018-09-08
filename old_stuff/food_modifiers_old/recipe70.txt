@@ -1,0 +1,24 @@
+gas
+Prepare [0]
+
+beer
+add [33]
+
+butter
+add [33]
+
+onions
+add [33]
+
+beer
+simmer [52]
+
+onions
+simmer [52]
+
+onions
+Serve [58]
+
+bun
+Serve [58]
+

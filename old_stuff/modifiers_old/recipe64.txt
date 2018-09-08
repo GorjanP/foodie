@@ -1,0 +1,23 @@
+bacon
+    A - 0 - Place
+bacon
+    A - 23 - Drain
+cucumber
+    A - 29 - Stir
+tomatoes
+    A - 29 - Stir
+rice vinegar
+    A - 29 - Stir
+salt
+    A - 29 - Stir
+pepper
+    A - 29 - Stir
+bacon
+    A - 46 - stir
+avocado
+    A - 46 - stir
+green onions
+    A - 46 - stir
+cucumber mixture
+    A - 46 - stir
+

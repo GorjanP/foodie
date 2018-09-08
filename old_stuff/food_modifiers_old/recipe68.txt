@@ -1,0 +1,33 @@
+egg
+beat [5]
+
+water
+beat [5]
+
+butter
+Melt [10]
+
+egg
+Add [21]
+
+Heat oil
+add [47]
+
+onion
+add [46]
+
+rice
+add [54]
+
+soy sauce
+add [54]
+
+pepper
+add [54]
+
+chicken
+add [54]
+
+egg
+stir [73]
+

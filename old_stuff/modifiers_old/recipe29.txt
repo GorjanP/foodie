@@ -1,0 +1,27 @@
+Grease
+flour
+flour
+    A - 22 - Sift
+salt
+    A - 22 - Sift
+powder
+    A - 22 - Sift
+soda
+    A - 22 - Sift
+cinnamon
+    A - 22 - Sift
+eggs
+    A - 39 - Beat
+oil
+    A - 39 - Beat
+vanilla
+    A - 39 - Beat
+sugar
+    A - 39 - Beat
+creamed mixture
+    A - 54 - Add
+batter
+    A - 74 - Pour
+bread
+    A - 107 - Remove
+

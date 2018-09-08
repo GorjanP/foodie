@@ -1,0 +1,34 @@
+butter
+    A - 0 - Melt
+onion
+    A - 14 - stir
+    A - 12 - cook
+    A - 0 - Melt
+melted butter
+    A - 14 - stir
+    A - 12 - cook
+    A - 0 - Melt
+    P - 20 - browned
+bread crumbs
+    A - 27 - Mix
+water
+    A - 27 - Mix
+cooked onion
+    A - 46 - Stir
+ground beef
+    A - 46 - Stir
+ground pork
+    A - 46 - Stir
+salt
+    A - 46 - Stir
+white pepper
+    A - 46 - Stir
+sugar
+    A - 46 - Stir
+bread crumb mixture
+    A - 46 - Stir
+    P - 63 - mixed
+mixture
+butter
+    A - 74 - Melt
+

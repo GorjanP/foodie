@@ -1,0 +1,127 @@
+-------------Distance 1-------------
+beef
+    ,
+    egg
+    ,
+    onion
+    ,
+    milk
+    and
+    bread
+    OR
+egg
+    beef
+onion
+    beef
+milk
+    beef
+bread
+    beef
+salt
+    Season
+    with
+    and
+    pepper
+pepper
+    salt
+loaf
+    pan
+loaf
+    greased
+    into
+    a
+    and
+    place
+    a
+brown sugar
+    combine
+    the
+    ,
+    mustard
+    and
+    ketchup
+mustard
+    brown sugar
+ketchup
+    brown sugar
+
+-------------Distance 2-------------
+beef
+    combine
+    the
+egg
+    ,
+    ,
+    onion
+    ,
+    milk
+    and
+    bread
+    OR
+onion
+    ,
+    egg
+    ,
+    ,
+    milk
+    and
+    bread
+    OR
+milk
+    ,
+    egg
+    ,
+    onion
+    ,
+    and
+    bread
+    OR
+bread
+    ,
+    egg
+    ,
+    onion
+    ,
+    milk
+    and
+    OR
+salt
+    .
+    taste
+    greased
+    .
+pepper
+    Season
+    with
+    and
+loaf
+    greased
+    5x9
+    inch
+    ,
+    form
+loaf
+    Season
+    a
+    lightly
+    pan
+    in
+    greased
+brown sugar
+    .
+    bowl
+    ,
+    .
+mustard
+    combine
+    the
+    ,
+    and
+    ketchup
+ketchup
+    combine
+    the
+    ,
+    mustard
+    and
+

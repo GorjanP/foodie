@@ -1,0 +1,29 @@
+cold water
+    A - 8 - combine
+sugar
+    A - 8 - combine
+soy sauce
+    A - 8 - combine
+vinegar
+    A - 8 - combine
+garlic
+    A - 8 - combine
+ground black pepper
+    A - 8 - combine
+sauce
+    A - 27 - simmer
+    A - 26 - Let
+chicken pieces
+    A - 50 - Place
+chicken
+    A - 61 - Brush
+sauce
+    A - 61 - Brush
+juices
+    A - 89 - bake
+    A - 84 - Turn
+sauce
+    A - 104 - Brush
+cooking
+    A - 104 - Brush
+

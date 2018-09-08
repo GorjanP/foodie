@@ -1,0 +1,30 @@
+water
+Whisk [0]
+
+vinegar
+Whisk [0]
+
+oil
+Whisk [0]
+
+sugar
+Whisk [0]
+
+salt
+Whisk [0]
+
+pepper
+Whisk [0]
+
+cucumbers
+add [21]
+
+tomatoes
+add [21]
+
+onion
+add [21]
+
+plastic wrap
+Cover [33]
+

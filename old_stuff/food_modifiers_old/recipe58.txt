@@ -1,0 +1,39 @@
+spinach
+Place [20]
+
+water
+Place [20]
+
+spinach
+cook [42]
+
+flour
+mix [67]
+
+salt
+mix [67]
+
+powder
+mix [67]
+
+eggs
+Stir [75]
+
+milk
+Stir [75]
+
+butter
+Stir [75]
+
+spinach
+Mix [83]
+
+onion
+Mix [83]
+
+mozzarella cheese
+Mix [83]
+
+mixture
+Transfer [92]
+

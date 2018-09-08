@@ -1,0 +1,48 @@
+butter
+Put [14]
+
+butter
+remove [37]
+
+flour
+Whisk [41]
+
+sugar
+Whisk [41]
+
+powder
+Whisk [41]
+
+salt
+Whisk [41]
+
+milk
+Add [57]
+
+smooth batter
+form [62]
+
+batter
+Pour [67]
+
+fruit
+scatter [73]
+
+batter
+scatter [73]
+
+sugar
+sugar [86]
+
+batter browns
+Bake [87]
+
+dollop
+Serve [100]
+
+whipped cream
+Serve [100]
+
+vanilla ice cream
+Serve [100]
+

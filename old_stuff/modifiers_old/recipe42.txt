@@ -1,0 +1,27 @@
+olive oil
+    A - 5 - stir
+ranch
+    A - 5 - stir
+Worcestershire sauce
+    A - 5 - stir
+rosemary
+    A - 5 - stir
+salt
+    A - 5 - stir
+lemon juice
+    A - 5 - stir
+white vinegar
+    A - 5 - stir
+pepper
+    A - 5 - stir
+sugar
+    A - 5 - stir
+chicken
+    A - 34 - Place
+chicken
+    A - 62 - Thread
+oil
+chicken
+    P - 91 - pink
+juices
+

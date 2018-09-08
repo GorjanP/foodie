@@ -1,0 +1,60 @@
+mix
+together [27]
+
+mix
+mix [25]
+
+salt
+mix [25]
+
+pepper
+mix [25]
+
+mix
+mix [40]
+
+milk
+mix [39]
+
+dough
+Roll [55]
+
+bacon
+Place [78]
+
+onion
+Place [78]
+
+bacon
+cook [93]
+
+bacon
+crumble [103]
+
+bacon
+Sprinkle [106]
+
+onion
+Sprinkle [106]
+
+Cheddar cheese
+Sprinkle [106]
+
+eggs
+beat [124]
+
+salt
+beat [124]
+
+hot pepper sauce
+beat [124]
+
+hot evaporated milk
+stir [137]
+
+pie shell
+Pour [143]
+
+quiche
+Do [183]
+

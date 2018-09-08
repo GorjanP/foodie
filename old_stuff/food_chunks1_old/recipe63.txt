@@ -1,0 +1,11 @@
+beans
+cucumbers
+tomatoes
+red onion
+garlic
+olives
+cheese
+salad dressing
+lemon juice
+garlic salt
+pepper

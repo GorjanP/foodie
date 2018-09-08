@@ -1,0 +1,28 @@
+melted butter
+    A - 24 - stir
+sugar
+    A - 24 - stir
+eggs
+    A - 31 - Add
+vanilla
+    A - 31 - Add
+flour
+    A - 40 - Combine
+soda
+    A - 40 - Combine
+salt
+    A - 40 - Combine
+butter mixture
+    A - 49 - stir
+    A - 40 - Combine
+    P - 54 - smooth
+sour cream
+    A - 58 - fold
+walnuts
+    A - 58 - fold
+bananas
+    A - 58 - fold
+loaf
+    A - 74 - Bake
+Cool loaf
+

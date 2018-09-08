@@ -1,0 +1,22 @@
+gas
+    A - 0 - Prepare
+beer
+    A - 33 - add
+    A - 28 - Place
+butter
+    A - 33 - add
+    A - 28 - Place
+onions
+    A - 33 - add
+    A - 28 - Place
+beer
+    A - 52 - simmer
+    A - 49 - allow
+onions
+    A - 52 - simmer
+    A - 49 - allow
+onions
+    A - 58 - Serve
+bun
+    A - 58 - Serve
+

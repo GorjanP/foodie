@@ -1,0 +1,61 @@
+salted water
+    A - 0 - Bring
+boiling water
+    A - 10 - cook
+    A - 0 - Bring
+    P - 16 - tender
+butter
+    A - 25 - Melt
+olive oil
+    A - 25 - Melt
+shallots
+    A - 43 - stir
+    A - 41 - Cook
+garlic
+    A - 43 - stir
+    A - 41 - Cook
+red pepper flakes
+    A - 43 - stir
+    A - 41 - Cook
+hot butter
+    A - 43 - stir
+    A - 41 - Cook
+oil
+    A - 43 - stir
+    A - 41 - Cook
+shallots
+    A - 43 - stir
+    A - 41 - Cook
+Season shrimp
+kosher salt
+black pepper
+shrimp
+    A - 88 - Remove
+white wine
+    A - 96 - Pour
+lemon juice
+    A - 96 - Pour
+food
+    A - 103 - bring
+    A - 96 - Pour
+butter
+    A - 126 - Melt
+olive oil
+    A - 133 - stir
+    A - 126 - Melt
+butter mixture
+    A - 133 - stir
+    A - 126 - Melt
+shrimp
+    A - 146 - Toss
+parsley
+    A - 146 - Toss
+butter mixture
+    A - 146 - Toss
+    P - 157 - coated
+salt
+    A - 146 - Toss
+black pepper
+    A - 146 - Toss
+olive oil
+

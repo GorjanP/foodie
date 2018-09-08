@@ -1,0 +1,17 @@
+eggs
+    A - 5 - combine
+onion
+    A - 5 - combine
+flour
+    A - 5 - combine
+Parmesan cheese
+    A - 5 - combine
+mozzarella cheese
+    A - 5 - combine
+salt
+    A - 5 - combine
+oil
+    A - 30 - Heat
+zucchini mixture
+    A - 43 - Drop
+

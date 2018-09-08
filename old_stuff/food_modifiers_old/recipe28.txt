@@ -1,0 +1,66 @@
+white wine
+Stir [0]
+
+lime juice
+Stir [0]
+
+water
+Stir [0]
+
+olive oil
+Stir [0]
+
+thyme
+Stir [0]
+
+black pepper
+Stir [0]
+
+pork loin
+add [36]
+
+air
+squeeze [40]
+
+pork loin
+Assure [50]
+
+Marinate pork
+pork [67]
+
+pork loin
+Remove [82]
+
+excess liquid
+remove [90]
+
+herbs
+allow [94]
+
+meat
+allow [94]
+
+pork loin
+Sear [103]
+
+chicken broth
+Pour [129]
+
+pork loin
+Pour [129]
+
+potatoes
+Arrange [137]
+
+carrots
+Arrange [137]
+
+onion
+Arrange [137]
+
+meat
+Arrange [137]
+
+meat
+Cook [153]
+

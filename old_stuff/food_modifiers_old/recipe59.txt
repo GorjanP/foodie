@@ -1,0 +1,39 @@
+butter
+Preheat [0]
+
+blueberries
+Stir [14]
+
+sugar
+Stir [14]
+
+lemon juice
+Stir [14]
+
+mixture
+Cook [32]
+
+blueberries
+Stir [45]
+
+lemon zest
+Stir [45]
+
+flour
+Stir [58]
+
+sugar
+Stir [58]
+
+powder
+Stir [58]
+
+salt
+Stir [58]
+
+butter
+stir [75]
+
+hot berry mixture
+Drop [82]
+

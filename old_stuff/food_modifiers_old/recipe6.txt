@@ -1,0 +1,48 @@
+Grease
+Grease [13]
+
+paper muffin liners
+Grease [13]
+
+flour
+Combine [24]
+
+sugar
+Combine [24]
+
+soda
+Combine [24]
+
+cinnamon
+Combine [24]
+
+salt
+Combine [24]
+
+egg
+Mix [41]
+
+oil
+Mix [41]
+
+milk
+Mix [41]
+
+lemon juice
+Mix [41]
+
+vanilla extract
+Mix [41]
+
+chocolate chips
+Fold [66]
+
+walnuts
+Fold [66]
+
+prepared muffin
+Fill [76]
+
+muffin
+Bake [83]
+

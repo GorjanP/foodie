@@ -1,0 +1,42 @@
+Season salmon fillets
+fillets [3]
+
+lemon pepper
+fillets [3]
+
+garlic powder
+fillets [3]
+
+salt
+fillets [3]
+
+soy sauce
+stir [18]
+
+brown sugar
+stir [18]
+
+water
+stir [18]
+
+vegetable oil
+stir [18]
+
+sugar
+stir [18]
+
+fish
+Place [36]
+
+soy sauce mixture
+Place [36]
+
+salmon
+Place [75]
+
+salmon
+Cook [86]
+
+fish
+Cook [86]
+

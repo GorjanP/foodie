@@ -1,0 +1,20 @@
+Cheddar cheese
+    A - 0 - Mix
+onion
+    A - 0 - Mix
+eggs
+    A - 12 - Stir
+biscuit mix
+    A - 12 - Stir
+zucchini mixture
+    A - 12 - Stir
+    P - 20 - combined
+Heat vegetable oil
+batter
+    A - 33 - Scoop
+pancakes
+    A - 42 - cook
+    A - 33 - Scoop
+batter
+    A - 55 - Repeat
+

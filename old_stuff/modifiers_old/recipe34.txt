@@ -1,0 +1,64 @@
+chicken breasts
+    A - 13 - Place
+heavy plastic
+    A - 13 - Place
+resealable freezer bags
+    A - 13 - Place
+chicken
+    A - 33 - pound
+Season chicken
+salt
+pepper
+eggs
+    A - 56 - Beat
+bread crumbs
+    A - 66 - Mix
+Parmesan cheese
+    A - 66 - Mix
+flour
+    A - 80 - Place
+chicken breasts
+    A - 88 - sprinkle
+    A - 80 - Place
+flour
+    A - 97 - Dip
+chicken breast
+    A - 97 - Dip
+beaten eggs
+    A - 97 - Dip
+breadcrumb mixture
+    A - 104 - Transfer
+crumbs
+    A - 104 - Transfer
+chicken breasts
+    A - 121 - Set
+olive oil
+    A - 130 - Heat
+chicken
+    A - 147 - Cook
+    P - 150 - golden
+chicken
+chicken
+    A - 168 - Place
+tomato sauce
+    A - 175 - top
+    A - 168 - Place
+chicken breast
+    A - 185 - Layer
+mozzarella cheese
+    A - 185 - Layer
+fresh basil
+    A - 185 - Layer
+cheese
+    A - 197 - provolone
+    A - 185 - Layer
+Parmesan cheese
+    A - 200 - Sprinkle
+olive oil
+    A - 200 - Sprinkle
+cheese
+    A - 216 - Bake
+    P - 224 - browned
+chicken breasts
+    A - 216 - Bake
+

@@ -1,0 +1,63 @@
+green beans
+Place [0]
+
+water
+Place [0]
+
+salt
+Place [0]
+
+water
+bring [26]
+
+beans
+start [34]
+
+steam
+start [33]
+
+beans
+cook [53]
+
+water
+cook [52]
+
+tuna
+Mix [87]
+
+white beans
+Mix [87]
+
+olives
+Mix [87]
+
+onion
+Mix [87]
+
+oregano
+Whisk [101]
+
+oil
+Whisk [101]
+
+lemon juice
+Whisk [101]
+
+zest
+Whisk [101]
+
+salad
+pour [117]
+
+seasonings
+Adjust [127]
+
+green beans
+Arrange [132]
+
+tuna-bean salad
+Arrange [132]
+
+eggs
+Arrange [132]
+

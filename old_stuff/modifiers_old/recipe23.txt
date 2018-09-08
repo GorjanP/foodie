@@ -1,0 +1,40 @@
+vegetable oil
+    A - 0 - Heat
+cumin seeds
+    A - 11 - Add
+chopped onion
+    A - 29 - Stir
+onion
+    A - 34 - cook
+    A - 29 - Stir
+tomato paste
+    A - 49 - Stir
+water
+    A - 51 - tomato paste
+    A - 49 - Stir
+chicken
+    A - 60 - Stir
+coconut milk
+    A - 78 - Add
+brown sugar
+    A - 78 - Add
+chile paste
+    A - 78 - Add
+cayenne pepper
+    A - 78 - Add
+salt
+    A - 78 - Add
+pepper
+    A - 78 - Add
+mixture
+    A - 94 - Bring
+    P - 116 - tender
+chicken
+    A - 111 - simmer
+    A - 111 - simmer
+    A - 106 - cover
+    A - 101 - reduce
+    A - 98 - simmer
+    A - 94 - Bring
+    P - 116 - tender
+

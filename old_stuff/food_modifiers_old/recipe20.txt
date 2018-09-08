@@ -1,0 +1,84 @@
+olive oil
+Whisk [0]
+
+mint
+Whisk [0]
+
+lemon juice
+Whisk [0]
+
+honey
+Whisk [0]
+
+salt
+Whisk [0]
+
+cloves garlic
+Whisk [0]
+
+cumin
+Whisk [0]
+
+cinnamon
+coriander [29]
+
+chicken
+Place [49]
+
+chicken
+Pour [58]
+
+air
+Press [63]
+
+yogurt
+Whisk [91]
+
+lemon juice
+Whisk [91]
+
+mint
+Whisk [91]
+
+cloves garlic
+Whisk [91]
+
+lemon zest
+Whisk [91]
+
+salt
+Whisk [91]
+
+sauce
+make [119]
+
+peppers
+Toss [129]
+
+red onion
+Toss [129]
+
+chicken
+Remove [143]
+
+chicken
+Thread [153]
+
+peppers
+Thread [153]
+
+onion
+Thread [153]
+
+oil
+Preheat [164]
+
+cook
+firm [197]
+
+chicken
+firm [197]
+
+cold sauce
+Serve [218]
+

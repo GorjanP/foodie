@@ -1,0 +1,36 @@
+mayonnaise
+Whisk [0]
+
+green onions
+Whisk [0]
+
+vinegar
+Whisk [0]
+
+jalapeno peppers
+Whisk [0]
+
+parsley
+Whisk [0]
+
+olive oil
+Whisk [0]
+
+salt
+Whisk [0]
+
+pepper
+Whisk [0]
+
+corn
+stir [30]
+
+tomatoes
+stir [30]
+
+salad
+Transfer [40]
+
+plastic wrap
+cover [47]
+

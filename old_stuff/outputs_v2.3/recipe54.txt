@@ -1,0 +1,136 @@
+-------------Distance 1-------------
+water
+    Whisk
+    ,
+    vinegar
+    ,
+    oil
+    ,
+    sugar
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+vinegar
+    water
+oil
+    water
+sugar
+    water
+salt
+    water
+pepper
+    water
+cucumbers
+    add
+    ,
+    tomatoes
+    ,
+    and
+    onion
+tomatoes
+    cucumbers
+onion
+    cucumbers
+plastic wrap
+    Cover
+    with
+    ;
+    refrigerate
+
+-------------Distance 2-------------
+water
+    bowl
+    smooth
+    ;
+    add
+    and
+    stir
+    .
+vinegar
+    Whisk
+    ,
+    ,
+    oil
+    ,
+    sugar
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+oil
+    Whisk
+    ,
+    vinegar
+    ,
+    ,
+    sugar
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+sugar
+    Whisk
+    ,
+    vinegar
+    ,
+    oil
+    ,
+    ,
+    salt
+    ,
+    and
+    pepper
+    together
+salt
+    Whisk
+    ,
+    vinegar
+    ,
+    oil
+    ,
+    sugar
+    ,
+    ,
+    and
+    pepper
+    together
+pepper
+    Whisk
+    ,
+    vinegar
+    ,
+    oil
+    ,
+    sugar
+    ,
+    salt
+    ,
+    and
+    together
+cucumbers
+    Whisk
+tomatoes
+    add
+    ,
+    ,
+    and
+    onion
+onion
+    add
+    ,
+    tomatoes
+    ,
+    and
+plastic wrap
+    .
+    bowl
+    hours
+    .
+

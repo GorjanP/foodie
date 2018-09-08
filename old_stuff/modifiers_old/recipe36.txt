@@ -1,0 +1,37 @@
+oil
+    A - 0 - Heat
+sage
+    A - 10 - Saute
+    P - 28 - tender
+parsley
+    A - 10 - Saute
+    P - 28 - tender
+sun-dried tomatoes
+    A - 10 - Saute
+    P - 28 - tender
+onion
+    A - 10 - Saute
+    P - 28 - tender
+    P - 28 - tender
+onion
+    A - 10 - Saute
+    P - 28 - tender
+pork
+    A - 30 - Mix
+broth
+    A - 47 - Stir
+heavy cream
+    A - 47 - Stir
+salt
+    A - 47 - Stir
+pepper
+    A - 47 - Stir
+pork
+    A - 74 - simmer
+    A - 68 - Reduce
+    P - 99 - thickened
+sauce
+    A - 74 - simmer
+    A - 68 - Reduce
+    P - 99 - thickened
+

@@ -1,0 +1,54 @@
+onion
+Place [0]
+
+chili beans
+Place [0]
+
+black beans
+Place [0]
+
+corn
+Place [0]
+
+tomato sauce
+Place [0]
+
+beer
+Place [0]
+
+tomatoes
+Place [0]
+
+taco seasoning
+Add [25]
+
+chicken breasts
+Lay [34]
+
+mixture
+Lay [34]
+
+chicken breasts
+Remove [69]
+
+soup
+Remove [69]
+
+shredded chicken
+Stir [86]
+
+soup
+Stir [86]
+
+shredded Cheddar cheese
+Serve [102]
+
+dollop
+Serve [102]
+
+sour cream
+Serve [102]
+
+crushed tortilla chips
+Serve [102]
+

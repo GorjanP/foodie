@@ -1,0 +1,82 @@
+-------------Distance 1-------------
+mangoes
+    Combine
+    ,
+    cream
+    ,
+    brown sugar
+    ,
+    and
+    corn syrup
+cream
+    mangoes
+brown sugar
+    mangoes
+corn syrup
+    mangoes
+    processor
+spiced rum
+    Stir
+    in
+    and
+    salt
+salt
+    spiced rum
+mixture
+    Pour
+ice cream maker
+    Pour
+    into
+    an
+    and
+    freeze
+
+-------------Distance 2-------------
+mangoes
+    processor
+    .
+cream
+    Combine
+    ,
+    ,
+    brown sugar
+    ,
+    and
+    corn syrup
+brown sugar
+    Combine
+    ,
+    cream
+    ,
+    ,
+    and
+    corn syrup
+corn syrup
+    Combine
+    ,
+    cream
+    ,
+    brown sugar
+    ,
+    and
+    in
+    a
+    blender
+spiced rum
+    .
+    .
+salt
+    Stir
+    in
+    and
+mixture
+    .
+    ice cream maker
+    instructions
+    .
+ice cream maker
+    .
+    mixture
+    instructions
+    .
+

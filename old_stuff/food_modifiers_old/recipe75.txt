@@ -1,0 +1,48 @@
+Pound chicken breasts
+thick [8]
+
+cheese
+Place [9]
+
+ham slice
+Place [9]
+
+chicken
+Fold [25]
+
+filling
+Fold [25]
+
+flour
+Mix [40]
+
+chicken pieces
+coat [51]
+
+butter
+Heat [56]
+
+chicken
+cook [68]
+
+wine
+Add [77]
+
+bouillon
+Add [77]
+
+chicken
+simmer [91]
+
+juices
+simmer [91]
+
+warm platter
+transfer [112]
+
+cream
+Blend [120]
+
+chicken
+pour [145]
+

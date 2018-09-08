@@ -1,0 +1,21 @@
+corn
+    A - 0 - Mix
+olives
+    A - 0 - Mix
+tomatoes
+    A - 0 - Mix
+onion
+    A - 0 - Mix
+red pepper
+    A - 0 - Mix
+jalapeno pepper
+    A - 0 - Mix
+diced avocado
+    A - 20 - fold
+olive oil
+    A - 20 - fold
+lime juice
+    A - 20 - fold
+salt
+    A - 20 - fold
+

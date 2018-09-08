@@ -1,0 +1,63 @@
+cumin seeds
+Place [0]
+
+seeds
+stir [11]
+
+seeds
+pour [27]
+
+cooking
+stop [33]
+
+cumin seeds
+Mix [37]
+
+orange juice
+Mix [37]
+
+vegetable oil
+Mix [37]
+
+steak seasoning
+Mix [37]
+
+lime juice
+Mix [37]
+
+oregano
+Mix [37]
+
+steaks
+Place [59]
+
+orange juice marinade
+pour [68]
+
+meat
+pour [68]
+
+air
+squeeze [77]
+
+meat
+coat [90]
+
+oil
+Preheat [107]
+
+steaks
+Remove [120]
+
+steaks
+seared [142]
+
+instant-read meat thermometer
+read [175]
+
+thickest steak
+read [175]
+
+steaks
+Let [184]
+

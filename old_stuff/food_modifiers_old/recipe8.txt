@@ -1,0 +1,72 @@
+sliced onions
+Place [0]
+
+roast
+roast [16]
+
+kosher salt
+roast [16]
+
+black pepper
+roast [16]
+
+roast
+roast [16]
+
+onions
+roast [16]
+
+onions
+Place [42]
+
+garlic
+Place [42]
+
+roast
+Place [42]
+
+red wine
+mix [59]
+
+tomatoes
+mix [59]
+
+beef broth
+mix [59]
+
+Worcestershire sauce
+mix [59]
+
+rosemary
+mix [59]
+
+oregano
+mix [59]
+
+basil
+mix [59]
+
+thyme
+mix [59]
+
+kosher salt
+mix [59]
+
+black pepper
+mix [59]
+
+wine mixture
+pour [92]
+
+roast
+pour [92]
+
+sauce
+thicken [124]
+
+tomato paste
+thicken [124]
+
+juices
+thicken [124]
+

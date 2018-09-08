@@ -1,0 +1,30 @@
+Grease
+Grease [13]
+
+foil
+Grease [13]
+
+potato flakes
+combine [34]
+
+Parmesan cheese
+combine [34]
+
+garlic salt
+combine [34]
+
+chicken pieces
+Dip [50]
+
+melted butter
+Dip [50]
+
+margarine
+Dip [50]
+
+potato flake mixture
+roll [60]
+
+chicken
+Bake [73]
+

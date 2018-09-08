@@ -1,0 +1,35 @@
+brown sugar
+    A - 0 - Whisk
+soy sauce
+    A - 0 - Whisk
+pineapple juice
+    A - 0 - Whisk
+water
+    A - 0 - Whisk
+vegetable oil
+    A - 0 - Whisk
+garlic
+    A - 0 - Whisk
+beef slices
+    A - 19 - drop
+    A - 0 - Whisk
+mixture
+    A - 19 - drop
+    A - 0 - Whisk
+plastic wrap
+    A - 29 - Cover
+beef
+    A - 34 - Marinate
+beef
+    A - 42 - Remove
+excess liquid
+    A - 50 - remove
+    A - 42 - Remove
+beef slices
+    A - 57 - Thread
+oil
+    A - 66 - Preheat
+beef
+    A - 77 - Cook
+    P - 86 - cooked
+

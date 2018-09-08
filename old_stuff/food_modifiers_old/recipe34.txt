@@ -1,0 +1,90 @@
+chicken breasts
+Place [13]
+
+heavy plastic
+Place [13]
+
+chicken
+pound [37]
+
+Season chicken
+chicken [55]
+
+salt
+chicken [55]
+
+pepper
+chicken [55]
+
+eggs
+Beat [61]
+
+bread crumbs
+Mix [71]
+
+Parmesan cheese
+cheese [79]
+
+flour
+Place [87]
+
+chicken breasts
+sprinkle [95]
+
+flour
+Dip [105]
+
+chicken breast
+Dip [105]
+
+beaten eggs
+Dip [105]
+
+breadcrumb mixture
+Transfer [114]
+
+crumbs
+Transfer [114]
+
+chicken breasts
+Set [132]
+
+olive oil
+Heat [142]
+
+chicken
+Cook [160]
+
+chicken
+finish [176]
+
+chicken
+Place [181]
+
+tomato sauce
+top [188]
+
+chicken breast
+Layer [199]
+
+mozzarella cheese
+Layer [199]
+
+fresh basil
+Layer [199]
+
+cheese
+provolone [214]
+
+Parmesan cheese
+Sprinkle [217]
+
+olive oil
+Sprinkle [217]
+
+cheese
+Bake [235]
+
+chicken breasts
+browned [244]
+

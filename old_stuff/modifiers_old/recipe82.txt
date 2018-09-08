@@ -1,0 +1,30 @@
+potatoes
+    A - 0 - Place
+water
+    A - 0 - Place
+potatoes
+    A - 10 - Cook
+microwave
+    A - 10 - Cook
+    P - 18 - tender
+potatoes
+    A - 28 - Drain
+steam
+    A - 31 - allow
+    A - 28 - Drain
+wine
+    A - 48 - mayonnaise
+    A - 46 - stir
+rosemary
+    A - 48 - mayonnaise
+    A - 46 - stir
+garlic powder
+    A - 48 - mayonnaise
+    A - 46 - stir
+drained potatoes
+    A - 57 - Mix
+potatoes
+    A - 88 - Remove
+potatoes
+    A - 115 - Remove
+

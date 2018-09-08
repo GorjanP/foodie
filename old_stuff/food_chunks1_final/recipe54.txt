@@ -1,0 +1,9 @@
+water
+vinegar
+oil
+sugar
+salt
+pepper
+cucumbers
+tomatoes
+onion

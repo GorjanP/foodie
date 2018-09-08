@@ -1,0 +1,84 @@
+sugar
+dissolve [5]
+
+yeast
+dissolve [5]
+
+warm water
+yeast [10]
+
+milk
+Warm [24]
+
+sugar
+Mix [40]
+
+butter
+Mix [40]
+
+salt
+Mix [40]
+
+yeast mixture
+combine [66]
+
+milk mixture
+combine [66]
+
+eggs
+combine [66]
+
+flour
+combine [66]
+
+flour
+Stir [85]
+
+dough
+turn [111]
+
+elastic
+turn [110]
+
+oil
+place [136]
+
+dough
+place [135]
+
+oil
+coat [144]
+
+dough
+melt [175]
+
+butter
+melt [174]
+
+brown sugar
+Stir [186]
+
+butter
+Melt [217]
+
+brown sugar
+Combine [224]
+
+cinnamon
+Combine [224]
+
+dough
+Turn [241]
+
+butter
+Brush [257]
+
+brown sugar cinnamon mixture
+sprinkle [270]
+
+butter
+Brush [291]
+
+platter
+invert [366]
+

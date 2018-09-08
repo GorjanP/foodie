@@ -1,0 +1,57 @@
+peaches
+combine [17]
+
+white sugar
+combine [17]
+
+brown sugar
+combine [17]
+
+cinnamon
+combine [17]
+
+nutmeg
+combine [17]
+
+lemon juice
+combine [17]
+
+flour
+combine [71]
+
+white sugar
+combine [71]
+
+brown sugar
+combine [71]
+
+powder
+combine [71]
+
+salt
+combine [71]
+
+butter
+Blend [90]
+
+fingertips
+Blend [90]
+
+mixture
+Blend [90]
+
+coarse meal
+Blend [90]
+
+water
+Stir [108]
+
+peaches
+Remove [115]
+
+sugar
+Sprinkle [128]
+
+cinnamon mixture
+Sprinkle [128]
+

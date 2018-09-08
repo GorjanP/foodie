@@ -1,0 +1,33 @@
+egg
+    A - 0 - Place
+cold water
+    A - 6 - cover
+    A - 0 - Place
+water
+    A - 10 - Bring
+eggs
+    A - 23 - let
+    A - 21 - Cover
+hot water
+    A - 25 - stand
+    A - 23 - let
+    A - 21 - Cover
+hot water
+    A - 34 - Remove
+chopped eggs
+    A - 44 - Place
+mayonnaise
+    A - 52 - stir
+    A - 44 - Place
+mustard
+    A - 52 - stir
+    A - 44 - Place
+green onion
+    A - 52 - stir
+    A - 44 - Place
+salt
+pepper
+favourite bread
+    A - 71 - serve
+    A - 69 - Stir
+

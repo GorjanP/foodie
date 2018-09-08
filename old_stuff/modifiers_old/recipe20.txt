@@ -1,0 +1,60 @@
+olive oil
+    A - 0 - Whisk
+mint
+    A - 0 - Whisk
+lemon juice
+    A - 0 - Whisk
+honey
+    A - 0 - Whisk
+salt
+    A - 0 - Whisk
+cloves garlic
+    A - 0 - Whisk
+cumin
+    A - 0 - Whisk
+cinnamon
+    A - 26 - coriander
+    A - 0 - Whisk
+chicken
+    A - 46 - Place
+chicken
+    A - 55 - Pour
+air
+    A - 60 - Press
+yogurt
+    A - 88 - Whisk
+lemon juice
+    A - 88 - Whisk
+mint
+    A - 88 - Whisk
+cloves garlic
+    A - 88 - Whisk
+lemon zest
+    A - 88 - Whisk
+salt
+    A - 88 - Whisk
+sauce
+    A - 113 - make
+    A - 88 - Whisk
+peppers
+    A - 123 - Toss
+red onion
+    A - 123 - Toss
+chicken
+    A - 136 - Remove
+chicken
+    A - 146 - Thread
+peppers
+    A - 146 - Thread
+onion
+    A - 146 - Thread
+oil
+    A - 157 - Preheat
+cook
+    P - 189 - firm
+    P - 189 - firm
+chicken
+    P - 189 - firm
+cold sauce
+    A - 211 - Serve
+

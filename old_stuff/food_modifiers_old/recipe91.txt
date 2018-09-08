@@ -1,0 +1,51 @@
+aluminum foil
+oil [13]
+
+black beans
+mash [47]
+
+pasty
+mash [47]
+
+chop bell pepper
+chop [65]
+
+onion
+chop [65]
+
+garlic
+chop [65]
+
+mashed beans
+stir [74]
+
+egg
+stir [84]
+
+chili powder
+stir [84]
+
+cumin
+stir [84]
+
+chili sauce
+stir [84]
+
+egg mixture
+Stir [97]
+
+mashed beans
+Stir [97]
+
+bread crumbs
+Mix [106]
+
+mixture
+Mix [106]
+
+mixture
+Divide [119]
+
+foil
+place [128]
+

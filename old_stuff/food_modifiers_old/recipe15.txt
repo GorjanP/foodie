@@ -1,0 +1,27 @@
+hash browns
+Mix [22]
+
+eggs
+Mix [22]
+
+ham
+Mix [22]
+
+Cheddar-Jack cheese
+Mix [22]
+
+onion powder
+Mix [22]
+
+salt
+Mix [22]
+
+pepper
+Mix [22]
+
+mixture
+Pour [42]
+
+bars
+Cool [79]
+

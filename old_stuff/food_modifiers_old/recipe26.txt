@@ -1,0 +1,102 @@
+egg
+Combine [0]
+
+heavy cream
+Combine [0]
+
+milk
+Combine [0]
+
+salt
+Combine [0]
+
+cayenne pepper
+Combine [0]
+
+nutmeg
+Combine [0]
+
+lemon zest
+Combine [0]
+
+batter
+Mix [22]
+
+milk
+Add [31]
+
+cream
+Add [31]
+
+bread
+Toast [42]
+
+Havarti cheese
+Add [48]
+
+ham
+Divide [55]
+
+halves
+Bring [61]
+
+batter
+place [70]
+
+water
+Fill [92]
+
+butter
+melt [111]
+
+hot butter
+Cook [120]
+
+cheese
+Cook [120]
+
+vinegar
+pour [149]
+
+water
+keep [154]
+
+egg
+Crack [162]
+
+water
+slip [172]
+
+water
+slip [172]
+
+egg
+Repeat [189]
+
+egg white
+Cook [194]
+
+yolk
+Cook [194]
+
+dust
+Transfer [216]
+
+cayenne pepper
+Transfer [216]
+
+eggs
+Remove [226]
+
+water
+Remove [226]
+
+excess water
+remove [243]
+
+Dust
+Dust [254]
+
+cayenne pepper
+Dust [254]
+

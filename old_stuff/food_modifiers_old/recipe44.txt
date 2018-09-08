@@ -1,0 +1,39 @@
+strawberries
+Mix [0]
+
+confectioners
+Mix [0]
+
+sugar
+Mix [0]
+
+lemon juice
+Mix [0]
+
+juice
+juice [23]
+
+pound cake
+Place [28]
+
+strawberries
+Place [28]
+
+juice
+Place [28]
+
+cake
+Place [28]
+
+dollop
+Place [52]
+
+berries
+Place [52]
+
+cake slice
+Place [52]
+
+strawberries
+Spoon [69]
+

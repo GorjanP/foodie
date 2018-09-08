@@ -1,0 +1,40 @@
+pork chops
+salt
+black pepper
+tomato slice
+    A - 26 - top
+    A - 16 - arrange
+basil
+    A - 32 - Divide
+oregano
+    A - 32 - Divide
+garlic
+    A - 32 - Divide
+pork chops
+    A - 32 - Divide
+olive oil
+    A - 32 - Divide
+aluminum foil
+    A - 49 - Cover
+pork
+    A - 55 - Cook
+    P - 66 - pink
+pork
+    A - 100 - top
+    A - 93 - Remove
+mozzarella cheese
+    A - 103 - chop
+    A - 100 - top
+    A - 93 - Remove
+aluminum foil
+    A - 110 - replace
+    A - 103 - chop
+    A - 100 - top
+    A - 93 - Remove
+cheese
+    A - 118 - wait
+    A - 110 - replace
+    A - 103 - chop
+    A - 100 - top
+    A - 93 - Remove
+

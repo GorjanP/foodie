@@ -1,0 +1,30 @@
+corn
+Mix [0]
+
+olives
+Mix [0]
+
+tomatoes
+Mix [0]
+
+onion
+Mix [0]
+
+red pepper
+Mix [0]
+
+jalapeno pepper
+Mix [0]
+
+diced avocado
+fold [22]
+
+olive oil
+fold [22]
+
+lime juice
+fold [22]
+
+salt
+fold [22]
+

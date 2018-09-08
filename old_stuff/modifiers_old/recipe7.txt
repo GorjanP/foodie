@@ -1,0 +1,43 @@
+ground beef
+    A - 20 - combine
+    P - 38 - browned
+    P - 43 - tender
+onion
+    A - 20 - combine
+    P - 38 - browned
+    P - 43 - tender
+celery
+    A - 20 - combine
+    P - 38 - browned
+    P - 43 - tender
+meat
+    A - 28 - saute
+    A - 20 - combine
+    P - 38 - browned
+    P - 43 - tender
+onion
+    A - 28 - saute
+    A - 20 - combine
+    P - 43 - tender
+cook
+water
+    A - 67 - drain
+meat mixture
+    A - 71 - stir
+    A - 67 - drain
+tomatoes
+    A - 71 - stir
+    A - 67 - drain
+corn
+    A - 71 - stir
+    A - 67 - drain
+taco sauce
+    A - 71 - stir
+    A - 67 - drain
+taco seasoning mix
+    A - 71 - stir
+    A - 67 - drain
+entire mixture
+    A - 89 - place
+    A - 86 - Mix
+

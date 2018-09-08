@@ -1,0 +1,33 @@
+sausage
+combine [22]
+
+onion
+combine [22]
+
+green pepper
+combine [22]
+
+sausage
+Cook [30]
+
+dough
+Separate [45]
+
+individual biscuits
+Separate [45]
+
+biscuit
+Flatten [53]
+
+sausage mixture
+distribute [70]
+
+eggs
+Mix [77]
+
+milk
+Mix [77]
+
+shredded cheese
+Sprinkle [90]
+

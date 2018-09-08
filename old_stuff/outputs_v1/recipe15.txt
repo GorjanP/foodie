@@ -1,0 +1,141 @@
+-------------Distance 1-------------
+casserole
+    dish
+hash
+    .
+    Mix
+    browns
+    together
+    .
+eggs
+    browns
+ham
+    browns
+Cheddar-Jack cheese
+    browns
+onion powder
+    browns
+salt
+    browns
+pepper
+    browns
+mixture
+    Pour
+bars
+    cutting
+    into
+
+-------------Distance 2-------------
+casserole
+    Grease
+    an
+    8x11-inch
+    spray
+hash
+    Grease
+    ,
+    eggs
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    pepper
+    Pour
+eggs
+    hash
+    ,
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    pepper
+ham
+    hash
+    ,
+    eggs
+    ,
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    pepper
+Cheddar-Jack cheese
+    hash
+    ,
+    eggs
+    ,
+    ham
+    ,
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+    pepper
+onion powder
+    hash
+    ,
+    eggs
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    ,
+    salt
+    ,
+    and
+    pepper
+salt
+    hash
+    ,
+    eggs
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    ,
+    and
+    pepper
+pepper
+    hash
+    ,
+    eggs
+    ,
+    ham
+    ,
+    Cheddar-Jack cheese
+    ,
+    onion powder
+    ,
+    salt
+    ,
+    and
+mixture
+    .
+    dish
+    .
+bars
+    Cool
+    before
+

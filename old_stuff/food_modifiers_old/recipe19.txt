@@ -1,0 +1,30 @@
+sour cream
+stir [5]
+
+cream
+stir [5]
+
+mushroom soup
+stir [5]
+
+cheese
+stir [5]
+
+onion
+stir [5]
+
+salt
+stir [5]
+
+pepper
+stir [5]
+
+hash browns
+mix [25]
+
+butter
+Coat [34]
+
+hashbrown mixture
+Spoon [47]
+

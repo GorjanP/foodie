@@ -1,0 +1,16 @@
+S
+VP
+.
+VB
+PP
+Pour
+IN
+NP
+over
+DT
+NN
+NN
+the
+biscuit
+base
+.
