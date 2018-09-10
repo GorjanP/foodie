@@ -646,12 +646,6 @@ parse_recipe <- function(num, close = TRUE)
     ann <- fixIndeces_text(annotateString(s))
     ann_reduced <- ann
     
-    #print("-------")
-    #print(length(tag_data$POS))
-    #print(length(ann$POS))
-    #print(tag_data$token)
-    #print(ann$token$token)
-    
     t_extended <- to_extended_POS(tag_data = tag_data, ann = ann)
     t_reduced <- to_reduced_POS(tag_data = tag_data, ann = ann)
     
@@ -697,6 +691,7 @@ parse_recipe <- function(num, close = TRUE)
     
     
   }
+  
   #OLD GRAPH CODE GOES HERE
   
   #Cleanup
