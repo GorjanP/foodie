@@ -672,7 +672,7 @@ bool check_POS_right(int i)
 
     // try this instead
     //if(POS[i].find("JJ") != string::npos ||  POS[i].find("NP") != string::npos || POS[i].find("Z99") != string::npos || food_to_tag.count(i) > 0 || POS[i].find("NN") != string::npos )
-    if(POS[i].find("JJ") != string::npos || POS[i].find("Z99") != string::npos || food_to_tag.count(i) > 0 || is_color[i] == 1 || POS[i].find("NN") != string::npos|| POS[i].find("NP") != string::npos || find(allowed_endings.begin(), allowed_endings.end(), s[i]) != allowed_endings.end() || || POS[i].find("GE") == 0)
+    if(POS[i].find("JJ") != string::npos || POS[i].find("Z99") != string::npos || food_to_tag.count(i) > 0 || is_color[i] == 1 || POS[i].find("NN") != string::npos|| POS[i].find("NP") != string::npos || find(allowed_endings.begin(), allowed_endings.end(), s[i]) != allowed_endings.end() || POS[i].find("GE") == 0)
     {
 //        cout << "TRUE:" << endl;
 //        cout << "\t" << s[i] << " " << POS[i] << endl << endl;
