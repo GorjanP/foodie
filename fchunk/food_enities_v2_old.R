@@ -147,7 +147,6 @@ Food_checking <- function(s, tagged_data)
   foods_check<-rep(0,nrow(tagged_data))
   object_check<-rep(0,nrow(tagged_data))
   colors_check<-rep(0,nrow(tagged_data))
-  container_check<-rep(0,nrow(tagged_data))
   is_disallowed<-rep(0,nrow(tagged_data))
   
   #maybe add just O1.. or not
@@ -159,17 +158,6 @@ Food_checking <- function(s, tagged_data)
     {
       next
     }
-    
-    
-    t_con <- grep("AG.01.t.08|AG.01.u|AG.01.aj", tagged_data$sem2[i], value = FALSE)
-    
-    #print(tagged_data$token[i])
-    if(length(t_con) > 0)
-    {
-      print( tagged_data$token[i])
-      container_check[i] <- 1
-    }
-    
     
     if(length(grep("Z99", tagged_data$sem1[i], value = FALSE)) > 0)
     {
@@ -249,9 +237,6 @@ write_to_file_text = function(ann, is_food, tag_data, is_object, is_color, is_di
   
   #lemmas
   cat(tag_data$lemma, sep="\n", file = "data/lemmas.txt")
-  
-  # sem2
-  cat(tag_data$sem2, sep="\n", file = "data/sem2.txt")
   
   # #gov_idx
   # cat(ann$basicDep$governorIdx, sep="\n", file = "data/govidx.txt")
@@ -609,38 +594,6 @@ format_tags <- function(raw_tags)
   return(ret)
 }
 
-create_graphs <- function()
-{
-  i = 1
-  ret = list()
-  full_files = list.files("outputs/food_modifiers1/", full.names = TRUE)
-  
-  for(f in full_files)
-  {
-    print(paste(toString(i), full_files[[i]], sep = " "))
-    s <- readChar(f, file.info(f)$size) 
-    s <- strsplit(s, "\r\n")[[1]]
-    to_remove <- which(s == "")
-    s <- s[-to_remove]
-    
-    mtr <- matrix(nrow=0, ncol=2)
-    for(j in seq(1, (length(s)), 2))
-    {
-      t_vec <- c(s[j], s[j+1])
-      mtr <- rbind(mtr, t_vec)
-    }
-    
-    graf <- graph_from_edgelist(mtr, directed = TRUE)
-    
-    print(s)
-    ret[[i]] = graf
-    i = i + 1
-  }
-  return(ret)
-                
-}
-
-
 parse_recipe <- function(num, close = TRUE)
 {
   if(missing(num))
@@ -648,11 +601,10 @@ parse_recipe <- function(num, close = TRUE)
     num = 1
   }
   
-  invisible(do.call(file.remove, list(list.files("outputs/food_chunks", full.names = TRUE))))
-  #invisible(do.call(file.remove, list(list.files("graphs", full.names = TRUE))))
-  invisible(do.call(file.remove, list(list.files("outputs/entities", full.names = TRUE))))
-  invisible(do.call(file.remove, list(list.files("outputs/food_modifiers1", full.names = TRUE))))
-  invisible(do.call(file.remove, list(list.files("outputs/food_modifiers2", full.names = TRUE))))
+  invisible(do.call(file.remove, list(list.files("food_chunks", full.names = TRUE))))
+  invisible(do.call(file.remove, list(list.files("graphs", full.names = TRUE))))
+  invisible(do.call(file.remove, list(list.files("entities", full.names = TRUE))))
+  invisible(do.call(file.remove, list(list.files("food_modifiers", full.names = TRUE))))
   
   full_files = list.files("recipes/", full.names = TRUE)
   files = list.files("recipes/", full.names = FALSE)
@@ -693,15 +645,6 @@ parse_recipe <- function(num, close = TRUE)
     
     ann <- fixIndeces_text(annotateString(s))
     ann_reduced <- ann
-    
-    old_tag_data <<- tag_data
-    old_ann <<- ann
-    
-    #print("-------")
-    #print(length(tag_data$POS))
-    #print(length(ann$POS))
-    #print(tag_data$token)
-    #print(ann$token$token)
     
     t_extended <- to_extended_POS(tag_data = tag_data, ann = ann)
     t_reduced <- to_reduced_POS(tag_data = tag_data, ann = ann)
@@ -748,6 +691,7 @@ parse_recipe <- function(num, close = TRUE)
     
     
   }
+  
   #OLD GRAPH CODE GOES HERE
   
   #Cleanup

@@ -34,6 +34,9 @@ vector<string> POS_final;
 vector<string> lemma;
 vector<string> lemma_aggr;
 vector<string> lemma_final;
+vector<string> sem2;
+vector<string> sem2_aggr;
+vector<map<string, bool> > sem2_final;
 vector<string> roots;
 //vector<int> gov;
 //vector<int> dep;
@@ -87,10 +90,62 @@ int ids_ctr = 0;
 vector<int> ids;
 
 map< int , bool> food_to_tag;
-map<string, bool> aux_verbs;
-map<string, bool> modifier_aux;
-map<int, string> rez_modifiers1;
+/*map<string, bool> aux_verbs;
+map<string, bool> modifier_aux;*/
+//map<int, string> rez_modifiers1;
 
+// trim from start (in place)
+static inline void ltrim(std::string &s) {
+    s.erase(s.begin(), std::find_if(s.begin(), s.end(), [](int ch) {
+        return !std::isspace(ch);
+    }));
+}
+
+// trim from end (in place)
+static inline void rtrim(std::string &s) {
+    s.erase(std::find_if(s.rbegin(), s.rend(), [](int ch) {
+        return !std::isspace(ch);
+    }).base(), s.end());
+}
+
+// trim from both ends (in place)
+static inline void trim(std::string &s) {
+    ltrim(s);
+    rtrim(s);
+}
+vector<string> g_strsplit(string s, char sep)
+{
+    string t_s = "";
+    vector<string> ret;
+
+    for(int i = 0; i < s.size(); i++)
+    {
+        if(s[i] == sep)
+        {
+            trim(t_s);
+            ret.push_back(t_s);
+            t_s = "";
+            continue;
+        }
+        t_s += s[i];
+    }
+
+    return(ret);
+}
+
+
+template <typename T>
+map<T, bool> vector_to_map_bool(vector<T> elements)
+{
+    map<T, bool> ret;
+
+    for(int i = 0; i < elements.size(); i++)
+    {
+        ret[elements[i]] = true;
+
+    }
+    return(ret);
+}
 
 
 string g_to_lower(string s)
@@ -270,11 +325,13 @@ class Tree
             }
 
             ofstream out;
-            out.open("food_modifiers/"+fname, ios_base::app);
+            out.open("outputs/food_modifiers1/"+fname, ios_base::app);
 
 
-            out << s_final[chunk_id] << endl;
-            out << ret2 << " [" << ret3 << "]" << endl << endl;
+//            out << s_final[chunk_id] << endl;
+            out << s_final[chunk_id] << " [" << sentence_id_final[chunk_id] << ", " << chunk_id << "]" << endl;
+            out << lemma[ret3] << " [" << sentence_id_final[ret3] << ", " << ret3 << "]" << endl << endl;
+//            out << ret2 << " [" << ret3 << "]" << endl << endl;
 
             //cout << "------" << endl;
 
@@ -300,7 +357,7 @@ class Tree
 
 
             int t_count = 0;
-            for(int i = 0; i < mat[curr].size(); i++)
+            for(unsigned int i = 0; i < mat[curr].size(); i++)
             {
                 int next = mat[curr][i];
                 if(!visited[next])
@@ -398,109 +455,12 @@ vector<Tree> trees;
 
 //try using a lemma if the vector expands significantly
 
-
-//void print_graph()
-//{
-//
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        for(int j = 0; j < size_final; j++)
-//            cout << graph_final[i][j] << " ";
-//        cout << endl;
-//    }
-//    cout << endl;
-//}
-
-//void print_graph_file(string fname)
-//{
-//    ofstream out("graphs/" + fname);
-//
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        for(int j = 0; j < size_final; j++)
-//            out << graph_final[i][j] << " ";
-//        out << endl;
-//    }
-//    out << endl;
-//
-//    out.close();
-//}
-
-//void print_graph_indexed()
-//{
-//    cout.width(3);
-//    cout << "x.";
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        cout.width(3);
-//        cout << i;
-//    }
-//    cout << endl;
-//
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        cout.width(3);
-//        cout << i << ".";
-//        for(int j = 0; j < size_final; j++)
-//        {
-//
-//            cout.width(3);
-//            cout << graph_final[i][j];
-//        }
-//        cout << endl;
-//    }
-//    cout << endl;
-//}
-
-
-//void print_dist()
-//{
-//    cout.width(3);
-//    cout << "x.";
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        cout.width(3);
-//        cout << i;
-//    }
-//    cout << endl;
-//
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        cout.width(3);
-//        cout << i << ".";
-//        for(int j = 0; j < size_final; j++)
-//        {
-//
-//            cout.width(3);
-//            cout << dist[i][j];
-//        }
-//        cout << endl;
-//    }
-//    cout << endl;
-//}
-
-//void print_dist_file(string fname)
-//{
-//    ofstream out("graphs/" + fname);
-//
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        for(int j = 0; j < size_final; j++)
-//            out << dist[i][j] << " ";
-//        out << endl;
-//    }
-//    out << endl;
-//
-//    out.close();
-//}
-
-
 template <typename T>
 void print_vector_newline(vector<T> &a, string fname)
 {
     //cout << "Size: " << a.size() << endl;
 
-    ofstream out("entities/" + fname);
+    ofstream out("outputs/entities/" + fname);
     for(unsigned int i = 0; i < a.size(); i++)
         out << a[i] << endl;
     out << endl;
@@ -522,7 +482,7 @@ void print_vector_indexed_newline(vector<T> &a, int offset, string fname)
 {
     //cout << "Size: " << a.size() << endl
 
-    ofstream out("entities/" + fname);
+    ofstream out("outputs/entities/" + fname);
     for(int i = 0; i < a.size(); i++)
         out << i+offset << ". " << a[i] << endl;
     out << endl;
@@ -536,10 +496,52 @@ void print_full(string fname)
 
     //cout << "Size: " << a.size() << endl;
 
-    ofstream out("entities/" + fname);
+    ofstream out("outputs/entities/" + fname);
     for(unsigned int i = 0; i < s_final.size(); i++)
         out << s_final[i] << "( " << POS_final[i] << " )" << " - " << is_food_final[i] << endl;
     out << endl;
+    out.close();
+}
+
+void print_maps()
+{
+    map<string, bool>::iterator it;
+    for(int i = 0; i < sem2_final.size(); i++)
+    {
+        if(!is_food_final[i])
+        {
+            continue;
+        }
+        if(sem2_final[i].size() == 0)
+            cout << "NULL";
+
+        for(it = sem2_final[i].begin(); it != sem2_final[i].end(); it++)
+        {
+            cout << it->first << "; ";
+        }
+        cout << endl;
+    }
+}
+
+void print_maps(string path)
+{
+    ofstream out("outputs/sem2/"+path);
+    map<string, bool>:: iterator it;
+    for(int i = 0; i < sem2_final.size(); i++)
+    {
+        if(!is_food_final[i])
+        {
+            continue;
+        }
+        if(sem2_final[i].size() == 0)
+            out << "NULL";
+
+        for(it = sem2_final[i].begin(); it != sem2_final[i].end(); it++)
+        {
+            out << it->first << "; ";
+        }
+        out << endl << endl;
+    }
     out.close();
 }
 
@@ -560,6 +562,14 @@ void get_input()
     {
         lemma.push_back(vlez);
         lemma_aggr.push_back(vlez);
+    }
+    in.close();
+
+    in.open("data/sem2.txt");
+    while(getline(in, vlez))
+    {
+        sem2.push_back(vlez);
+        sem2_aggr.push_back(vlez);
     }
     in.close();
 
@@ -818,6 +828,7 @@ void make_chunks()
             s_aggr[i] += " " + s_aggr[j];
             lemma_aggr[i] += " " + lemma_aggr[j];
             POS_aggr[i] += " " + POS_aggr[j];
+            sem2_aggr[i] += sem2_aggr[j];
             present_row[j] = false;
             present_col[j] = false;
         }
@@ -835,30 +846,17 @@ void make_chunks()
         lemma_final.push_back(lemma_aggr[i]);
         POS_final.push_back(POS_aggr[i]);
         id_mapping_final.push_back(id_mapping_aggr[i]);
+        sem2_final.push_back(vector_to_map_bool(g_strsplit(sem2_aggr[i], ';')));
 
-        /*koj2 = 0;
-        for(int j = 0; j < s.size(); j++)
-        {
-            if(!present_col[j])
-                continue;
-
-            graph_final[koj][koj2] = graph[i][j];
-            koj2++;
-        }*/
         koj++;
     }
     size_final = koj;
 
-
-    /*for(int i = 0; i < size_final; i++)
-    {
-        graph_final[i][i] = 0;
-    }*/
 }
 
 void init()
 {
-    aux_verbs["be"] = true;
+   /* aux_verbs["be"] = true;
     aux_verbs["can"] = true;
     aux_verbs["do"] = true;
     aux_verbs["have"] = true;
@@ -872,16 +870,9 @@ void init()
     modifier_aux["become"] = true;
     modifier_aux["get"] = true;
     //modifier_aux["turn"] = true;
-
+*/
 
     id_mapping_aggr.assign(s.size(), vector<int>());
-//    N = s.size(); // ?
-//    for(int i = 0;i < N+1; i++)
-//    {
-//        for(int j = 0; j < N; j++)
-//            graph[i][j] = 0;
-//    }
-
 
     // preprocessing - start
 
@@ -889,25 +880,6 @@ void init()
     {
         ids.push_back(-1);
     }
-
-//    for(int i = 0; i < beginnings.size()-1; i++)
-//    {
-//
-//        for(int j = 0; j < beginnings[i+1] - beginnings[i]; j++)
-//        {
-//            word_chunks.push_back(beginnings[i]);
-//            //is_food_dupl.push_back(is_food[i]);
-//        }
-//    }
-
-
-
-
-//    for(int j = 0; j < s.size() - beginnings[beginnings.size()-1] + 1; j++)
-//    {
-//        word_chunks.push_back(beginnings[beginnings.size()-1]);
-//        //is_food_dupl.push_back(is_food[beginnings.size()-1]);
-//    }
 
     for(unsigned int i = 0; i < s.size(); i++)
     {
@@ -920,110 +892,11 @@ void init()
     }
 }
 
-//void change_sign()
-//{
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        for(int j = 0; j < size_final; j++)
-//            graph_final[i][j] *= -1;
-//    }
-//}
-
-//void FW()
-//{
-//    for(int i = 0; i < size_final; i++)
-//    {
-//        for(int j = 0; j < size_final; j++)
-//        {
-//            if(graph_final[i][j] == 0)
-//                dist[i][j] = INT_MAX/2;
-//            else
-//                dist[i][j] = graph_final[i][j];
-//        }
-//        dist[i][i] = 0;
-//    }
-//
-//    change_sign();
-//    int n = size_final, d;
-//    for(int k = 0; k < n; k++)
-//    {
-//        for(int i = 0; i < n; i++)
-//        {
-//            for(int j = 0; j < n; j++)
-//            {
-//                d = dist[i][k] + dist[k][j];
-//                if(d < dist[i][j])
-//                {
-//                    dist[i][j] = d;
-//
-//                }
-//            }
-//        }
-//    }
-//    change_sign();
-//}
-
-
-//void make_pairs(int d_max)
-//{
-//    int n = size_final;
-//
-//
-//    for(int k = 1; k <= d_max; k++)
-//    {
-//
-//        cout << "-------------Distance " << k << "-------------" << endl;
-//        for(int i = 0; i < n; i++)
-//        {
-//            if(!is_food_final[i])
-//                continue;
-//
-//            cout << s_final[i] << endl;
-//
-//            /*for(int j = 0; j < n; j++)
-//            {
-//                if(dist[i][j] == k)
-//                    cout << "    " << s_final[j] << endl;
-//            }*/
-//        }
-//        cout << endl;
-//    }
-//}
-//
-//void make_pairs_file(int d_max, string fname)
-//{
-//    int n = size_final;
-//
-//    ofstream out("outputs/" + fname);
-//
-//    for(int k = 1; k <= d_max; k++)
-//    {
-//
-//        out << "-------------Distance " << k << "-------------" << endl;
-//        for(int i = 0; i < n; i++)
-//        {
-//            if(!is_food_final[i])
-//                continue;
-//
-//            out << s_final[i] << endl;
-//
-//           /* for(int j = 0; j < n; j++)
-//            {
-//                if(dist[i][j] == k)
-//                    out << "    " << s_final[j] << endl;
-//            }*/
-//        }
-//        out << endl;
-//    }
-//    out.close();
-//}
-
-
 void print_foods(string fname)
 {
     int n = size_final;
 
-    ofstream out("food_chunks/" + fname);
+    ofstream out("outputs/food_chunks/" + fname);
     for(int i = 0; i < n; i++)
     {
         if(!is_food_final[i])
@@ -1034,126 +907,6 @@ void print_foods(string fname)
     }
     out.close();
 }
-
-//void find_modifiers(string fname)
-//{
-//    int koj;
-//    int n = size_final;
-//
-////
-////    for(int i = 0; i < n; i++)
-////    {
-////
-////        if(lemma_final[i].find("until") != string::npos)
-////            cout << "AT: " << i << endl;
-////    }
-//
-//
-//    ofstream out("modifiers/" + fname);
-//
-//    for(int i = 0; i < n; i++)
-//    {
-//        if(!is_food_final[i])
-//            continue;
-//
-//        out << s_final[i] << endl;
-//
-//
-//        // ommit modals and other types
-//        for(int j = i-1; j >= 0 && sentence_id_final[i] == sentence_id_final[j]; j--)
-//        {
-//            if(POS_final[j].find("VV0") != string::npos || POS_final[j].find("VVI") != string::npos)
-//            {
-//                if(POS_final[j+1].find("VVG") != string::npos)
-//                    koj = j+1;
-//                else if(POS_final[j+1].find("TO") != string::npos)
-//                    koj = j + 2;
-//                else
-//                    koj = j;
-//
-//                out << "    " << "A - " << koj << " - " << s_final[koj] << endl;
-//            }
-//        }
-//
-//        //break if imperative
-//        //for(int j = i+1; j < n && sentence_id_final[i] == sentence_id_final[j]; j++)
-//        for(int j = i+1; j < n && sentence_id_final[i] == sentence_id_final[j]; j++)
-//        {
-//            if(is_food_final[j] == 1 || POS_final[j].find("VV0") != string::npos || POS_final[j].find("VVI") != string::npos)
-//            {
-//                break;
-//            }
-//
-//            if(lemma_final[j].find("until") != string::npos)
-//            {
-//                int idx=-1;
-//                koj = -1;
-//                for(int k = j+1; k < size_final && sentence_id_final[j] == sentence_id_final[k]; k++)
-//                {
-//                    if(POS_final[k].find("VBZ") != string::npos)
-//                    {
-//                        idx = k;
-//                        break;
-//                    }
-//                }
-//                if(idx == -1)
-//                {
-//                    idx = j;
-//                }
-//
-//                for(int k = idx+1; k < size_final && sentence_id_final[j] == sentence_id_final[k]; k++)
-//                {
-//
-//                    if((POS_final[k][0] == 'V') || (POS_final[k][0] == 'J') || POS_final[k].find("RR") != string::npos)
-//                    {
-//                        koj = k;
-//                    }
-//                    else
-//                        break;
-//
-//
-//                }
-//                if(koj > -1)
-//                    out << "    " << "P - " << koj << " - " << s_final[koj] << endl;
-//            }
-//        }
-//
-//        //2
-//        //break if imperative
-//        //for(int j = i+1; j < n && sentence_id_final[i] == sentence_id_final[j]; j++)
-//        for(int j = i+1; j < n && sentence_id_final[i] == sentence_id_final[j]; j++)
-//        {
-//            if(is_food_final[j] == 1 || POS_final[j].find("VV0") != string::npos || POS_final[j].find("VVI") != string::npos)
-//            {
-//                break;
-//            }
-//
-//            if(POS_final[j].find("VBZ") != string::npos)
-//            {
-//                int idx=-1;
-//                koj = -1;
-//
-//                for(int k = j; k < size_final && sentence_id_final[j] == sentence_id_final[k]; k++)
-//                {
-//
-//                    if((POS_final[k][0] == 'V') || (POS_final[k][0] == 'J') || POS_final[k].find("RR") != string::npos)
-//                    {
-//                        koj = k;
-//                    }
-//                    else
-//                        break;
-//
-//
-//                }
-//                if(koj > -1)
-//                    out << "    " << "P - " << koj << " - " << s_final[koj] << endl;
-//            }
-//        }
-//    }
-//    out << endl;
-//    out.close();
-//}
-
 
 vector<string> fixed_verbs = {
 "cook",
@@ -1241,8 +994,105 @@ void find_modifiers(string fname)
 //        cout << s[token_id] << " " << token_id << " in sentence " << sent << endl << endl;
 
         trees[sent].find_base_modifiers(token_id, fname, i);
+    }
+
+    vector<int> temporals;
+    for(int i = 0; i < size_final; i++)
+    {
+        if(s_final[i] == "until" || s_final[i] == "when" || s_final[i] == "When" || s_final[i] == "Until")
+            temporals.push_back(i);
+    }
+
+    if(temporals.size() == 0)
+    {
+        //cout << "No passive modifiers!" << endl;
+        return;
+    }
+
+    ofstream out;
+    out.open("outputs/food_modifiers2/"+fname, ios_base::app);
+
+
+    //vector<string> t_pos = {"VVZ", "VVN", "VVD", "VV0", "VVI", "VVGK","VVG", "VABZ", "VVBZ", "VABR", "VVBR", "VAHI", "VVHI", "VAHZ", "VVHZ", "JJ", "VHZ", "VBR", "VBZ", "VHI", "VAHO", "VVBN", "VABN", "VBN", "TO", "VH0"};
+    int f_idx = -1, m_idx = -1;
+    vector<int> t_foods;
+    for(int p = 0; p < temporals.size(); p++)
+    {
+        t_foods.clear();
+        int t_sent_id = sentence_id[temporals[p]];
+        f_idx = -1;
+        m_idx = -1;
+        for(int i = temporals[p]; i < size_final; i++)
+        {
+            if(POS_final[i].find("PPH") != string::npos || is_food_final[i])
+            {
+            	// don't break, add more
+                t_foods.push_back(i);
+                f_idx = i;
+                break;
+            }
+
+            if(POS_final[i].find("V") == 0 || POS_final[i].find("JJ") == 0)
+            {
+            	// just break here
+                if(f_idx == -1)
+                {
+                    f_idx = temporals[p];
+                }
+                break;
+            }
+        }
+
+
+        if(f_idx == temporals[p] || POS_final[f_idx].find("PPH") != string::npos)
+        {
+            t_foods.clear();
+            for(int i = f_idx; i >= 0; i--)
+            {
+                if(sentence_id_final[i] != t_sent_id)
+                    break;
+
+                if(is_food_final[i])
+                    t_foods.push_back(i);
+            }
+        }
+
+
+
+        for(int i = f_idx+1; i < size_final; i++)
+        {
+            //if(find(t_pos.begin(), t_pos.end(), POS_final[i]) != t_pos.end() )
+            if(POS_final[i].find("V") == 0 || POS_final[i].find("J") == 0 )
+            {
+                m_idx = i;
+            }
+            else if(POS_final[i].find("TO") != string::npos || POS_final[i].find("RR") == 0)
+            {
+                continue;
+            }
+            else
+            {
+                break;
+            }
+        }
+
+        if(m_idx == -1)
+        {
+            cout << "No modifier!" << endl;
+            continue;
+        }
+
+        //out << s_final[f_idx] << endl;
+        if(t_foods.size() == 0)
+            out << "No anaphora found!";
+        for(int i = 0; i < t_foods.size(); i++)
+            out << s_final[t_foods[i]] << '\t';
+         out << endl;
+        out << s_final[m_idx] << endl;
+        out << endl;
 
     }
+    out.close();
 }
 
 
@@ -1252,33 +1102,13 @@ int main(int argc,char* argv[])
     if(argc < 2)
     {
         cout << "No output file name given! Proceeding with test.txt!" << endl;
-//        get_input();
-//        init();
-//        join_chunks();
-//        make_chunks();
-//        find_foods();
-//        find_modifiers("test.txt");
-//        print_foods("test.txt");
-
         path = "test.txt";
 
     }
     else
     {
         path = argv[1];
-
     }
-//    get_input();
-//    init();
-//    //cout << "HELLO" << endl;
-//    join_chunks();
-//    make_chunks();
-//    /// FLOYD WARSHALL FUNCTION
-//    //FW();
-//    ///
-//    find_foods();
-//    find_modifiers(argv[1]);
-
 
         get_input();
         fix_beginnings();
@@ -1286,21 +1116,9 @@ int main(int argc,char* argv[])
         join_chunks();
         make_chunks();
         find_foods();
-        find_modifiers(path);
-
-        //print_vector_newline(s_final);
-//        print_vector_newline(is_food_final);
-
-
-    //output
-    //print_vector_newline(s_final, path);
-    print_foods(path);
-//    print_vector_newline(s_final);
-//    for(int i = 0; i < ids.size(); i++)
-//    {
-//
-//        cout << ids[i] << " " << s[i] << endl;
-//    }
+        //find_modifiers(path);
+        print_foods(path);
+        //print_maps(path);
 
     return(0);
 }
