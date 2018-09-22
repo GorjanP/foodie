@@ -1078,7 +1078,7 @@ void find_modifiers(string fname)
 
         if(m_idx == -1)
         {
-            cout << "No modifier!" << endl;
+            cout << "No passive modifier!" << endl;
             continue;
         }
 
@@ -1116,9 +1116,9 @@ int main(int argc,char* argv[])
         join_chunks();
         make_chunks();
         find_foods();
-        //find_modifiers(path);
+        find_modifiers(path);
         print_foods(path);
-        //print_maps(path);
+        print_maps(path);
 
     return(0);
 }

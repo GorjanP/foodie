@@ -1,0 +1,74 @@
+AA.06 [Structure of the Earth]; AG.01.n.11 [Bread]; AG.01.n.15 [Pastry]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; AJ.03.c.02 [Heat]; AJ.09.a [Quality of colour]; 
+
+NULL
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AA.03 [Land, ground, land mass]; AF.20.c [Edible nuts/nut-trees]; AG.01.h.01.f [Nut]; AK.03.a [Cause/reason]; 
+
+AG.01.k [Flour]; AG.01.n.03 [Puddings]; AJ.02.m.03 [Carbohydrates]; AJ.04.a.02 [Viscosity]; BI.12.b.06 [Vegetable extracts/preparations]; 
+
+AE.13.a [Wild/domestic birds]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AG.01.n.11 [Bread]; AJ.04.h.02 [Pliableness]; 
+
+AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; 
+
+AA.06 [Structure of the Earth]; AG.01.h.01 [Fruit/a fruit]; AP.04.v.01 [Hardware]; 
+
+AA.09.c [Geology]; AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; AG.01.t.08 [Equipment for food preparation]; 
+
+AB.17.b.02 [Slim shape/physique]; AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; AI.15.c.03.a [Ringing sound]; AJ.05 [Liquid]; AL.02.d.05 [Thickness]; AL.03.f.02 [Roundness]; AS.21.a [Ornamentation, jewellery]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; 
+
+AF.20 [Particular food plant/product]; AG.01.h.01.c [Apple]; AR.50.e [Disappointment]; 
+
+AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AO.22.d.07 [Lack of moderation/restraint]; AP.06.b.02 [Excessive amount/degree]; 
+
+AG.01.y.01.e [Brandy]; AI.09.a [Sexual desire]; 
+
+AG.01.e [Dairy produce]; AG.01.n [Dishes and prepared food]; AG.02.b.02 [Farmland]; AI.12.e [Sourness/acidity]; AJ.09.e.01 [White/whiteness]; 
+
+NULL
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AE.12.b [Order Chelonia (turtles, tortoises)]; AG.01.o [Animal food]; AI.12 [Taste/flavour]; AI.12.e [Sourness/acidity]; AU.25.c [Irascibility]; BF.25 [Artefacts]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; 
+
+AG.01.e [Dairy produce]; AG.01.n [Dishes and prepared food]; AG.02.b.02 [Farmland]; AI.12.e [Sourness/acidity]; AJ.09.e.01 [White/whiteness]; 
+
+AA.06.a [Structural features of the Earth]; AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; AG.01.t.08 [Equipment for food preparation]; AP.07.d.01 [Part of whole]; 
+
+AG.01.n.15 [Pastry]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; 
+
+AG.01.n.15 [Pastry]; 
+
+AE.08 [Invertebrates]; AF.19 [Algae, seaweed]; AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; AG.01.n.04 [Jelly]; 
+
+AG.01.n.15 [Pastry]; 
+
+AG.01.n.15 [Pastry]; 
+

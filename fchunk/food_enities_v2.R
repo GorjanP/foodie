@@ -1,6 +1,9 @@
 # brackets confuse it for some reason
 #change RBR and LBR to ( ) manually? and tag to PUNC
 
+
+#RUN AS IS AND FIX "DATES", USE Sem2 TAGS IN BASE fChunk RULE-ENGINE
+
 library(NLP)
 library(coreNLP)
 library(functional)
@@ -175,9 +178,15 @@ Food_checking <- function(s, tagged_data)
     {
       #n
       t_z <- grep("AG.01.(d|e|f|g|h|i|j|k|l|m|y|z)|AF|AE", tagged_data$sem2[i], value = FALSE)      
-    
+      t_t_obcj <- grep("AG.01.t.08", tagged_data$sem2[i], value = FALSE)
+      #add container tags ^
+      
       if(length(t_z) > 0)
         foods_check[i] <- 1
+      else if(length(t_t_obcj) > 0)
+      {
+        object_check[i] <- 1
+      }
       
       next
     }
@@ -641,6 +650,43 @@ create_graphs <- function()
 }
 
 
+fix_characters <- function(s)
+{
+  s <- gsub("[\r\n\t\f\v ][\r\n\t\f\v ]+", " ", s)
+  s <- gsub(x = s, pattern = "\"", replacement = "")
+  s <- gsub(x = s, pattern = "°", replacement = " degrees ")
+  
+  ret <- ""
+  chars <- strsplit(s, '')[[1]]
+  codes <- sapply(chars, FUN = charToInt)
+  
+  #add accented characters
+  
+  unwanted_array = list(    'S'='S', 's'='s', 'Z'='Z', 'z'='z', 'À'='A', 'Á'='A', 'Â'='A', 'Ã'='A', 'Ä'='A', 'Å'='A', 'Æ'='A', 'Ç'='C', 'È'='E', 'É'='E',
+                            'Ê'='E', 'Ë'='E', 'Ì'='I', 'Í'='I', 'Î'='I', 'Ï'='I', 'Ñ'='N', 'Ò'='O', 'Ó'='O', 'Ô'='O', 'Õ'='O', 'Ö'='O', 'Ø'='O', 'Ù'='U',
+                            'Ú'='U', 'Û'='U', 'Ü'='U', 'Ý'='Y', 'Þ'='B', 'ß'='Ss', 'à'='a', 'á'='a', 'â'='a', 'ã'='a', 'ä'='a', 'å'='a', 'æ'='a', 'ç'='c',
+                            'è'='e', 'é'='e', 'ê'='e', 'ë'='e', 'ì'='i', 'í'='i', 'î'='i', 'ï'='i', 'ð'='o', 'ñ'='n', 'ò'='o', 'ó'='o', 'ô'='o', 'õ'='o',
+                            'ö'='o', 'ø'='o', 'ù'='u', 'ú'='u', 'û'='u', 'ý'='y', 'ý'='y', 'þ'='b', 'ÿ'='y' )
+  # s <- iconv(s, to='ASCII//TRANSLIT', sep = "")
+  
+  for(i in 1:length(codes))
+  {
+    print(chars[i])
+    #if( in unwanted, change, else remove)
+    if(codes[i] == "NA")
+    {
+      next
+    }
+    else if(codes[i] >= 32 && codes[i] <= 126)
+    {
+      ret <- paste(ret, chars[i], sep="")
+    }
+    
+  }
+  
+  return(ret)
+}
+
 parse_recipe <- function(num, close = TRUE)
 {
   if(missing(num))
@@ -677,6 +723,7 @@ parse_recipe <- function(num, close = TRUE)
     
     
     #test regexp
+    #fix_characters
     s <<- readChar(f, file.info(f)$size)
     s <<- gsub("[\r\n\t\f\v ][\r\n\t\f\v ]+", " ", s)
     s <<- gsub(x = s, pattern = "\"", replacement = "")
