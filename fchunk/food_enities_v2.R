@@ -697,13 +697,14 @@ parse_recipe <- function(num, close = TRUE)
   
   invisible(do.call(file.remove, list(list.files("outputs/", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/food_chunks", full.names = TRUE))))
+  invisible(do.call(file.remove, list(list.files("outputs/food_chunk_ids", full.names = TRUE))))
   #invisible(do.call(file.remove, list(list.files("graphs", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/entities", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/food_modifiers1", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/food_modifiers2", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/sem2", full.names = TRUE))))
   
-  full_files = list.files("recipes/bulk/breakfast-and-brunch/recipes/", full.names = TRUE)
+  full_files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = TRUE)
   files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = FALSE)
   
   sent_token_annotator <<- Maxent_Sent_Token_Annotator()

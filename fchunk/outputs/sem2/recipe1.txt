@@ -1,22 +1,50 @@
-AE.13.d [Egg]; AG.01.g [Eggs]; AG.03 [Acquisition of animals for food, hunting]; AN.08.a.01 [Beating/repeated striking]; BI.12.b.10 [Metal]; 
+AE.13.d [Egg]; AG.01.g [Eggs]; 
 
-NULL
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
 
-AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.t.07 [Cooking]; AW.16.c.04 [Swindling]; 
+AE.13.d [Egg]; AG.01.g [Eggs]; 
 
-AA.03.f [Low ground, hollow, depression]; AG.01.n.11 [Bread]AL.05.h [Low position]; AJ.07.e.03.d [Quark]; 
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
 
-AG.01.n.11 [Bread]; AJ.02.m [Organic chemistry]; BE [Education]; 
+AE.13.d [Egg]; AG.01.g [Eggs]; 
 
-AE.07.b [Body and limbs]; AG.01.d.02 [Part/joint of animal]; AG.02.b.02 [Farmland]; 
+AA.04 [Water]; AB.17.o.03 [Excretions]; AG.01 [Food]; AJ.03.c.02 [Heat]; AJ.05.k [Dryness]; 
 
-04.10 []AG.01.e.02 [Cheese]; AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+AA.04 [Water]; AB.17.o.03 [Excretions]; AG.01 [Food]; AJ.03.c.02 [Heat]; AJ.05.k [Dryness]; 
 
-AG.01.n.11 [Bread]; AJ.02.m [Organic chemistry]; BE [Education]; 
+AE.13.d [Egg]; AG.01.g [Eggs]; 
 
-AG.01.n.11 [Bread]; AJ.02.m [Organic chemistry]; BE [Education]; 
+AA.04.a [Body of water]; AJ.05.b [Water]; 
 
-AG.01.n.11 [Bread]; AJ.02.m [Organic chemistry]; BE [Education]; 
+AE.13.d [Egg]; AG.01.g [Eggs]; AJ.03.c.03 [Coldness]; AU.03 [Absence of emotion]; AU.06 [Calmness]; 
 
-AG.01.n.11 [Bread]; AH.02.c [Wearing clothing]; AJ.02.m [Organic chemistry]; AL.03.f.03 [Coil]; AL.05.c [Condition of being external]; BE [Education]; 
+AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.t.05 [Preparation for table/cooking]; AG.01.t.06 [Preserving/pickling]; BI.12.b.10.d [Iron]; 
+
+AA.08.a [Rock, stone]; AB.08.e.06 [Reproductive substances/cells]; AC.01.b.06 [Respiratory disorders, coughing]; 
+
+AE.07.a [Markings/colourings]; AG.01.k [Flour]; AJ.09.e.01 [White/whiteness]; 
+
+AA.08.a [Rock, stone]; AB.08.e.06 [Reproductive substances/cells]; AC.01.b.06 [Respiratory disorders, coughing]; 
+
+AG.01.l.04 [Sauce/dressing]; AG.01.n.01 [Food by way of preparation]; BK.01.d.04.e [Card-game]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; ZA02 [Geographical Name]; ZA03 [Other Proper Name]; 
+
+04.10 []AG.01.l.04 [Sauce/dressing]; AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration]; 
+
+AA.11.d [Hot weather]; AG.01 [Food]; AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; AJ.03.c.02 [Heat]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AA.08.a [Rock, stone]; AB.08.e.06 [Reproductive substances/cells]; AC.01.b.06 [Respiratory disorders, coughing]; AG.01.af [Tea manufacture]; AI.10.e [Tobacco]; 
+
+AA.08.a [Rock, stone]; AB.08.e.06 [Reproductive substances/cells]; AG.01.g [Eggs]; 
+
+AB.17.e.06.a [Types and colours of hair]; AE.13.d [Egg]; AG.01.g [Eggs]; AJ.09.e.01 [White/whiteness]; AL.05.l [Quality of having sides/being a side]; AP.01.e [Contrariety/contrast]; AP.04.b.01 [Division into two]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.i [Herb]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.f [Fruits as vegetables]; AG.01.l.03 [Spice]; 
 

@@ -40,7 +40,7 @@ vector<map<string, bool> > sem2_final;
 vector<string> roots;
 //vector<int> gov;
 //vector<int> dep;
-vector<int> beginnings;
+//vector<int> beginnings;
 vector<int> root_ids;
 vector<int> sentence_id;
 vector<int> sentence_id_final;
@@ -906,6 +906,18 @@ void print_foods(string fname)
         out << s_final[i] << endl;
     }
     out.close();
+
+    out.open("outputs/food_chunk_ids/" + fname);
+    for(int i = 0; i < n; i++)
+    {
+        if(!is_food_final[i])
+            continue;
+
+        out << id_mapping_final[i][0] << endl;
+    }
+    out.close();
+
+
 }
 
 vector<string> fixed_verbs = {

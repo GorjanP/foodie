@@ -1,33 +1,75 @@
-beaten eggs [3, 25]
-pour [3, 23]
+eggs [1, 2]
+place [1, 0]
 
-croissants [6, 69]
-butter [6, 64]
+water [1, 13]
+fill [1, 11]
 
-cooked egg [6, 76]
-place [6, 72]
+eggs [1, 17]
+cover [1, 15]
 
-croissant bottom [6, 79]
-place [6, 72]
+water [2, 28]
+bring [2, 26]
 
-sandwich [7, 83]
-top [7, 84]
+eggs [2, 40]
+let [2, 38]
 
-ham [7, 88]
-top [7, 84]
+hot water [2, 44]
+stand [2, 41]
 
-Colby-Jack cheese [7, 93]
-top [7, 84]
+hot water [3, 51]
+drain [3, 50]
 
-sandwiches [8, 103]
-place [8, 99]
+eggs [3, 55]
+cool [3, 55]
 
-sandwich [8, 107]
-wrap [8, 109]
+water [3, 59]
+cool [3, 55]
 
-sandwiches [9, 115]
-place [9, 117]
+cooled eggs [3, 66]
+peel [3, 66]
 
-wrapped sandwich [11, 137]
-cook [11, 139]
+chilled eggs [4, 70]
+cut [4, 71]
+
+yolks [5, 77]
+place [5, 79]
+
+whites [5, 85]
+set [5, 87]
+
+yolks [6, 90]
+mash [6, 92]
+
+mayonnaise [6, 100]
+stir [6, 101]
+
+Worcestershire sauce [6, 102]
+stir [6, 101]
+
+horseradish sauce [6, 104]
+stir [6, 101]
+
+hot sauce [6, 106]
+stir [6, 101]
+
+salt [6, 108]
+stir [6, 101]
+
+pepper [6, 111]
+stir [6, 101]
+
+yolk mixture [7, 115]
+spoon [7, 120]
+
+yolks [8, 136]
+pipe [9, 142]
+
+egg white halves [8, 139]
+pipe [9, 142]
+
+parsley [9, 143]
+sprinkle [0, 151]
+
+paprika [9, 145]
+sprinkle [0, 151]
 
