@@ -26,7 +26,7 @@ check_duplicate_recipes <- function()
   files1 = list.files("allrecipes1/recipes/", full.names = FALSE)
   
   data1 = list()
-  
+    
   for(f in full_files1)
   {
     s <- readChar(f, file.info(f)$size)
@@ -67,7 +67,7 @@ check_duplicate_recipes <- function()
 
 tagger <- function(text)
 {
-  command <- 'java -cp .;./lib/UcrelSemTaggerClient.jar ApiTagger '
+  command <- 'java --add-modules=java.se.ee -cp .;./lib/UcrelSemTaggerClient.jar ApiTagger '
   text <- paste('"',text,sep = "")
   text <- paste(text,'"',sep = "")
   command <- paste(command,text,sep = "")
@@ -169,7 +169,7 @@ Food_checking <- function(s, tagged_data)
     #print(tagged_data$token[i])
     if(length(t_con) > 0)
     {
-      print( tagged_data$token[i])
+      #print( tagged_data$token[i])
       container_check[i] <- 1
     }
     
@@ -654,6 +654,7 @@ fix_characters <- function(s)
 {
   s <- gsub("[\r\n\t\f\v ][\r\n\t\f\v ]+", " ", s)
   s <- gsub(x = s, pattern = "\"", replacement = "")
+  s <<- gsub(x = s, pattern = "\"", replacement = "")
   s <- gsub(x = s, pattern = "°", replacement = " degrees ")
   
   ret <- ""
@@ -691,17 +692,19 @@ parse_recipe <- function(num, close = TRUE)
 {
   if(missing(num))
   {
-    num = 1
+    num = 10000000
   }
   
+  invisible(do.call(file.remove, list(list.files("outputs/", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/food_chunks", full.names = TRUE))))
   #invisible(do.call(file.remove, list(list.files("graphs", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/entities", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/food_modifiers1", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/food_modifiers2", full.names = TRUE))))
+  invisible(do.call(file.remove, list(list.files("outputs/sem2", full.names = TRUE))))
   
-  full_files = list.files("recipes/", full.names = TRUE)
-  files = list.files("recipes/", full.names = FALSE)
+  full_files = list.files("recipes/bulk/breakfast-and-brunch/recipes/", full.names = TRUE)
+  files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = FALSE)
   
   sent_token_annotator <<- Maxent_Sent_Token_Annotator()
   word_token_annotator <<- Maxent_Word_Token_Annotator()
@@ -714,7 +717,7 @@ parse_recipe <- function(num, close = TRUE)
   grafoj = list()
   for(f in full_files)
   {
-    
+      
     if(ctr > num)
       break;
     
@@ -728,7 +731,7 @@ parse_recipe <- function(num, close = TRUE)
     s <<- gsub("[\r\n\t\f\v ][\r\n\t\f\v ]+", " ", s)
     s <<- gsub(x = s, pattern = "\"", replacement = "")
     s <<- gsub(x = s, pattern = "°", replacement = " degrees ")
-    
+    s <<- iconv(s, to='ASCII//TRANSLIT')
     s <<- fixFractions_small(fixFractions(s))
     
     
@@ -750,6 +753,9 @@ parse_recipe <- function(num, close = TRUE)
     #print(tag_data$token)
     #print(ann$token$token)
     
+    
+    result <- tryCatch({
+    
     t_extended <- to_extended_POS(tag_data = tag_data, ann = ann)
     t_reduced <- to_reduced_POS(tag_data = tag_data, ann = ann)
     
@@ -760,6 +766,13 @@ parse_recipe <- function(num, close = TRUE)
     cp_tag_data <<- tag_data
     cp_ann <<- ann
     cp_ann_reduced <<- ann_reduced
+    
+    }, warning = function(w) {
+      #print(paste("Warning at ", f))
+    }, error = function(e){
+      line = paste("Error at ", f)
+      write(line, file = "outputs/errors.txt", append = TRUE)
+    })
     
     t_food_object <- Food_checking(s, tag_data)
     food<- as.vector(t_food_object$foods_check)
@@ -791,10 +804,9 @@ parse_recipe <- function(num, close = TRUE)
     system(command)
     
     ctr = ctr + 1
-    
-    
-    
-  }
+    }
+  
+  
   #OLD GRAPH CODE GOES HERE
   
   #Cleanup

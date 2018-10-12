@@ -1,0 +1,33 @@
+beaten eggs [3, 25]
+pour [3, 23]
+
+croissants [6, 69]
+butter [6, 64]
+
+cooked egg [6, 76]
+place [6, 72]
+
+croissant bottom [6, 79]
+place [6, 72]
+
+sandwich [7, 83]
+top [7, 84]
+
+ham [7, 88]
+top [7, 84]
+
+Colby-Jack cheese [7, 93]
+top [7, 84]
+
+sandwiches [8, 103]
+place [8, 99]
+
+sandwich [8, 107]
+wrap [8, 109]
+
+sandwiches [9, 115]
+place [9, 117]
+
+wrapped sandwich [11, 137]
+cook [11, 139]
+

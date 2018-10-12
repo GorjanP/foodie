@@ -1,0 +1,22 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; AG.03 [Acquisition of animals for food, hunting]; AN.08.a.01 [Beating/repeated striking]; BI.12.b.10 [Metal]; 
+
+NULL
+
+AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.t.07 [Cooking]; AW.16.c.04 [Swindling]; 
+
+AA.03.f [Low ground, hollow, depression]; AG.01.n.11 [Bread]AL.05.h [Low position]; AJ.07.e.03.d [Quark]; 
+
+AG.01.n.11 [Bread]; AJ.02.m [Organic chemistry]; BE [Education]; 
+
+AE.07.b [Body and limbs]; AG.01.d.02 [Part/joint of animal]; AG.02.b.02 [Farmland]; 
+
+04.10 []AG.01.e.02 [Cheese]; AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.n.11 [Bread]; AJ.02.m [Organic chemistry]; BE [Education]; 
+
+AG.01.n.11 [Bread]; AJ.02.m [Organic chemistry]; BE [Education]; 
+
+AG.01.n.11 [Bread]; AJ.02.m [Organic chemistry]; BE [Education]; 
+
+AG.01.n.11 [Bread]; AH.02.c [Wearing clothing]; AJ.02.m [Organic chemistry]; AL.03.f.03 [Coil]; AL.05.c [Condition of being external]; BE [Education]; 
+

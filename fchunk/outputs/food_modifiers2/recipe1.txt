@@ -1,0 +1,9 @@
+No anaphora found!
+set
+
+sandwiches	
+solid
+
+wrapped sandwich	
+hot
+
