@@ -704,8 +704,12 @@ parse_recipe <- function(num, close = TRUE)
   invisible(do.call(file.remove, list(list.files("outputs/food_modifiers2", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/sem2", full.names = TRUE))))
   
-  full_files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = TRUE)
-  files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = FALSE)
+  #full_files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = TRUE)
+  #files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = FALSE)
+  
+  full_files = list.files("recipes/", full.names = TRUE)
+  files = list.files("recipes/", full.names = FALSE)
+
   
   sent_token_annotator <<- Maxent_Sent_Token_Annotator()
   word_token_annotator <<- Maxent_Word_Token_Annotator()
@@ -776,7 +780,7 @@ parse_recipe <- function(num, close = TRUE)
     })
     
     t_food_object <- Food_checking(s, tag_data)
-    food<- as.vector(t_food_object$foods_check)
+    food <- as.vector(t_food_object$foods_check)
     object<- as.vector(t_food_object$objects_check)
     color <- as.vector(t_food_object$colors_check)
     disallowed <- as.vector(t_food_object$disallowed_check)
@@ -804,6 +808,7 @@ parse_recipe <- function(num, close = TRUE)
     print(paste("Executing command: ", command))
     system(command)
     
+    #invisible(do.call(file.remove, as.list(f)))
     ctr = ctr + 1
     }
   

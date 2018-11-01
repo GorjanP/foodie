@@ -1,0 +1,84 @@
+olive oil [1, 8]
+heat [1, 6]
+
+salt [2, 17]
+season [2, 11]
+
+pepper [2, 19]
+season [2, 11]
+
+cumin [3, 42]
+coriander [3, 41]
+
+paprika [3, 44]
+coriander [3, 41]
+
+oregano [3, 46]
+coriander [3, 41]
+
+cinnamon [3, 48]
+coriander [3, 41]
+
+meat [4, 55]
+lower [4, 51]
+
+spices [4, 59]
+lower [4, 51]
+
+puree [5, 65]
+in [5, 62]
+
+onions [5, 67]
+in [5, 62]
+
+garlic [5, 69]
+in [5, 62]
+
+peppers [5, 72]
+chipotle [5, 72]
+
+tomato puree [5, 76]
+chipotle [5, 72]
+
+sugar [5, 78]
+chipotle [5, 72]
+
+steam vegetables [6, 92]
+increase [6, 88]
+
+peppers [6, 98]
+sweeten [6, 99]
+
+water [7, 102]
+add [7, 103]
+
+tomatoes [7, 115]
+add [7, 117]
+
+liquid [7, 118]
+add [7, 117]
+
+foam [8, 128]
+skim [8, 128]
+
+meat [9, 142]
+simmer [9, 142]
+
+water [10, 163]
+add [10, 164]
+
+meat [12, 187]
+mash [12, 185]
+
+salt [13, 195]
+season [13, 196]
+
+pepper [13, 197]
+season [13, 196]
+
+chives [14, 210]
+garnish [14, 205]
+
+sour cream [14, 213]
+garnish [14, 205]
+

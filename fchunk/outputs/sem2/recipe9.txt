@@ -1,0 +1,18 @@
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; AG.01.t.07 [Cooking]; AJ.05.a [Making liquid/melting]; BI.12.b.01 [Materials having undergone process]; 
+
+AG.01.n.11 [Bread]; AG.01.n.13 [Cake]; AG.01.n.14 [Biscuit]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; AJ.04.h [Softness]; 
+
+AF.20 [Particular food plant/product]; AF.20.d [Edible pods/seeds/leaves/flowers]; AF.29 [Particular cultivated/ornamental plants]; AG.01.m [Substances for food preparation]; AG.01.n.17.a [Sweets]; AJ.09.e.03 [Red/redness]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; AL.02.d.01 [Largeness]; AP.06.a [Greatness of quantity/amount/degree]; 
+
+AG.01.n.11 [Bread]; AG.01.n.13 [Cake]; AG.01.n.14 [Biscuit]; AP.04.l [Mathematical notation/symbol]; BG.04.g.01 [Heraldic devices collectively]; BK.05.g.02 [Column]; 
+
+AA.03.h [Waterlogged/wild land]; AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01 [Food]; AG.01.h.01.b [Berry]; AG.01.z [Water]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.b [Berry]; 
+
+NULL
+

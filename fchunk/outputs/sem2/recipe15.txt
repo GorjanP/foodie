@@ -1,0 +1,64 @@
+AB.17.e.03.d [Breast/breasts (of woman)]; AD.03.c [Young person]; AE.07.b [Body and limbs]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.02 [Part/joint of animal]; AG.01.d.06 [Fowls]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+AB.17.e.05 [Skin]; AL.05.l [Quality of having sides/being a side]; AL.06 [Direction]; AY.04.e [Party/faction]; 
+
+NULL
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+NULL
+
+NULL
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+AB.17.s.01 [Substance of nervous system, nerves]; AB.18.f.01 [Formal/ceremonial mourning]; AF.10.b [Shoot/sprout/branch]; AF.28 [Fragrant plants/plants used in perfumery]; AP.07.d.01 [Part of whole]; 
+
+AB.08.f.02 [Heredity/hereditary descent]; AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; AS.13.c [Good repute]; AW.20 [Supply]; 
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+NULL
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+NULL
+
+AB.08.f.02 [Heredity/hereditary descent]; AS.13.c [Good repute]; AW.20 [Supply]; 
+
+AB.08.f.02 [Heredity/hereditary descent]; AS.13.c [Good repute]; AW.20 [Supply]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AJ.02.p [Physical chemistry]; AJ.05 [Liquid]; AX.18 [Phonetics and phonology]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AB.18.f.01 [Formal/ceremonial mourning]; AF.28 [Fragrant plants/plants used in perfumery]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+NULL
+

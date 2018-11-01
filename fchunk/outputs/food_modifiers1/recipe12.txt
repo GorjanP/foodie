@@ -1,0 +1,39 @@
+corn [1, 4]
+put [1, 0]
+
+milk [1, 7]
+put [1, 0]
+
+oil [3, 23]
+heat [3, 21]
+
+onion [4, 36]
+add [4, 34]
+
+pepper [4, 38]
+add [4, 34]
+
+courgette [4, 41]
+add [4, 34]
+
+vegetables [4, 48]
+cook [4, 43]
+
+corn [5, 59]
+add [5, 56]
+
+broth [5, 62]
+add [5, 56]
+
+pureed corn [6, 71]
+add [6, 69]
+
+tomatoes [6, 73]
+add [6, 69]
+
+salt [7, 86]
+add [7, 85]
+
+pepper [7, 90]
+season [7, 89]
+

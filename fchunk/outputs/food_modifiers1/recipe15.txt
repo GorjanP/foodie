@@ -1,0 +1,96 @@
+chicken breasts [1, 11]
+sprinkle [1, 6]
+
+salt [1, 13]
+sprinkle [1, 6]
+
+pepper [1, 15]
+sprinkle [1, 6]
+
+butter [3, 39]
+melt [3, 35]
+
+chicken [4, 49]
+add [4, 48]
+
+skin side [4, 51]
+add [4, 48]
+
+shallots [5, 56]
+add [5, 56]
+
+chicken [6, 68]
+cook [6, 67]
+
+shallots [6, 70]
+cook [6, 67]
+
+shallots [7, 84]
+flip [7, 84]
+
+chicken [7, 86]
+flip [7, 84]
+
+rosemary sprigs [7, 91]
+nestle [7, 90]
+
+chicken stock [7, 98]
+pour [7, 98]
+
+chicken [8, 111]
+roast [8, 112]
+
+shallots [8, 117]
+transfer [8, 104]
+
+chicken [8, 131]
+roast [8, 112]
+
+chicken [9, 140]
+transfer [9, 142]
+
+shallots [10, 152]
+check [10, 150]
+
+stock [10, 157]
+make [10, 158]
+
+stock [10, 174]
+add [10, 174]
+
+water [10, 176]
+add [10, 174]
+
+juices [11, 181]
+reduce [11, 182]
+
+liquid [11, 190]
+reduce [11, 182]
+
+butter [12, 212]
+stir [12, 209]
+
+sauce [12, 221]
+thicken [12, 222]
+
+rosemary [13, 230]
+remove [13, 232]
+
+sauce [13, 234]
+season [13, 236]
+
+salt [13, 236]
+season [13, 236]
+
+pepper [13, 238]
+season [13, 236]
+
+sauce [14, 244]
+spoon [14, 244]
+
+chicken [14, 247]
+spoon [14, 244]
+
+shallots [14, 249]
+spoon [14, 244]
+

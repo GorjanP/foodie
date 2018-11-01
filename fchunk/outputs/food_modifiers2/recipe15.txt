@@ -1,0 +1,6 @@
+chicken	
+cooked
+
+liquid	
+remains
+

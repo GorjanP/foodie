@@ -1,0 +1,111 @@
+chicken breasts [2, 10]
+put [2, 8]
+
+salt [3, 20]
+sprinkle [3, 17]
+
+pepper [3, 26]
+sprinkle [3, 17]
+
+olive oil [3, 32]
+sprinkle [3, 17]
+
+bacon strips [5, 65]
+arrange [5, 65]
+
+bacon [6, 78]
+bake [6, 72]
+
+crisp [6, 83]
+bake [6, 72]
+
+chicken [8, 98]
+grill [8, 99]
+
+chicken [8, 109]
+grill [8, 99]
+
+sourdough loaf [10, 134]
+slice [10, 135]
+
+bread [11, 151]
+scoop [11, 150]
+
+mayonnaise [12, 163]
+whisk [12, 165]
+
+anchovies [12, 167]
+whisk [12, 165]
+
+garlic [12, 169]
+whisk [12, 165]
+
+lemon zest [12, 171]
+whisk [12, 165]
+
+juice [12, 173]
+whisk [12, 165]
+
+salt [12, 177]
+whisk [12, 165]
+
+black pepper [12, 183]
+whisk [12, 165]
+
+olive oil [12, 189]
+whisk [12, 165]
+
+salt [14, 223]
+taste [15, 227]
+
+pepper [14, 225]
+taste [15, 227]
+
+salad dressing [15, 230]
+spread [15, 234]
+
+bread [15, 236]
+spread [15, 234]
+
+kale salad [16, 247]
+layer [16, 252]
+
+bacon [16, 249]
+layer [16, 252]
+
+sliced chicken [16, 251]
+layer [16, 252]
+
+salt [16, 257]
+building [16, 246]
+
+radishes [17, 261]
+place [17, 269]
+
+chicken [17, 266]
+place [17, 269]
+
+cucumber [17, 275]
+add [18, 283]
+
+kale salad [18, 284]
+scoop [18, 291]
+
+bread [18, 291]
+scoop [18, 291]
+
+sandwich [18, 299]
+place [19, 305]
+
+twine [19, 314]
+secure [20, 323]
+
+sandwich [21, 350]
+bring [22, 359]
+
+grilled chicken breasts [22, 365]
+pick [22, 374]
+
+sandwich [23, 387]
+a [24, 389]
+

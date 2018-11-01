@@ -1,0 +1,32 @@
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+NULL
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.20.d [Edible pods/seeds/leaves/flowers]; AG.01.m [Substances for food preparation]; AG.01.n.17.a [Sweets]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AG.01.af [Tea manufacture]; AG.01.j [Meal]; AG.01.k [Flour]; AI.10.e [Tobacco]; 
+
+AG.01.k [Flour]; AJ.04.c [Granular texture]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.b [Berry]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AL.05.h [Low position]; AQ.03.c [Fairy/elf]AL.05.h [Low position]; BK.08.k [Place for sports/games]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.b [Berry]; 
+

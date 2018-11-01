@@ -1,0 +1,32 @@
+04.10 []AG.01.i [Corn/cereals/grain]; AF.20.g [Cereal/corn/grain]; 
+
+AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AF.10 [Part of plant]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AC.02.e [Medicines/physic]; AG.01.l.03 [Spice]; AG.01.n.01 [Food by way of preparation]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; BI.06.c [Working with specific materials]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; BK.07.c.01 [A play]; 
+
+AA [The world]; AA.08.c [Minerals, ores]; AB.08.f.02 [Heredity/hereditary descent]; AF.02.a [Food plant/vegetable]; AS.13.c [Good repute]; AW.20 [Supply]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AF.13.c [Non-British trees/shrubs]; AF.20.c [Edible nuts/nut-trees]; AG.01.e [Dairy produce]; AG.01.h.01.f [Nut]; 
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AB.17.o.03 [Excretions]; AJ.05.h.02 [Action/process of squirting/issuing in a jet]; 
+
+AG.01.l [Additive]; AG.01.t.05 [Preparation for table/cooking]; BI.06.d.04 [Constructing/working with wood]; 
+
+AG.01.l.03 [Spice]; AG.01.n.01 [Food by way of preparation]; BI.06.c [Working with specific materials]; 
+
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; 
+
+AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+

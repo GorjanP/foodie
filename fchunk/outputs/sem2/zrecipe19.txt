@@ -1,0 +1,46 @@
+AE.14.m.03 [Subfamily Bovinae (bovines)]; AG.01.d.03 [Beef]; AG.01.m [Substances for food preparation]; AG.01.n.02 [Soup/pottage]; AP.07.e.03 [Condition/state of being mixed/blended]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; ZA02 [Geographical Name]; ZA03 [Other Proper Name]; 
+
+AE.13.o [Order Passeriformes (song-birds)]; AE.14.l [Family Suidae (pigs)]; AG.01.d.05 [Pork]; 
+
+AE.13.h [Order Galliformes (fowls)]; AG.01.d.06 [Fowls]; 
+
+NULL
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AC.02.e [Medicines/physic]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AE.04 [Animals hunted]; AG.01 [Food]; AG.01.d [Animals for food]; 
+
+BK.01.e.05 [Ball/balloon]; BK.08.v.01 [Characteristics of team ball games]; BK.09.c [Ball/dance]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+04.10 []AE.07.b [Body and limbs]; BK.01.e.05 [Ball/balloon]; BK.09.c [Ball/dance]; 
+
+AG.01.r [Meal]; AG.01.t.07 [Cooking]; AI.10 [Use of drugs, poison]; AJ.02.p [Physical chemistry]; AJ.05 [Liquid]; AX.18 [Phonetics and phonology]; 
+
+AJ.02.p [Physical chemistry]; AJ.05 [Liquid]; AX.18 [Phonetics and phonology]; 
+
+AG.01.r [Meal]; AG.01.t.07 [Cooking]; AI.10 [Use of drugs, poison]; AJ.02.p [Physical chemistry]; AJ.05 [Liquid]; AX.18 [Phonetics and phonology]; 
+
+BK.01.e.05 [Ball/balloon]; BK.09 [Dancing]; BK.09.c [Ball/dance]; 
+
+AG.01.e [Dairy produce]; AG.01.n [Dishes and prepared food]; AG.02.b.02 [Farmland]; AI.12.e [Sourness/acidity]; AJ.09.e.01 [White/whiteness]; 
+
+AE.08 [Invertebrates]; AG.01.n.04 [Jelly]; AI.09.h [Contraception/birth control]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.i [Herb]; 
+

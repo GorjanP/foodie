@@ -1,0 +1,42 @@
+AA [The world]; AA.08.c [Minerals, ores]; AF.02.a [Food plant/vegetable]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; AG.01.n.11 [Bread]; BK.01.e.06 [Puzzle]; BK.04.b [Piece of music]; 
+
+NULL
+
+AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; BK.07.c.01 [A play]; 
+
+AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AB.08.f.02 [Heredity/hereditary descent]; AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; AS.13.c [Good repute]; AW.20 [Supply]; 
+
+AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration]; ZZ [Unrecognised]AG.01.l.04 [Sauce/dressing]; 
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; AG.01.n.11 [Bread]; BK.01.e.06 [Puzzle]; BK.04.b [Piece of music]; 
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; 
+
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; 
+
+AJ.02.p [Physical chemistry]; AJ.05 [Liquid]; AX.18 [Phonetics and phonology]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; AJ.03.c.02.b [Action of boiling]; AN.02.c [Irregular movement/agitation]; AU.04 [Intense emotion]; 
+
+AA.11.g [Wind]; AB.17.m.01.a [Mouth, teeth]; AK.02.b.04 [Biting]; 
+
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; 
+
+AD.03.c [Young person]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AG.01.d.06 [Fowls]; 
+
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; 
+
+AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AB.17.e.06.a [Types and colours of hair]; AB.17.r.04 [Blood]; AJ.09.e.03 [Red/redness]; 
+
+04.10 []AG.01.d.06 [Fowls]; AE.13.h.01 [Genus Gallus (domestic fowl)]; AI.12 [Taste/flavour]; AS.17 [Good taste]; AU.27.c [Terms of endearment]; 
+

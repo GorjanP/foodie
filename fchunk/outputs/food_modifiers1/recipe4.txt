@@ -1,0 +1,30 @@
+yoghurt [2, 16]
+mix [2, 13]
+
+mint [2, 20]
+coriander [2, 18]
+
+lime juice [2, 22]
+coriander [2, 18]
+
+lime zest [2, 24]
+coriander [2, 18]
+
+chicken [3, 36]
+put [3, 36]
+
+rice [3, 38]
+put [3, 36]
+
+almonds [3, 43]
+put [3, 36]
+
+spring onions [3, 45]
+put [3, 36]
+
+yoghurt dressing [4, 56]
+add [4, 57]
+
+chopped coriander [5, 68]
+serve [5, 67]
+

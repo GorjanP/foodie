@@ -1,0 +1,30 @@
+AD.03 [Person]; AE.08.g [Class Crustacea (crustaceans)]; AE.13.o [Order Passeriformes (song-birds)]; AG.01.d.05 [Pork]; AG.01.d.07 [Seafood]; AR.37.b [Philistinism]; ZC [Grammatical Item]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.h [Fungi]; AL.03.h.01 [Projection/prominence, rough surface]; 
+
+AG.01.d.07 [Seafood]; AR.27 [Stupid/foolish/inadequate person]; AU.27.c [Terms of endearment]; 
+
+AE.14.d.02 [Dog]; AG.01.m [Substances for food preparation]; AG.03.c [Hunter]; ZC [Grammatical Item]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; 
+
+AE.13.o [Order Passeriformes (song-birds)]; AE.14.l [Family Suidae (pigs)]; AG.01.d.05 [Pork]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+NULL
+
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; 
+
+AB.17.c [Bodily height]; AG.01.n.03 [Puddings]; 
+
+AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; 
+
+AB.17.c [Bodily height]; AG.01.n.03 [Puddings]; ZC [Grammatical Item]; 
+
+AB.17.c [Bodily height]; AG.01.n.03 [Puddings]; 
+

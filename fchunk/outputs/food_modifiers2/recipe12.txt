@@ -1,0 +1,9 @@
+milk	corn	
+smooth
+
+vegetables	
+tender
+
+tomatoes	pureed corn	
+warmed
+

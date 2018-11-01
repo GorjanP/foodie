@@ -1,0 +1,44 @@
+AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration]; ZZ [Unrecognised]AG.01.l.04 [Sauce/dressing]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
+
+AE.10 [Fish]; AG.01.d.07 [Seafood]; AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; BK.07.c.01 [A play]; 
+
+AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AA.04.e [Pool, pond]; AA.04.f [Ice]; AF.20.e [Particular vegetables]AP.07.d.01 [Part of whole]; 
+
+AD.03 [Person]; AE.08.g [Class Crustacea (crustaceans)]; AG.01.d.07 [Seafood]; 
+
+AD.03 [Person]; AE.08.g [Class Crustacea (crustaceans)]; AG.01.d.07 [Seafood]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; 
+
+NULL
+
+AD.03 [Person]; AE.08.g [Class Crustacea (crustaceans)]; AG.01.d.07 [Seafood]; 
+
+AG.01.af [Tea manufacture]; AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration]; AI.10.e [Tobacco]; ZZ [Unrecognised]AG.01.l.04 [Sauce/dressing]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AD.03 [Person]; AE.08.g [Class Crustacea (crustaceans)]; AG.01.d.07 [Seafood]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.f [Fruits as vegetables]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AF.20.e [Particular vegetables]; BA.15.a.04.c [Piece of artillery]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.h.02.i [Herb]; BJ.01.m.06 [Coining]; 
+
+AA.08.c.09 [Oxides and hydroxides]; AF.10.f [Plant substances]; AG.01.ab [Fruit juice/squash]; AG.01.h.01.a [Citrus fruit]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+

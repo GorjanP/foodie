@@ -1,0 +1,69 @@
+chicken breasts [1, 2]
+freeze [1, 0]
+
+chicken [1, 13]
+slice [1, 12]
+
+garlic [2, 27]
+toss [2, 21]
+
+ginger [2, 29]
+toss [2, 21]
+
+soy sauce [2, 32]
+toss [2, 21]
+
+sugar [2, 34]
+toss [2, 21]
+
+cornflour [2, 40]
+toss [2, 21]
+
+salt [2, 46]
+toss [2, 21]
+
+sherry [2, 50]
+toss [2, 21]
+
+cornflour [4, 66]
+mix [4, 65]
+
+broth [4, 69]
+mix [4, 65]
+
+oil [5, 76]
+heat [5, 73]
+
+asparagus [6, 87]
+add [6, 87]
+
+spring onions [6, 89]
+add [6, 87]
+
+garlic [6, 92]
+add [6, 87]
+
+ginger [6, 94]
+add [6, 87]
+
+water [6, 99]
+add [6, 87]
+
+salt [6, 106]
+season [6, 105]
+
+asparagus [7, 111]
+stir-fry [7, 111]
+
+oil [9, 141]
+add [9, 140]
+
+chicken [10, 145]
+add [10, 146]
+
+asparagus [11, 166]
+return [11, 167]
+
+rice [13, 206]
+serve [13, 207]
+

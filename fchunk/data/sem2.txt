@@ -1,159 +1,334 @@
-AL.04 [Place]; AL.04.e [Placing/fact of being placed in (a) position]; BK.08.q.03 [Horse-racing];
-ZC [Grammatical Item];
-AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.g [Eggs];
-ZC [Grammatical Item];
-ZC [Grammatical Item];
-AG.01.t.08 [Equipment for food preparation]
-ZC [Grammatical Item];
-ZC [Grammatical Item];
-AP.02.b [Individual character/quality]; AJ.02.f [Chemical bonding]; BA.02 [Armed encounter];
-AL.04.e [Placing/fact of being placed in (a) position]; AG.02.e.02 [Propagation of plants]; AA.09.b [Cartography];
-ZC [Grammatical Item];
-AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; BH.14.c.03 [Use of sails/spars/rigging];
-ZC [Grammatical Item];
-AA.04 [Water]; AB.17.o.03 [Excretions];
-ZC [Grammatical Item];
-AL.05.c [Condition of being external]; AE.13.d [Egg]; AH.02.d [Providing with/covering with clothing];
-ZC [Grammatical Item];
-AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.g [Eggs];
-ZC [Grammatical Item];
-AP.04 [Number];
-AP.05.a [Measurement of length]; AA.03.b [Island]; AA.03.e [High/rising ground];
+AI.15.d.04 [Loud cry/shout]; BB.02.a [Command/bidding]; BG.14.b.02 [Telephony];
+04.10 []
+04.10 []
 NULL
-AH.02.d [Providing with/covering with clothing]; BE.02 [Teaching]; BK.04.f [Performing music];
 ZC [Grammatical Item];
-AG.01.t.08 [Equipment for food preparation]
+AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];
+04.10 []
+AG.01.t.07 [Cooking]; AJ.03.c.02 [Heat]; AU.05 [Excitement];
+AG.01.d.05 [Pork]; AR.37.b [Philistinism]; AE.13.o [Order Passeriformes (song-birds)];
 ZC [Grammatical Item];
-AN.06 [Transference]; AK.03 [Cause]; BG.05.d [Reporting];
+AG.01.d.07 [Seafood]; AD.03 [Person]; AE.08.g [Class Crustacea (crustaceans)];
+AG.01.n.03 [Puddings]; AB.17.c [Bodily height];
 ZC [Grammatical Item];
-AA.04 [Water]; AB.17.o.03 [Excretions];
+AR.48.c [Possibility, probability]; AO.23 [Ability];
+AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];
+AO.11.b.01 [Finding/discovery]; AO.11.b.01 [Finding/discovery]; AO.11.b.01 [Finding/discovery];
+ZC [Grammatical Item];
+AP.07.b [The whole/all]; AP.02.a [Generality]; AM.02 [Duration];
+ZC [Grammatical Item];
+AJ.08.j.01 [Dimness/absence of brightness]; AJ.08.j.02 [Darkness/gloom]; AJ.03.c.02.c [Burning, fire, flame, ash];
+AP.04.o [Algebra]; BJ.01.m.02 [Sum of money]; AP.04.m [Enumeration/reckoning/calculation];
+AG.01.x.01.a [Eating place]
+ZC [Grammatical Item];
+ZA02 [Geographical Name];
+ZA02 [Geographical Name];
 ZC [Grammatical Item];
 ZC [Grammatical Item];
-AJ.03.c.02.b [Action of boiling]; AJ.03.c.02.b [Action of boiling]; AA.04.g [Flowing water];
+ZC [Grammatical Item];
+AA [The world]; AA.10.e [Planet]; AY [Society];
 NULL
-AL.04.f [Removal/displacement]; BB.07.e [Removal from office/authority]; AL.04.f [Removal/displacement];
+ZF [Pronoun];
+AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];
+AM.10.b [Infrequency]; AM.08.c [The past]; AW.01 [Owning];
+AP.01.k [Equality/equivalence]; AK.02 [Creation]; BH.03 [Travel in specific course/direction];
 ZC [Grammatical Item];
 ZC [Grammatical Item];
-AJ.03.c.02 [Heat]; AJ.07.c.02 [Heat]; AJ.03.c.02 [Heat];
+AG.01.d.05 [Pork]; AE.13.o [Order Passeriformes (song-birds)]; AE.14.l [Family Suidae (pigs)];
 ZC [Grammatical Item];
-BJ.01.j.04 [Hiring/letting out]; AO.12.c [Hindrance]; BB.10.d [Permission];
+AG.01.h.02.h [Fungi]; AF.20.e [Particular vegetables]; AL.03.h.01 [Projection/prominence, rough surface];
+AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space];
 ZC [Grammatical Item];
-AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.g [Eggs];
-AU.07.a [Patience]; AU.07.a [Patience]; AL.04.a [Position/situation];
+AJ.08.j [Darkness/absence of light]; AN.05.g [Upward movement]; BI.06.b [General/industrial manufacturing processes];
 ZC [Grammatical Item];
 ZC [Grammatical Item];
-AJ.03.c.02 [Heat]; AG.01 [Food]; AJ.05.k [Dryness];
-AA.04 [Water]; AB.17.o.03 [Excretions];
-ZC [Grammatical Item];
-AP.04 [Number];
-AM.04 [Period]; AP.04.s.04 [Angle]; AP.02.b.03 [The quality of being specific];
+AB.17.e.06.a [Types and colours of hair]; AB.17.r.04 [Blood]; AJ.09.e.03 [Red/redness];
+04.10 []
 NULL
-AJ.05.f [Action/process of extracting]; AJ.05.k [Dryness]; AJ.05.f [Action/process of extracting];
+AP.01.f [Difference]; AP.01.e [Contrariety/contrast]; AP.01.e [Contrariety/contrast];
+AR.36 [Knowledge]; AR.36.b [Scholarly knowledge, erudition]; AR.16 [Understanding];
 ZC [Grammatical Item];
-AG.01 [Food]; AJ.05.k [Dryness]; AJ.03.c.02 [Heat];
-AA.04 [Water]; AB.17.o.03 [Excretions];
-ZC [Grammatical Item];
-AJ.03.c.03 [Coldness]; AJ.03.c.03 [Coldness]; AJ.03.c.03 [Coldness];
-ZC [Grammatical Item];
-AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.g [Eggs];
-ZC [Grammatical Item];
-AJ.03.c.03 [Coldness]; AJ.03.c.03 [Coldness]; AJ.09.a [Quality of colour];
-AA.04.a [Body of water]; AJ.05.b [Water];
-AA.04.a [Body of water]; AJ.05.b [Water];
-ZC [Grammatical Item];
-ZC [Grammatical Item];
-AA.04.e [Pool, pond]; BI.11.x [Receptacle/container for work]; BK.07.b.02.a [Stage];
+04.10 []
+AG.01.h.01.b [Berry]; AF.10.h [Reproductive product - fruit, nut]; AF.10.h [Reproductive product - fruit, nut];
 NULL
-AE [Animals]; AA.08.b [Sediment, soil, mud]; AL.05.c.06 [Uncovering];
-ZC [Grammatical Item];
-AJ.03.c.03 [Coldness]; AU.03 [Absence of emotion]; AU.06 [Calmness];
-AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.g [Eggs];
 NULL
-AK.02.b.02 [Cutting]; AC.01.e [Injury]; AK.02.b.02 [Cutting];
-ZC [Grammatical Item];
-AG.01.t.05 [Preparation for table/cooking]; BI.12.b.10.d [Iron]; AG.01.t.06 [Preserving/pickling];
-AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.g [Eggs];
-ZC [Grammatical Item];
-AL.02.d.03 [Longitudinal extent]; AP.04.b.01 [Division into two]; AP.04.b.01 [Division into two];
-AL.06.a [Specific directions];
+AS.05.b [Qualification, condition, reservation]; ZB [Discourse Marker];
 NULL
-AL.04 [Place]; AL.04.e [Placing/fact of being placed in (a) position]; BK.08.q.03 [Horse-racing];
+AW.01 [Owning]; ZF [Pronoun];
+BK.08.b [Player/sportsman]; AE.14.j.02 [Horse defined by purpose]; AE.14.d.02 [Dog];
+AR.36 [Knowledge]; AR.36.a [Experience]; AI.09.d.01 [Sexual intercourse];
 ZC [Grammatical Item];
-AB.08.e.06 [Reproductive substances/cells]; AA.08.a [Rock, stone]; AC.01.b.06 [Respiratory disorders, coughing];
+AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];
 ZC [Grammatical Item];
 ZC [Grammatical Item];
-AP.07.e.03 [Condition/state of being mixed/blended];
-AG.01.w [Setting table]; AG.01.aj [Containers for drink]; BI.11.x.04 [Vessel];
+AG.01.d.05 [Pork]; AR.37.b [Philistinism]; AE.13.o [Order Passeriformes (song-birds)];
 ZC [Grammatical Item];
-AL.04.e [Placing/fact of being placed in (a) position]; BH.05 [Departure/leaving/going away]; AJ.04.a.01 [State of being thick enough to retain form];
-ZC [Grammatical Item];
-AG.01.k [Flour]; AE.07.a [Markings/colourings]; AJ.09.e.01 [White/whiteness];
-AN.05.f [Sideways movement/a sideways movement]; AP.02.b.05 [Quality of being exclusive]; AL.04.f [Removal/displacement];
+AR.27 [Stupid/foolish/inadequate person]; AU.27.c [Terms of endearment]; AG.01.d.07 [Seafood];
+AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space]; AC.02.m [Dentistry];
 NULL
-AG.01.t.05 [Preparation for table/cooking]; AG.01.s.01 [Feeding animals]; AG.01.ae.03 [Brewing];
 ZC [Grammatical Item];
-AB.08.e.06 [Reproductive substances/cells]; AA.08.a [Rock, stone]; AC.01.b.06 [Respiratory disorders, coughing];
+AG.01.d.07 [Seafood]; AD.03 [Person]; AE.08.g [Class Crustacea (crustaceans)];
+AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];
+AT.09 [Inferiority/baseness]; AO.22.d.06 [Violent behaviour]; AO.21.c [Violent action/operation];
+BK.01.d.04.g [Games of chance]; AG.01.t.05 [Preparation for table/cooking]; AO.18.c [Danger];
 ZC [Grammatical Item];
 ZC [Grammatical Item];
-AG.02.d [Tools and implements]; BI.11.i [Digging/lifting tools]; AA.04.b [Rivers, streams];
+AM.03 [Particular time]; ZC [Grammatical Item];
+ZF [Pronoun];
+AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];
+AG.01.t.07 [Cooking]; AG.01.t.07 [Cooking]; AG.01.t.07 [Cooking];
+ZF [Pronoun];
+AR.48.c [Possibility, probability]; AO.23 [Ability];
+AO.11.b.01 [Finding/discovery]; AO.11.b.01 [Finding/discovery]; BC.07.c [Investigation of crime];
 ZC [Grammatical Item];
-AL.03.g.01 [Smoothness]; AF.09 [Appearance of plant]; AG.01.y.01 [Intoxicating liquor];
+04.10 []
+ZC [Grammatical Item];
+ZF [Pronoun];
 NULL
-AJ.05 [Liquid]; AN.02.c [Irregular movement/agitation]; AG.02.c [Cultivation/tillage];
+ZC [Grammatical Item];
+AK.01.g [State/condition]; AP.01.d [Identity]; ZC [Grammatical Item];
+ZZ [Unrecognised]
+ZC [Grammatical Item];
+AW.01 [Owning]; ZF [Pronoun];
+AO.17.a.01 [Outdoing/surpassing]; BI.01.a [Times/periods of work];
+ZZ [Unrecognised]
+AJ.08.j.01 [Dimness/absence of brightness]; AJ.08.j.02 [Darkness/gloom]; AJ.03.c.02.c [Burning, fire, flame, ash];
+BJ.01.m.02 [Sum of money]; AP.04.m [Enumeration/reckoning/calculation]; BJ.01.m.02 [Sum of money];
+AG.01.r [Meal]; AW.11.c [Distributing, sharing out]; AS.14.a.02 [Jeering/taunting/scoffing];
+ZC [Grammatical Item];
+AS.10 [Importance, influence]; AL.02.d.01 [Largeness]; AT.04 [Superiority, excellence, perfection];
+ZC [Grammatical Item];
+AG.01.v [Serving food]; BF.23.d [Clergyman]; BJ.01.j [Selling];
 ZC [Grammatical Item];
 ZC [Grammatical Item];
-AG.01.l.04 [Sauce/dressing]; AG.01.n.01 [Food by way of preparation]; BK.01.d.04.e [Card-game];
-NULL
-ZA02 [Geographical Name]; ZA03 [Other Proper Name];
+AG.01.r [Meal];
+BK.02.d.01 [Party]; BB.06.k.03.a [A party]; AY.04.e [Party/faction];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AG.01.m [Substances for food preparation]; AE.14.d.02 [Dog]; AG.03.c [Hunter];
+ZC [Grammatical Item];
+AP.06 [Quantity]; AP.06 [Quantity]; AP.02.a [Generality];
+AF.20.e [Particular vegetables]
+ZC [Grammatical Item];
+ZZ [Unrecognised]
+AN.05.h [Downward motion]; BH.12.b.02.f [Powered vehicle generally];
 AG.01.l.04 [Sauce/dressing]; AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration];
+ZC [Grammatical Item];
+ZF [Pronoun];
+AV.01.a [Choice, choosing]; AT.04 [Superiority, excellence, perfection]; AT.04 [Superiority, excellence, perfection];
+NULL
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space];
+NULL
+AP.07.e.03 [Condition/state of being mixed/blended]; AP.07.e.03 [Condition/state of being mixed/blended]; AP.07.e.03 [Condition/state of being mixed/blended];
+ZC [Grammatical Item];
+AG.01.d.05 [Pork]; AE.13.o [Order Passeriformes (song-birds)]; AE.14.l [Family Suidae (pigs)];
+NULL
+AG.01.d.07 [Seafood]; AD.03 [Person]; AE.08.g [Class Crustacea (crustaceans)];
+NULL
+AG.01.h.02.e [Onion/leek/garlic]; AF.20.e [Particular vegetables]; AC.01.a [Ill-health in external/visible body parts];
+NULL
+AG.01.l.03 [Spice]; AF.21 [Particular medicinal/food plants/parts]; AF.21 [Particular medicinal/food plants/parts];
+NULL
+ZZ [Unrecognised]
+AG.01.l.04 [Sauce/dressing]; AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration];
+AG.01.i [Corn/cereals/grain]; AF.20.g [Cereal/corn/grain]; AF.20.g [Cereal/corn/grain];
+BF.25.m.01 [Eucharistic elements]; AG.01.y.01.a [Wine]; AG.01.y.01.a [Wine];
 NULL
 04.10 []
-AG.01.l.04 [Sauce/dressing]; AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration];
 NULL
-AG.01 [Food]; AJ.03.c.02 [Heat]; AA.11.d [Hot weather];
-AG.01.l.04 [Sauce/dressing]; AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration];
+ZZ [Unrecognised]
+BF.25.m [Consumables]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness];
 NULL
 AG.01.w [Setting table]; AJ.01 [Alchemy]; AG.01.l.01 [Salt];
 NULL
 ZC [Grammatical Item];
 AG.01.w [Setting table]; AG.01.l.03 [Spice]; AF.12 [Particular plants/herbs/shrubs];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AG.01.aj [Containers for drink]; BI.11.x.04 [Vessel]; AG.01.w [Setting table];
 NULL
-AL.03.f.05 [Curved surface]; AG.03.i [Fishing]; BK.08.v.09 [Golf];
+AJ.05 [Liquid]; AN.02.c [Irregular movement/agitation]; AG.02.c [Cultivation/tillage];
 ZC [Grammatical Item];
-AB.08.e.06 [Reproductive substances/cells]; AA.08.a [Rock, stone]; AC.01.b.06 [Respiratory disorders, coughing];
-AI.10.e [Tobacco]; AG.01.af [Tea manufacture]; AI.10.e [Tobacco];
+AJ.02 [Chemistry]; AP.07.e.02 [Condition/state of being combined]; AP.07.e.02 [Condition/state of being combined];
 ZC [Grammatical Item];
-ZC [Grammatical Item];
-AG.01.n.11 [Bread]; AJ.03.a [Weight/relative heaviness]; AJ.07.f.03 [Radioactive isotope];
-BK.05.f [Plastic art]; AJ.04.h.02 [Pliableness]; BA.15.a.06 [Explosive device];
-BI.11.x.01 [Bag]; AH.02.b.02 [Headwear]; AG.03.d [Thing hunted/game];
+AN.05.j [Going/coming in]; AN.05.j [Going/coming in]; AP.07.d.01 [Part of whole];
 NULL
-AK.02.b.05 [Damage]; AK.02.b.02 [Cutting]; AL.04.f [Removal/displacement];
-ZC [Grammatical Item];
-AL.03.e [Angularity]; BK.08.n.02 [Boxing]; AR.44.c [Secret place, hiding place];
 ZC [Grammatical Item];
 ZC [Grammatical Item];
-BI.11.x.01 [Bag]; AH.02.b.02 [Headwear]; AG.03.d [Thing hunted/game];
+AB.17.c [Bodily height]; AG.01.n.03 [Puddings];
+NULL
+AW.15 [Taking]; AW.15.a [Seizing, capture]; AU.27.a [Liking];
+AP.04 [Number];
+04.10 []
+BG.10.d [Parts of book]; AF.10.g [Flower/part containing reproductive organs]; AF.13.a [Oak and allies];
 ZC [Grammatical Item];
-AK.02 [Creation]; AQ.04.a.03 [Activities of God]; AH.02.e [Tailoring/making clothes];
+BK.08.q.03 [Horse-racing]; AL.04 [Place]; AL.04.e [Placing/fact of being placed in (a) position];
+AP.04 [Number];
+04.10 []
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AH.02.b.04 [Clothing for body/trunk (and limbs)]
+NULL
+AM.08.d.01 [Succession/following in time]; AK.03.f [Effect/result/consequence]; AM.03 [Particular time];
+NULL
+AH.02.e [Tailoring/making clothes]; AH.02.d [Providing with/covering with clothing]; AL.05.v.02 [State of being gathered together, assembled];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AL.05.l [Quality of having sides/being a side]; AL.06 [Direction]; AY.04.e [Party/faction];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+BG.10.d [Parts of book]; AF.10.g [Flower/part containing reproductive organs]; AF.13.a [Oak and allies];
 ZC [Grammatical Item];
 04.10 []
-AL.05.d.01 [An opening/aperture]; AL.05.d [Condition of being open/not closed]; BG.02.d.01.a [An exhibition];
+ZF [Pronoun];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+04.10 []
+AL.03 [Shape]; AL.03 [Shape]; AL.03 [Shape];
 NULL
-AN.06 [Transference]; BK.04.f.02.a [Playing wind instrument]; BH.14 [Navigation];
+AN.05.m [Going away]; BC.15.b [Last will and testament]; AW.10 [Relinquishing];
 ZC [Grammatical Item];
-AG.01.g [Eggs]; AB.08.e.06 [Reproductive substances/cells]; AA.08.a [Rock, stone];
+AH.02.b.04 [Clothing for body/trunk (and limbs)]
+BJ.01.j [Selling]; BG.02.d.01 [Exposure to public view]; AL.05.c.06 [Uncovering];
+NULL
+NULL
+ZA01 [Personal Name];
 ZC [Grammatical Item];
+BG.13.c [Letter]; BG.13.c [Letter]; BG.13.c [Letter];
+NULL
+AX.15 [Promise, pledge]; AX.15 [Promise, pledge]; AR.45.c [Act of convincing, conviction];
+ZF [Pronoun];
+AC.01.f.01 [Types of pain]; AK.02.b.07 [Pressing/pressure/squeezing]; AC.01.f.01 [Types of pain];
+ZC [Grammatical Item];
+BG.13.c [Letter]; BG.10.d [Parts of book]; AF.10.g [Flower/part containing reproductive organs];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space];
+AN.09 [Absence of movement]; AV.04.b [Constancy];
+NULL
+ZC [Grammatical Item];
+AO.13 [Easiness]; AO.13 [Easiness];
+NULL
+ZF [Pronoun];
+AR.48.c [Possibility, probability]; AO.23 [Ability];
+AG.03.b [Hunting specific animals]; AE.14.j.04 [Habits and actions of horse]; AE.14.j.04 [Habits and actions of horse];
+ZC [Grammatical Item];
+04.10 []
+BG.10.d [Parts of book]; AF.10.g [Flower/part containing reproductive organs]; AF.13.a [Oak and allies];
 ZC [Grammatical Item];
 AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.g [Eggs];
-AJ.09.e.01 [White/whiteness]; AB.17.e.06.a [Types and colours of hair]; AB.17.e.06.a [Types and colours of hair];
-AP.04.b.01 [Division into two]; AL.05.l [Quality of having sides/being a side]; AP.01.e [Contrariety/contrast];
+AG.01.o [Animal food]; BK.05.d.04 [Painting]; AI.16.a.01.a [Washing oneself/body];
+ZC [Grammatical Item];
+AN.04 [Rate of motion]; AO.12.c.02 [Hindering completely/preventing]; AM.08.c.02 [Antecedence/being earlier];
+BG.10.d [Parts of book]; AF.10.g [Flower/part containing reproductive organs]; AF.13.a [Oak and allies];
+ZC [Grammatical Item];
+AL.05.d [Condition of being open/not closed]; AG.02.g [Animal husbandry];
+AL.05.d [Condition of being open/not closed]; AG.02.g [Animal husbandry];
+ZC [Grammatical Item];
+AY.04.f.03 [Separation/isolation]; AS.09 [Discernment, discrimination]; AP.07.e.07 [Separation];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space]; AL.04.c.01 [Fact of taking up space];
+AM.10.b [Infrequency]; AM.08.c [The past]; AP.04.a [One];
+AG.01.t.07 [Cooking]; AG.01.t.07 [Cooking]; AG.01.t.07 [Cooking];
 NULL
-AJ.05.h.05 [Action/process of sprinkling]; AJ.05.h.05 [Action/process of sprinkling]; AL.05.v.03 [State of being scattered/dispersed];
+NULL
+AN.05.g [Upward movement]; AL.05.g [High position]; AL.05.g [High position];
+AP.02.b [Individual character/quality]; AP.02.a [Generality];
+AB.17.c [Bodily height]; AG.01.n.03 [Puddings];
 ZC [Grammatical Item];
-AG.01.h.02.i [Herb]; AF.20.e [Particular vegetables];
 ZC [Grammatical Item];
-AF.20.e [Particular vegetables]; AG.01.l.03 [Spice]; AG.01.h.02.f [Fruits as vegetables];
+04.10 []
+AG.01.h.01.b [Berry]; AF.10.h [Reproductive product - fruit, nut]; AF.10.h [Reproductive product - fruit, nut];
+NULL
+ZE [Conditional];
+AO.15.a.01 [Use (made of things)]; AO.22.b [Customary/habitual mode of behaviour]; AO.22.b [Customary/habitual mode of behaviour];
+NULL
+AJ.04.i [Unctuousness]; AJ.04.i [Unctuousness]; AJ.04.i [Unctuousness];
 ZC [Grammatical Item];
-AG.01.t.05 [Preparation for table/cooking]; AF.07 [Tree/woody plant]; AH.02.d [Providing with/covering with clothing];
+AL.05.h [Low position]; AJ.07.e.03.d [Quark]; AA.03.f [Low ground, hollow, depression];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AF.12 [Particular plants/herbs/shrubs]; BI.12.a.05 [Plants/grasses/reeds]; BI.11.a [Tool];
+AE.13.k.01 [Subfamily Merginae (ducks)]; AG.01.n.06 [Meat dishes]; AG.01.t.01 [Preparation of grain];
+ZC [Grammatical Item];
+AH.02.e [Tailoring/making clothes]; AL.05.a [Condition of being internal]; AL.05 [Relative position];
+ZF [Pronoun];
+ZC [Grammatical Item];
+04.10 []
+ZC [Grammatical Item];
+BG.07.f [Written text]; BG.07.h.01.b [Skin (vellum/parchment)]; BG.07.h.01.b [Skin (vellum/parchment)];
+BI.12.b.04 [Paper, material for making paper]; BG.07.f [Written text]; BG.11.e.01 [Newspaper];
+NULL
+AL.05.v [Arrangement/fact of being arranged]; AV.03.a [Planning]; AV.03.a [Planning];
+ZC [Grammatical Item];
+AB.17.c [Bodily height]; AG.01.n.03 [Puddings];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AE.13.k.01 [Subfamily Merginae (ducks)]; AG.01.n.06 [Meat dishes]; AG.01.t.01 [Preparation of grain];
+NULL
+AH.02.d [Providing with/covering with clothing]; BE.02 [Teaching]; BK.04.f [Performing music];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+BG.10.d [Parts of book]; AF.16 [Moss]; AL.05.e [Closed/shut condition];
+ZC [Grammatical Item];
+AL.04 [Place]; AL.04.e [Placing/fact of being placed in (a) position]; BK.08.q.03 [Horse-racing];
+ZF [Pronoun];
+AN.06 [Transference]; AN.05.i [Movement over/across/through/past]; AM.10 [Frequency];
+ZC [Grammatical Item];
+AA.08.c.01 [Mineral sources]; AA.03.f [Low ground, hollow, depression]; AA.04.f [Ice];
+ZC [Grammatical Item];
+AJ.03.c.02.b [Action of boiling]; AN.02.c [Irregular movement/agitation]; AU.04 [Intense emotion];
+AA.04 [Water]; AB.17.o.03 [Excretions];
+NULL
+AR.49 [Absence of doubt, confidence]; BD.01.c.01.a [Fidelity/loyalty];
+AR.49 [Absence of doubt, confidence]; BD.01.c.01.a [Fidelity/loyalty];
+ZC [Grammatical Item];
+AA.04 [Water]; AB.17.o.03 [Excretions];
+ZC [Grammatical Item];
+ZD [Negative];
+AI.11.b [Touching]; AC.02.c.01 [Examination]; AI.11.a [Quality of being tangible];
+ZC [Grammatical Item];
+AP.04.l [Mathematical notation/symbol]; BG.04.g.01 [Heraldic devices collectively]; BK.05.g.02 [Column];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AE.13.k.01 [Subfamily Merginae (ducks)]; BH.14.k.05 [Mechanically propelled vessels]; AN.03.c.01 [Movement in/on water];
+NULL
+AG.01.t.07 [Cooking]; AJ.03.c.02 [Heat]; BH.13 [Rail travel];
+ZC [Grammatical Item];
+AG.01.n.03 [Puddings]; AB.17.c [Bodily height];
+ZC [Grammatical Item];
+AP.04 [Number];
+ZC [Grammatical Item];
+AP.04 [Number];
+AM.04 [Period]; AP.04.s.04 [Angle]; AP.02.b.03 [The quality of being specific];
+NULL
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AG.01.t.07 [Cooking]; AG.01.t.07 [Cooking]; AG.01.t.07 [Cooking];
+NULL
+AS.05.b [Qualification, condition, reservation]
+NULL
+AJ.02 [Chemistry]; AP.07.e.02 [Condition/state of being combined]; AP.07.e.02 [Condition/state of being combined];
+ZC [Grammatical Item];
+AF.20.e [Particular vegetables]
+ZC [Grammatical Item];
+ZZ [Unrecognised]
+AG.01.l.04 [Sauce/dressing]; AG.01.h [Fruit and vegetables]; AI.08.d [Refreshment/invigoration];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AG.01.aj [Containers for drink]; BI.11.x.04 [Vessel]; AG.01.w [Setting table];
+NULL
+AG.01.v [Serving food]; BF.23.d [Clergyman]; BJ.01.j [Selling];
+ZC [Grammatical Item];
+ZC [Grammatical Item];
+AG.01.n.03 [Puddings]; AB.17.c [Bodily height];
 NULL

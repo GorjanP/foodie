@@ -1,0 +1,48 @@
+basmati rice [1, 2]
+cook [1, 0]
+
+oil [2, 11]
+heat [2, 10]
+
+onions [3, 22]
+add [3, 21]
+
+salt [3, 26]
+season [3, 25]
+
+pepper [3, 28]
+season [3, 25]
+
+onions [3, 33]
+cook [3, 31]
+
+curry powder [4, 47]
+stir [4, 45]
+
+garlic [4, 49]
+stir [4, 45]
+
+vegetable stock [5, 59]
+pour [5, 58]
+
+coconut milk [6, 77]
+add [6, 76]
+
+honey [6, 79]
+add [6, 76]
+
+squirt [6, 82]
+add [6, 76]
+
+seasoning [8, 104]
+adjust [9, 106]
+
+curry [10, 115]
+serve [10, 117]
+
+rice [10, 118]
+serve [10, 117]
+
+coriander [11, 127]
+garnish [11, 128]
+

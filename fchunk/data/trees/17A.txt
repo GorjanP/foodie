@@ -1,0 +1,14 @@
+TOP
+S
+S
+VP
+VP
+VB
+PP
+PP
+IN
+NP
+NP
+DT
+NNS
+.

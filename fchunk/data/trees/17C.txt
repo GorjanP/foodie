@@ -1,0 +1,14 @@
+S
+VP
+.
+VB
+PP
+Serve
+IN
+NP
+alongside
+DT
+NNS
+the
+dumplings
+.

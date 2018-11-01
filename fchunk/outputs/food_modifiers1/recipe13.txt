@@ -1,0 +1,63 @@
+dried prawns [1, 7]
+soak [1, 5]
+
+spicy ketchup sauce [2, 23]
+for [2, 22]
+
+ketchup sauce [2, 34]
+combine [2, 35]
+
+chili sauce [2, 36]
+combine [2, 35]
+
+peanut oil [3, 52]
+heat [3, 46]
+
+eggs [4, 55]
+add [4, 60]
+
+peanut oil [5, 71]
+add [5, 72]
+
+ginger [5, 78]
+add [5, 83]
+
+carrots [6, 90]
+add [6, 95]
+
+mushrooms [7, 98]
+add [7, 103]
+
+pork [7, 100]
+add [7, 103]
+
+peas [7, 108]
+add [7, 103]
+
+cooked rice [8, 118]
+add [9, 123]
+
+salt [9, 130]
+season [9, 131]
+
+pepper [9, 132]
+season [9, 131]
+
+sesame oil [10, 140]
+add [10, 146]
+
+spicy ketchup sauce [10, 142]
+add [10, 146]
+
+seasoning [11, 149]
+check [12, 159]
+
+salt [11, 155]
+taste [12, 164]
+
+white pepper [11, 157]
+taste [12, 164]
+
+onions [12, 161]
+garnish [0, 171]
+
