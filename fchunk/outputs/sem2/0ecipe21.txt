@@ -1,0 +1,14 @@
+AF.10.e [Leaf]; AI.10.e [Tobacco]; 
+
+AA.11.g [Wind]; AB.17.m.01.a [Mouth, teeth]; AC.01.b.10 [Disorders of circulatory system]; AG.01.n.11 [Bread]; AK.02.b.04 [Biting]; AL.02.d [Measurable spatial extent]; BI.12.b.17 [Painting/coating materials]; BK.01.e.06 [Puzzle]; BK.04.b [Piece of music]; 
+
+AA.11.e [Dry weather/climate]; AJ.05.k [Dryness]; 
+
+AE.08.h [Class Arachnida (spiders, scorpions)]; AF.02.a [Food plant/vegetable]; AG.01.h.02 [Vegetables]; AG.01.n.09 [Prepared vegetables and dishes]; AJ.05.k [Dryness]; 
+
+NULL
+
+AB.17.e.05.b [Complexion]; AE.13 [Class Aves (birds)]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; AJ.09.e.04 [Green/greenness]; BF.25.m [Consumables]; 
+
+AG.01.l [Additive]; AG.01.l.01 [Salt]; AG.01.t.05 [Preparation for table/cooking]; AG.01.w [Setting table]; AJ.01 [Alchemy]; BI.06.d.04 [Constructing/working with wood]; 
+

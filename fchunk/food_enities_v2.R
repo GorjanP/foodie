@@ -1,5 +1,4 @@
-# brackets confuse it for some reason
-#change RBR and LBR to ( ) manually? and tag to PUNC
+# must run initcoreNLP(mem='8g') before calling the parsing functions
 
 
 #RUN AS IS AND FIX "DATES", USE Sem2 TAGS IN BASE fChunk RULE-ENGINE
@@ -147,6 +146,7 @@ format_edgelist <- function(edgelist)
 Food_checking <- function(s, tagged_data)
 {
   
+  allowed_resources <- as.vector(c("shrimp","shrimps","spirulina","meatball","meatballs","cilantro","pretzel","pretzels","cornstarch","eggnog","cornmeal","pepperoni","topping","toppings","apricot","apricots","nacho","nachos","gelatin","nugget","nuggets","gulab","chickpea","chickpeas","tenderloin","tenderloins","wonton","wontons","ice","couscous","chimichanga","chimichanga","scallop","scallops","yeast","wing","wings","meatloaf","tahini","kale","jalapeno","jalapenos","patty","patties","shortening","tartar","chile","chiles","streusel","chili","chilis","pepita","pepitas","tofu","cantalope","cantalopes","cantaloupe","cantaloupes","farfalle","manicotti","chilli","chillis","eggplant","eggplants","fettuccini","date","dates","bratwurst","quasadilla","quasadillas","kielbasa","kielbasas","linguini","bay","flavoring","flavouring","crouton","croutons","cardamom","icing","perogie","perogies","squash","squashes","poblanos","tahini","enchilada","enchiladas","horseradish","coating","grain","grains","watermelon","watermelons","brownies","guacamole","cupcake","cupcakes","frittata","frittatas","ganache","powder","soda","mayonnaise","dill","agave","agaves","buckwheat","peanut","peanuts","turmeric","coriander","buttermilk","crepe","crepes","chorizo","chorizos","bouillon","prune","prunes","savory","kefir","sherbet","stevia", "hummus"))
   foods_check<-rep(0,nrow(tagged_data))
   object_check<-rep(0,nrow(tagged_data))
   colors_check<-rep(0,nrow(tagged_data))
@@ -157,6 +157,13 @@ Food_checking <- function(s, tagged_data)
   
   for(i in 1:nrow(tagged_data) )
   {
+    
+    if(tagged_data$token[i] %in% allowed_resources)
+    {
+      foods_check[i] <- 1
+      next
+    }
+    
    
     if(!(startsWith(tagged_data$POS[i], "NN") || startsWith(tagged_data$POS[i], "JJ"))) 
     {
@@ -688,7 +695,7 @@ fix_characters <- function(s)
   return(ret)
 }
 
-parse_recipe <- function(num, close = TRUE)
+parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
 {
   if(missing(num))
   {
@@ -729,8 +736,6 @@ parse_recipe <- function(num, close = TRUE)
     invisible(do.call(file.remove, list(list.files("data", full.names = TRUE))))
     invisible(do.call(file.remove, list(list.files("data/trees", full.names = TRUE))))
     
-    
-    #test regexp
     #fix_characters
     s <<- readChar(f, file.info(f)$size)
     s <<- gsub("[\r\n\t\f\v ][\r\n\t\f\v ]+", " ", s)
@@ -739,8 +744,6 @@ parse_recipe <- function(num, close = TRUE)
     s <<- iconv(s, to='ASCII//TRANSLIT')
     s <<- fixFractions_small(fixFractions(s))
     
-    
-    #try adding openNLP POS tags to the ensemble, probably useless
     
     tag_data <- format_tags(tagger(s)) 
     #add more of these VXX to VVXX
@@ -789,6 +792,7 @@ parse_recipe <- function(num, close = TRUE)
     #print(tag_data$POS)
     
     
+    # building graphs from recipes
     t_grafoj = list()
     for(i in 1:length(ann_reduced$parse))
     {
@@ -808,7 +812,12 @@ parse_recipe <- function(num, close = TRUE)
     print(paste("Executing command: ", command))
     system(command)
     
-    #invisible(do.call(file.remove, as.list(f)))
+    
+    if(delete_after)
+    {
+      invisible(do.call(file.remove, as.list(f)))  
+    }
+    
     ctr = ctr + 1
     }
   

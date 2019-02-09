@@ -1,6 +1,0 @@
-eggs	
-combined
-
-raspberries	
-smooth
-

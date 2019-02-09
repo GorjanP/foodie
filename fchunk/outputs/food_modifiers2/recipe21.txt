@@ -1,6 +1,0 @@
-chocolate	
-melted
-
-cake	melted white chocolate	
-set
-

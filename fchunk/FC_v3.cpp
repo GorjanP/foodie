@@ -83,7 +83,8 @@ vector<string> allowed_endings = {
 vector<string> disallowed_endings = {
     "platter", "dish",
     "maker", "pan",
-    "paper"
+    "paper", "mug",
+    "cup"
 };
 
 int ids_ctr = 0;
