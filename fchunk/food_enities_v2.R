@@ -1,4 +1,8 @@
-# must run initcoreNLP(mem='8g') before calling the parsing functions
+# FoodIE, 09.02.19
+# 
+# must call init() first (fix GC java overhead limit exceeded)
+# 
+
 
 
 #RUN AS IS AND FIX "DATES", USE Sem2 TAGS IN BASE fChunk RULE-ENGINE
@@ -14,6 +18,12 @@ library(data.tree)
 library(igraph)
 
 #-----FUNCTIONS-----#
+
+init <- function(mem = '8g')
+{
+  # compile .cpp code here
+  initCoreNLP(mem = mem)
+}
 
 # function for spliting text on sentences
 
