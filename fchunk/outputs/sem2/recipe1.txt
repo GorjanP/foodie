@@ -1,0 +1,10 @@
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01 [Fruit/a fruit]; AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AF.20 [Particular food plant/product]; AG.01.ad [Coffee]; AG.01.ag [Coffee manufacture]; 
+
+AR.14 [Creativity]; AU.05.a [Inspiration]; BF.21.f [Divine inspiration/revelation]; 
+
+AF.20 [Particular food plant/product]; AF.20.e [Particular vegetables]; AG.01.ad [Coffee]; AG.01.ag [Coffee manufacture]; AG.01.n.06 [Meat dishes]; AG.01.n.11 [Bread]; AJ.05.a [Making liquid/melting]; AK.01.e.03 [Introduction/bringing in]; 
+
+AG.01.a [Qualities of food]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AG.01.n.17.a [Sweets]; AJ.09.e.07 [Brown/brownness]; AL.03.g.01 [Smoothness]; AW.03 [Wealth]; BI.12.b.17 [Painting/coating materials]; 
+

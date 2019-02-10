@@ -705,13 +705,8 @@ fix_characters <- function(s)
   return(ret)
 }
 
-parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
+delete_output_files <- function()
 {
-  if(missing(num))
-  {
-    num = 10000000
-  }
-  
   invisible(do.call(file.remove, list(list.files("outputs/", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/food_chunks", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/food_chunk_ids", full.names = TRUE))))
@@ -721,8 +716,21 @@ parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
   invisible(do.call(file.remove, list(list.files("outputs/food_modifiers2", full.names = TRUE))))
   invisible(do.call(file.remove, list(list.files("outputs/sem2", full.names = TRUE))))
   
+}
+
+parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
+{
+  if(missing(num))
+  {
+    num = 10000000
+  }
+  
+  delete_output_files()
+    
   #full_files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = TRUE)
   #files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = FALSE)
+  
+  time_start <- Sys.time()
   
   full_files = list.files("recipes/", full.names = TRUE)
   files = list.files("recipes/", full.names = FALSE)
@@ -739,7 +747,6 @@ parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
   grafoj = list()
   for(f in full_files)
   {
-      
     if(ctr > num)
       break;
     
@@ -801,7 +808,6 @@ parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
     #print(ann$token$POS)
     #print(tag_data$POS)
     
-    
     # building graphs from recipes
     t_grafoj = list()
     for(i in 1:length(ann_reduced$parse))
@@ -834,6 +840,8 @@ parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
   
   #OLD GRAPH CODE GOES HERE
   
+  time_end <- Sys.time()
+  
   #Cleanup
   if(close)
   {
@@ -844,6 +852,7 @@ parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
     invisible(gc())
    
   }
+  print(time_end - time_start)
   return(list(ann = ret, graphs = grafoj))
   #return(list(core=ret, open = ret2))
 }

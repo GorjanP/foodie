@@ -1,0 +1,15 @@
+banana bread [1, 1]
+bake [1, 0]
+
+coffee [1, 22]
+love [1, 11]
+
+inspiration [2, 27]
+this [2, 25]
+
+coffee infused loaf [2, 35]
+this [2, 25]
+
+rich caramel glaze [2, 38]
+this [2, 25]
+
