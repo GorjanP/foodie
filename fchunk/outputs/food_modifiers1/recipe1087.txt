@@ -1,0 +1,33 @@
+egg whites [2, 13]
+whisk [2, 12]
+
+salt [2, 15]
+whisk [2, 12]
+
+pepper [2, 17]
+whisk [2, 12]
+
+egg mixture [3, 23]
+pour [3, 23]
+
+eggs [3, 31]
+swirl [3, 31]
+
+spinach [4, 46]
+arrange [4, 47]
+
+tomatoes [4, 48]
+arrange [4, 47]
+
+feta cheese [4, 51]
+arrange [4, 47]
+
+eggs [4, 57]
+arrange [4, 47]
+
+eggs [5, 63]
+cook [5, 62]
+
+cheese [6, 91]
+continue [6, 91]
+

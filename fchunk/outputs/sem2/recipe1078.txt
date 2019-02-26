@@ -1,0 +1,26 @@
+AE [Animals]; AG.01.e [Dairy produce]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; AJ.09.e.01 [White/whiteness]; 
+
+AG.01.f [Fat/oil]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AA.08.c.12 [Carbonates]; AG.01.aa [Aerated/carbonated drink]; AG.01.m [Substances for food preparation]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AG.01.e [Dairy produce]; AS.11.a [Unimportance, triviality]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.e [Fruit containing stone]; 
+
+AG.01.h.01.f [Nut]; BI.11.r.01 [Fastenings]; 
+
+AG.01.m [Substances for food preparation]; AJ.04.a.02 [Viscosity]; BI.12.b.18 [Adhesive]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+

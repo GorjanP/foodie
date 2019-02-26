@@ -1,0 +1,12 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AG.01.n.05 [Sausage]; AP.04.p [Arithmetic/algebraic operations]; AP.06.c.01 [Addition/supplementation]; AX.03 [Speech]; AZ.06.f.05.k [Screen]; BA.06.c.09 [Shelter/screen]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+

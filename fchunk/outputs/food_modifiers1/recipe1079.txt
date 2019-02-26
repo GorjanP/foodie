@@ -1,0 +1,54 @@
+Parmesan cheese [2, 23]
+sprinkle [2, 18]
+
+vegetable oil [3, 28]
+place [3, 26]
+
+sesame seeds [4, 41]
+add [4, 42]
+
+seeds [4, 46]
+stir [4, 46]
+
+vegetable oil [5, 58]
+combine [5, 60]
+
+onion [5, 60]
+combine [5, 60]
+
+garlic [5, 62]
+combine [5, 60]
+
+zucchini [5, 64]
+combine [5, 60]
+
+eggs [5, 66]
+combine [5, 60]
+
+bread crumbs [5, 68]
+combine [5, 60]
+
+salt [5, 70]
+combine [5, 60]
+
+basil [5, 72]
+combine [5, 60]
+
+oregano [5, 74]
+combine [5, 60]
+
+pepper [5, 76]
+combine [5, 60]
+
+Cheddar cheese [5, 78]
+combine [5, 60]
+
+Parmesan cheese [7, 93]
+sprinkle [7, 98]
+
+seeds [7, 96]
+sesame [8, 102]
+
+zucchini mixture [7, 99]
+sesame [8, 102]
+

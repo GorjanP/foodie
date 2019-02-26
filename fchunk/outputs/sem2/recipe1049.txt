@@ -1,0 +1,24 @@
+NULL
+
+NULL
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+NULL
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; AJ.05.a [Making liquid/melting]; AJ.10.b [Bad condition of matter]; BI.12 [Materials]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; AG.01.t.07 [Cooking]; AJ.05.a [Making liquid/melting]; BI.12.b.01 [Materials having undergone process]; 
+
+NULL
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+

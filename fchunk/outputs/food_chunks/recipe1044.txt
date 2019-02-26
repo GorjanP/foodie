@@ -1,0 +1,9 @@
+eggs
+milk
+vanilla extract
+cinnamon
+ginger
+bananas
+chocolate chips
+batter
+pancake

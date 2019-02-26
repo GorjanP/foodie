@@ -1,0 +1,6 @@
+brine , [1, 4]
+allow [1, 0]
+
+vinegar , [1, 7]
+allow [1, 0]
+

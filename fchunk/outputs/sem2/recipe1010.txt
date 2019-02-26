@@ -1,0 +1,38 @@
+AG.01.n.11 [Bread]; AG.01.t.08 [Equipment for food preparation]; AL.03 [Shape]; AP.07.d.01 [Part of whole]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.n.11 [Bread]; AL.03.e.01 [Specific angular shape]; AP.04.p [Arithmetic/algebraic operations]; AP.04.s.05 [Shape/figure]; BF.25.m.01 [Eucharistic elements]; 
+
+04.10 []AG.01.e.02 [Cheese]; AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZA02 [Geographical Name]; 
+
+AG.01.n.11 [Bread]; AL.03.e.01 [Specific angular shape]; AP.04.p [Arithmetic/algebraic operations]; AP.04.s.05 [Shape/figure]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZA02 [Geographical Name]; 
+
+AG.01.n.11 [Bread]; AL.03.e.01 [Specific angular shape]; AP.04.p [Arithmetic/algebraic operations]; AP.04.s.05 [Shape/figure]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AC.02.e [Medicines/physic]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; 
+
+AC.02.e.04 [Preparations treating/preventing specific ailments]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; 
+
+NULL
+
+AG.01.f [Fat/oil]; AG.01.t.07 [Cooking]; AJ.05.a [Making liquid/melting]; BI.12.b.01 [Materials having undergone process]; 
+
+NULL
+

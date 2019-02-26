@@ -1,0 +1,9 @@
+pepper	onion	butter	
+softened
+
+cooking	ham	
+heated
+
+eggs	
+browned
+

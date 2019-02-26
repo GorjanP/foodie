@@ -1,0 +1,12 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+NULL
+
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; 
+
+AG.01.j [Meal]; AG.01.n.02 [Soup/pottage]; AJ.09.e.07 [Brown/brownness]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+

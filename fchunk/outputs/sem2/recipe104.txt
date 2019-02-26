@@ -1,0 +1,18 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AG.01.e [Dairy produce]; AS.11.a [Unimportance, triviality]; 
+
+AA.08.c.12 [Carbonates]; AG.01.aa [Aerated/carbonated drink]; AG.01.m [Substances for food preparation]; 
+
+AB.06.a [Micro-organism]; AB.08.e.05 [Conception and gestation]; AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; AK.03.b [Source/origin]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AA.04.f [Ice]; AG.01.n.12 [Pancake/tortilla/oatcake]; AL.03 [Shape]; 
+

@@ -1,0 +1,12 @@
+oil [1, 6]
+preheat [1, 0]
+
+omelette [1, 11]
+preheat [1, 0]
+
+garlic [7, 108]
+PUNC [7, 107]
+
+butter [8, 118]
+pepper [8, 112]
+

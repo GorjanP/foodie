@@ -1,0 +1,12 @@
+AA.06.a [Structural features of the Earth]; AG.01.d.05 [Pork]; AG.01.t.08 [Equipment for food preparation]; AP.07.d.01 [Part of whole]; 
+
+04.10 []AG.01.d.05 [Pork]; AG.01.d.05 [Pork]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.d.05 [Pork]; 
+
+AG.01.d.05 [Pork]; 
+

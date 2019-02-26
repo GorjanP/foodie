@@ -1,0 +1,22 @@
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AA.08.c.12 [Carbonates]; AG.01.aa [Aerated/carbonated drink]; AG.01.m [Substances for food preparation]; 
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AC.02.e.01 [Medicine composed of a plant]; AF.10.i [Seed]; AF.29 [Particular cultivated/ornamental plants]; AK.03.b [Source/origin]; BG.06.c [Pictorial, etc. records]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+

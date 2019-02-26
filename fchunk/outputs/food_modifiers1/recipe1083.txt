@@ -1,0 +1,51 @@
+rolled oats [1, 2]
+mix [1, 0]
+
+all-purpose flour [2, 19]
+whisk [2, 18]
+
+whole wheat flour [2, 21]
+whisk [2, 18]
+
+sugar [2, 23]
+whisk [2, 18]
+
+powder [2, 26]
+whisk [2, 18]
+
+soda [2, 29]
+whisk [2, 18]
+
+salt [2, 32]
+whisk [2, 18]
+
+eggs [3, 42]
+beat [3, 44]
+
+milk [3, 44]
+beat [3, 44]
+
+soaked oats [3, 55]
+mix [3, 56]
+
+flour mixture [4, 59]
+stir [4, 62]
+
+oat mixture [4, 62]
+stir [4, 62]
+
+batter [5, 66]
+if [5, 71]
+
+milk [5, 71]
+add [5, 77]
+
+batter [7, 101]
+ladle [7, 103]
+
+pancake [7, 103]
+ladle [7, 103]
+
+pancake [8, 113]
+cook [8, 117]
+

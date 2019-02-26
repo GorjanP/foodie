@@ -1,0 +1,60 @@
+pie crust [3, 21]
+place [3, 20]
+
+crust [3, 30]
+prick [3, 30]
+
+oil [3, 39]
+brush [3, 38]
+
+crust [4, 42]
+place [4, 42]
+
+crust [5, 49]
+bake [5, 49]
+
+broccoli [6, 59]
+place [6, 59]
+
+broccoli [6, 68]
+place [6, 59]
+
+eggs [7, 81]
+whisk [7, 81]
+
+milk [7, 83]
+whisk [7, 81]
+
+Dijon mustard [7, 85]
+whisk [7, 81]
+
+oregano [7, 87]
+whisk [7, 81]
+
+salt [7, 89]
+whisk [7, 81]
+
+pepper [7, 91]
+whisk [7, 81]
+
+thyme [7, 94]
+whisk [7, 81]
+
+broccoli [7, 100]
+stir [7, 101]
+
+egg mixture [7, 102]
+stir [7, 101]
+
+crust [8, 107]
+pour [8, 107]
+
+quiche [8, 110]
+sprinkle [8, 112]
+
+Parmesan cheeses [8, 114]
+sprinkle [8, 112]
+
+quiche [9, 126]
+bake [9, 120]
+

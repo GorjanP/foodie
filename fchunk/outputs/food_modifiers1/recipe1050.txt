@@ -1,0 +1,24 @@
+banana [1, 1]
+mix [1, 0]
+
+eggs [1, 3]
+mix [1, 0]
+
+ground flax seed [2, 12]
+add [2, 11]
+
+vanilla extract [2, 14]
+add [2, 11]
+
+coconut oil [3, 21]
+heat [3, 23]
+
+batter [4, 31]
+scoop [4, 34]
+
+pancake [4, 37]
+scoop [4, 34]
+
+pancakes [5, 56]
+flip [5, 59]
+

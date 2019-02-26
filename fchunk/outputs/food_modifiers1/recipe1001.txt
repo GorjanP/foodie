@@ -1,0 +1,54 @@
+olive oil [3, 24]
+heat [3, 22]
+
+zucchini [4, 33]
+place [4, 33]
+
+green onions [4, 35]
+place [4, 33]
+
+onion [4, 37]
+place [4, 33]
+
+tomatoes [4, 39]
+place [4, 33]
+
+mushrooms [4, 41]
+place [4, 33]
+
+spinach [4, 44]
+place [4, 33]
+
+lemon juice [5, 51]
+sprinkle [5, 51]
+
+Worcestershire sauce [5, 53]
+sprinkle [5, 51]
+
+hot sauce [5, 56]
+sprinkle [5, 51]
+
+garlic powder [6, 60]
+season [6, 63]
+
+salt [6, 62]
+season [6, 63]
+
+pepper [6, 65]
+season [6, 63]
+
+egg substitute [9, 79]
+pour [9, 84]
+
+vegetables [9, 82]
+pour [9, 84]
+
+cheese [10, 89]
+top [11, 94]
+
+egg substitute [11, 101]
+bake [11, 98]
+
+cheese [11, 105]
+bake [11, 98]
+

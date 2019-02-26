@@ -1,0 +1,9 @@
+water [1, 1]
+preheat [1, 0]
+
+pastry [1, 20]
+preheat [1, 0]
+
+with cayenne [5, 49]
+dust [5, 48]
+

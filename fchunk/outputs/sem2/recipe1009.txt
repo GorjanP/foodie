@@ -1,0 +1,24 @@
+AG.01.ae.03 [Brewing]; AG.01.m [Substances for food preparation]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AA.08.c.12 [Carbonates]; AG.01.aa [Aerated/carbonated drink]; AG.01.m [Substances for food preparation]; 
+
+AF.20.g [Cereal/corn/grain]; AG.01.e [Dairy produce]; AG.01.i [Corn/cereals/grain]; AG.01.j [Meal]; AG.01.k [Flour]; AP.07 [Wholeness]; 
+
+04.10 []AG.01.k [Flour]; AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AG.01.n.11 [Bread]; AJ.04.h [Softness]; AJ.04.h.02 [Pliableness]; 
+
+AG.01.n.11 [Bread]; AJ.04.h.02 [Pliableness]; 
+
+AG.01.n.06 [Meat dishes]; AG.01.n.11 [Bread]; AL.05.v [Arrangement/fact of being arranged]; 
+
+AF.20.e [Particular vegetables]; AG.01.n.06 [Meat dishes]; AG.01.n.11 [Bread]; 
+

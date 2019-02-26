@@ -1,0 +1,51 @@
+eggs [1, 2]
+beat [1, 0]
+
+milk [2, 11]
+whisk [2, 8]
+
+cream [2, 13]
+whisk [2, 8]
+
+vanilla extract [2, 15]
+whisk [2, 8]
+
+nutmeg [2, 18]
+whisk [2, 8]
+
+bread cubes [3, 26]
+fold [3, 24]
+
+bread [3, 32]
+set [3, 30]
+
+egg mixture [3, 36]
+set [3, 30]
+
+sliced apples [4, 44]
+place [4, 45]
+
+brown sugar [4, 52]
+sprinkle [4, 54]
+
+cinnamon [4, 54]
+sprinkle [4, 54]
+
+melted butter [4, 57]
+sprinkle [4, 54]
+
+apple slices [5, 72]
+grease [5, 70]
+
+bread mixture [5, 85]
+spoon [6, 90]
+
+diced apple [8, 114]
+sprinkle [8, 120]
+
+bread pudding [8, 117]
+sprinkle [8, 120]
+
+bread [9, 133]
+bake [9, 136]
+

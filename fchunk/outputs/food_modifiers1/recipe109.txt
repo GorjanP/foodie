@@ -1,0 +1,36 @@
+rice [1, 2]
+pour [1, 0]
+
+water [1, 4]
+pour [1, 0]
+
+rice [1, 15]
+blend [1, 12]
+
+rice [2, 27]
+let [2, 26]
+
+water [2, 29]
+let [2, 26]
+
+rice water [3, 43]
+strain [3, 41]
+
+rice [3, 50]
+discard [3, 49]
+
+milk [4, 54]
+stir [4, 53]
+
+vanilla [4, 56]
+stir [4, 53]
+
+cinnamon [4, 58]
+stir [4, 53]
+
+sugar [4, 61]
+stir [4, 53]
+
+rice water [4, 64]
+stir [4, 53]
+

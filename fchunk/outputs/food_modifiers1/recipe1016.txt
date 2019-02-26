@@ -1,0 +1,33 @@
+oats [1, 1]
+place [1, 0]
+
+flaxseed [2, 16]
+stir [2, 13]
+
+salt [2, 18]
+stir [2, 13]
+
+water [3, 23]
+whisk [3, 20]
+
+egg whites [3, 25]
+whisk [3, 20]
+
+oats [3, 30]
+pour [3, 28]
+
+peanut butter [5, 62]
+stir [5, 60]
+
+sugar [5, 64]
+stir [5, 60]
+
+cinnamon [5, 67]
+stir [5, 60]
+
+oatmeal [6, 71]
+if [6, 71]
+
+milk [6, 82]
+soften [6, 78]
+

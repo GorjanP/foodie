@@ -1,0 +1,36 @@
+cottage cheese [1, 1]
+strain [1, 0]
+
+cottage cheese [1, 15]
+strain [1, 0]
+
+eggs [2, 25]
+beat [2, 26]
+
+cottage cheese [2, 32]
+add [2, 33]
+
+flour [2, 34]
+add [2, 33]
+
+melted butter [2, 36]
+add [2, 33]
+
+salt [2, 39]
+add [2, 33]
+
+butter [4, 47]
+heat [4, 50]
+
+batter [4, 60]
+drop [4, 60]
+
+melted butter [4, 63]
+drop [4, 60]
+
+blueberries [5, 66]
+sprinkle [6, 70]
+
+batter [5, 68]
+sprinkle [6, 70]
+

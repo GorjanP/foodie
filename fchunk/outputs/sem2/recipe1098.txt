@@ -1,0 +1,12 @@
+AE.07.b [Body and limbs]; AG.01.d.02 [Part/joint of animal]; AG.02.b.02 [Farmland]; 
+
+NULL
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; ZZ [Unrecognised]AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AJ.03.c.02 [Heat]; AJ.09.a [Quality of colour]; 
+

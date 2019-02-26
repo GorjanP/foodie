@@ -1,0 +1,48 @@
+starter [1, 6]
+mix [1, 4]
+
+egg [1, 8]
+mix [1, 4]
+
+vegetable oil [1, 10]
+mix [1, 4]
+
+sugar [1, 12]
+mix [1, 4]
+
+vanilla [1, 14]
+mix [1, 4]
+
+salt [2, 20]
+stir [2, 18]
+
+flour [2, 23]
+buckwheat [2, 23]
+
+all-purpose flour [2, 25]
+buckwheat [2, 23]
+
+soda [2, 28]
+buckwheat [2, 23]
+
+ginger [2, 30]
+buckwheat [2, 23]
+
+flour [4, 41]
+adjust [4, 39]
+
+water [4, 44]
+adjust [4, 39]
+
+starter [4, 51]
+adjust [4, 39]
+
+batter [5, 55]
+the [5, 56]
+
+batter [7, 87]
+ladle [7, 83]
+
+turnover [9, 112]
+use [9, 110]
+

@@ -1,0 +1,58 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.e.06.a [Types and colours of hair]; AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; AJ.09.e.01 [White/whiteness]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AJ.02.p [Physical chemistry]; AJ.05 [Liquid]; AX.18 [Phonetics and phonology]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; AJ.08.j [Darkness/absence of light]; AL.02.d.05 [Thickness]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; AG.01.t.07 [Cooking]; AP.06.b [Sufficient quantity/amount/degree]; 
+
+AH.01.g [Thread/yarn]; BK.01.e.05 [Ball/balloon]; BK.09.c [Ball/dance]; 
+
+AG.01.n.11 [Bread]; AJ.04.h.02 [Pliableness]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; AP.06.c.01 [Addition/supplementation]; 
+
+AG.01.n.11 [Bread]; AJ.04.h.02 [Pliableness]; 
+
+AF.03.a [Edible product/fruit]; AG.01.h [Fruit and vegetables]; AG.01.h.01 [Fruit/a fruit]; 
+
+AF.10.h [Reproductive product - fruit, nut]; AG.01.h.01.f [Nut]; 
+
+AF.10.i [Seed]; AK.03.b [Source/origin]; ZZ [Unrecognised]AF.10.i [Seed]; 
+
+AG.01.n.11 [Bread]; AJ.04.h.02 [Pliableness]; 
+
+AF.03.a [Edible product/fruit]; AG.01.af [Tea manufacture]; AG.01.h [Fruit and vegetables]; AG.01.h.01 [Fruit/a fruit]; AI.10.e [Tobacco]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AG.01.n.11 [Bread]; AJ.04.h.02 [Pliableness]; 
+
+AG.01.n.11 [Bread]; AJ.04.h.02 [Pliableness]; 
+
+AF.10.h [Reproductive product - fruit, nut]; AG.01.h.01.f [Nut]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AF.12 [Particular plants/herbs/shrubs]; AG.01.e [Dairy produce]; NULLZC [Grammatical Item]; 
+

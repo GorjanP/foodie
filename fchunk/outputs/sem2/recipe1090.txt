@@ -1,0 +1,34 @@
+AE.07.a [Markings/colourings]; AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.k [Flour]; 
+
+AE.07.a [Markings/colourings]; AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.k [Flour]; 
+
+AA.08.a [Rock, stone]; AB.08.e.06 [Reproductive substances/cells]; AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.f [Fruits as vegetables]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+NULL
+
+AC.02.e [Medicines/physic]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; 
+
+AE.13.a [Wild/domestic birds]; AG.01.l.03 [Spice]; AJ.09.e.07 [Brown/brownness]; 
+
+AA.08.c.12 [Carbonates]; AG.01.aa [Aerated/carbonated drink]; AG.01.m [Substances for food preparation]; 
+
+AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AA.03.f.01 [Hole, pit]; AF.10 [Part of plant]; AG.01.l.03 [Spice]; 
+
+AF.09 [Appearance of plant]; AG.01.m [Substances for food preparation]; AG.01.y.01 [Intoxicating liquor]; AJ.04.a.02 [Viscosity]; AL.03.g.01 [Smoothness]; BK.08.v.07.e [Cricketer]; 
+
+AE.07.a [Markings/colourings]; AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.k [Flour]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+

@@ -1,0 +1,26 @@
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+04.10 []AP.05.c.01.a [Amount defined by capacity]; AE.14.m.01 [Genus Ovis (sheep)]; AF.20.f [Pulses/plants producing pulses]; AL.02.d.01 [Largeness]; AP.06.a [Greatness of quantity/amount/degree]; 
+
+AE.14.m.01 [Genus Ovis (sheep)]; AF.20.f [Pulses/plants producing pulses]; AP.05.c.01.a [Amount defined by capacity]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; AG.01.t.07 [Cooking]; AJ.05.a [Making liquid/melting]; BI.12.b.01 [Materials having undergone process]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; AG.01.t.07 [Cooking]; AJ.05.a [Making liquid/melting]; BI.12.b.01 [Materials having undergone process]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AE.13.a [Wild/domestic birds]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AL.04.f.01 [Extraction]; BK.06.a.02 [Extract]; 
+
+AE.14.m.01 [Genus Ovis (sheep)]; AF.20.f [Pulses/plants producing pulses]; AP.05.c.01.a [Amount defined by capacity]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.af [Tea manufacture]; AG.01.e [Dairy produce]; AI.10.e [Tobacco]; 
+

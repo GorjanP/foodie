@@ -1,0 +1,12 @@
+bacon [3, 45]
+create [3, 41]
+
+while cooking [3, 49]
+drain [3, 47]
+
+bacon side [4, 52]
+place [4, 52]
+
+foam [5, 74]
+bake [5, 62]
+

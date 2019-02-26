@@ -1,0 +1,8 @@
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01 [Fruit/a fruit]; AG.01.t.06 [Preserving/pickling]; AJ.03.c.03 [Coldness]; BJ.01.z.01 [Types of money-dealing]; 
+
+NULL
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+

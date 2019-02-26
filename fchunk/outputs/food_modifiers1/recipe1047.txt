@@ -1,0 +1,39 @@
+butter [1, 1]
+melt [1, 0]
+
+large microwave-safe mug [1, 7]
+melt [1, 0]
+
+mug [2, 17]
+tilt [2, 18]
+
+melted butter [2, 23]
+coat [2, 21]
+
+melted butter [3, 26]
+stir [3, 28]
+
+milk [3, 28]
+stir [3, 28]
+
+egg [3, 30]
+stir [3, 28]
+
+cinnamon [3, 32]
+stir [3, 28]
+
+sugar [3, 34]
+stir [3, 28]
+
+vanilla extract [3, 37]
+stir [3, 28]
+
+mug [3, 41]
+extract [3, 42]
+
+bread [4, 44]
+press [4, 48]
+
+milk mixture [4, 47]
+press [4, 48]
+

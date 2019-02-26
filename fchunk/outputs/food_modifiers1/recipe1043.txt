@@ -1,0 +1,42 @@
+zucchini [3, 29]
+place [3, 27]
+
+onion [3, 31]
+place [3, 27]
+
+eggs [3, 33]
+place [3, 27]
+
+Parmesan cheese [3, 35]
+place [3, 27]
+
+feta cheese [3, 37]
+place [3, 27]
+
+parsley [3, 39]
+place [3, 27]
+
+salt [3, 41]
+place [3, 27]
+
+pepper [3, 44]
+place [3, 27]
+
+flour [4, 73]
+add [4, 73]
+
+powder [4, 76]
+add [4, 73]
+
+mozzarella cheese [5, 95]
+place [5, 95]
+
+cheese [5, 111]
+combine [5, 112]
+
+paprika [6, 128]
+sprinkle [6, 129]
+
+quiche [7, 141]
+the [7, 143]
+

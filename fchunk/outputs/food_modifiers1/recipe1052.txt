@@ -1,0 +1,30 @@
+flour [3, 21]
+mix [3, 20]
+
+sugar [3, 23]
+mix [3, 20]
+
+soda [3, 27]
+mix [3, 20]
+
+bacon bits [4, 34]
+stir [4, 32]
+
+butter [4, 36]
+stir [4, 32]
+
+egg [4, 39]
+stir [4, 32]
+
+corn flakes [5, 45]
+fold [5, 45]
+
+Cheddar cheese [5, 47]
+fold [5, 45]
+
+flour mixture [5, 49]
+fold [5, 45]
+
+dough [6, 55]
+drop [6, 55]
+

@@ -1,0 +1,9 @@
+eggs
+oil
+buttermilk
+soda
+wheat germ
+salt
+flour
+batter
+pancake

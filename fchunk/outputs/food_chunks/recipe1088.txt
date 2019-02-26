@@ -1,0 +1,6 @@
+Egg Beaters(R)
+milk
+salt
+Add sausage
+pepper
+cheese ;

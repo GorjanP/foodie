@@ -1,0 +1,10 @@
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; 
+
+AG.01.t.06 [Preserving/pickling]; AL.05.e [Closed/shut condition]; BF.23.d [Clergyman]; ZC [Grammatical Item]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
+
+AA.11.e [Dry weather/climate]; AJ.05.a [Making liquid/melting]; AJ.05.k [Dryness]; AJ.10.b [Bad condition of matter]; BI.12 [Materials]; 
+
+AG.01.ak [Drinking]; AG.01.n.11 [Bread]; ZC [Grammatical Item]; 
+

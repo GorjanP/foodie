@@ -1,0 +1,32 @@
+AE.14.d.02 [Dog]; AG.01.m [Substances for food preparation]; AG.03.c [Hunter]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AA [The world]; AA.08.c [Minerals, ores]; AF.02.a [Food plant/vegetable]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+04.10 []AG.01.k [Flour]; AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AA.08.c.12 [Carbonates]; AG.01.aa [Aerated/carbonated drink]; AG.01.m [Substances for food preparation]; 
+
+AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
+
+AE.14.d.02 [Dog]; AG.01.m [Substances for food preparation]; AG.03.c [Hunter]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AB.08 [Biological processes]; AG.01.n.17.a [Sweets]; BJ.01.m.05.a [Coins collectively]; 
+

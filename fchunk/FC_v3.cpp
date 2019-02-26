@@ -77,7 +77,10 @@ vector<string> allowed_endings = {
     "flavoring", "flavouring",
     "topping", "toppings"
     "strip", "strips",
-    "chop", "chops"
+    "chop", "chops", 
+    
+    // untested:
+    "spray"
     };
 
 vector<string> disallowed_endings = {

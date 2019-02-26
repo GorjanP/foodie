@@ -1,0 +1,30 @@
+pita bread [2, 13]
+place [2, 12]
+
+potatoes [5, 33]
+add [5, 33]
+
+eggs [6, 50]
+add [6, 50]
+
+eggs [7, 55]
+mix [7, 53]
+
+salt [8, 65]
+season [8, 64]
+
+pepper [8, 67]
+season [8, 64]
+
+pita [9, 70]
+remove [9, 70]
+
+pita [10, 75]
+stuff [10, 75]
+
+potato [10, 77]
+stuff [10, 75]
+
+egg mixture [10, 79]
+stuff [10, 75]
+

@@ -1,0 +1,6 @@
+pepper	mushrooms	garlic	onion	
+tender
+
+pepper	mushrooms	garlic	onion	
+opaque
+

@@ -1,0 +1,3 @@
+drippings
+spinach
+cheese .

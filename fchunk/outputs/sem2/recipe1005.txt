@@ -1,0 +1,34 @@
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; BK.07.c.01 [A play]; 
+
+AB.08.d [Development/growth/degeneration]; AF.20.e [Particular vegetables]; AG.01.h.02.h [Fungi]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AC.02.e [Medicines/physic]; AG.01.l.03 [Spice]; AG.01.n.01 [Food by way of preparation]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; BI.06.c [Working with specific materials]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AB.17.e.05.b [Complexion]; AE.13 [Class Aves (birds)]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; AJ.09.e.04 [Green/greenness]; BF.25.m [Consumables]; 
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZA02 [Geographical Name]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.f [Fruits as vegetables]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AB.17.c [Bodily height]; AE.08.g [Class Crustacea (crustaceans)]; AG.01.af [Tea manufacture]; AG.01.d.07 [Seafood]; AI.10.e [Tobacco]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AC.02.m [Dentistry]; AL.04.c.01 [Fact of taking up space]; 
+

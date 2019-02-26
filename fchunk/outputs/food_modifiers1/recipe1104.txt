@@ -1,0 +1,42 @@
+flour [1, 8]
+stir [1, 5]
+
+sugar [1, 10]
+stir [1, 5]
+
+powder [1, 13]
+stir [1, 5]
+
+salt [1, 16]
+stir [1, 5]
+
+butter [3, 23]
+place [3, 21]
+
+chocolate chips [3, 25]
+place [3, 21]
+
+chocolate [5, 56]
+cook [5, 45]
+
+chocolate mixture [7, 70]
+when [7, 69]
+
+milk [7, 78]
+stir [7, 77]
+
+egg whites [7, 80]
+stir [7, 77]
+
+vanilla [7, 83]
+stir [7, 77]
+
+waffle batter [10, 110]
+spoon [10, 112]
+
+waffles [11, 130]
+close [11, 123]
+
+batter [12, 139]
+repeat [12, 140]
+

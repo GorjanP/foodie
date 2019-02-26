@@ -1,0 +1,6 @@
+milk	eggs	
+smooth
+
+No anaphora found!
+golden
+

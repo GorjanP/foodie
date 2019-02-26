@@ -1,0 +1,30 @@
+AG.01.h.02.a [Root vegetable]; AI.09.a [Sexual desire]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AC.02.e [Medicines/physic]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; 
+
+AA [The world]; AA.08.c [Minerals, ores]; AF.02.a [Food plant/vegetable]; 
+
+AG.01.h.02.a [Root vegetable]; AI.09.a [Sexual desire]; 
+
+AG.01.h.02.g [Pulse]; AJ.07.c.07.a [Electronic phenomena]; 
+
+AG.01.h.02.a [Root vegetable]; AI.09.a [Sexual desire]; 
+
+04.10 []BF.25.m [Consumables]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; 
+
+AG.01.af [Tea manufacture]; AG.01.h.02.a [Root vegetable]; AI.09.a [Sexual desire]; AI.10.e [Tobacco]; 
+
+AA.11.d [Hot weather]; AG.01 [Food]; AG.01.f [Fat/oil]; AJ.03.c.02 [Heat]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AG.01.af [Tea manufacture]; AG.01.h.02.a [Root vegetable]; AI.09.a [Sexual desire]; AI.10.e [Tobacco]; 
+
+AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+

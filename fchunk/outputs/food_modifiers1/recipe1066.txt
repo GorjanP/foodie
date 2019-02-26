@@ -1,0 +1,42 @@
+flour [3, 27]
+stir [3, 25]
+
+soda [3, 30]
+stir [3, 25]
+
+salt [3, 32]
+stir [3, 25]
+
+bananas [4, 41]
+beat [4, 39]
+
+butter [4, 43]
+beat [4, 39]
+
+brown sugar [4, 45]
+beat [4, 39]
+
+eggs [4, 47]
+beat [4, 39]
+
+banana mixture [5, 50]
+stir [5, 50]
+
+flour mixture [5, 52]
+stir [5, 50]
+
+nuts [6, 60]
+fold [6, 61]
+
+batter [7, 63]
+pour [7, 65]
+
+loaf [8, 87]
+bake [8, 71]
+
+bread rest [9, 93]
+let [9, 95]
+
+loaves [9, 102]
+remove [9, 105]
+

@@ -1,0 +1,39 @@
+Cheddar cheese [2, 15]
+sprinkle [2, 12]
+
+pastry shell [2, 17]
+sprinkle [2, 12]
+
+chicken [3, 20]
+mix [3, 21]
+
+spinach [3, 22]
+mix [3, 21]
+
+onion [3, 24]
+mix [3, 21]
+
+Cheddar cheese [3, 30]
+mix [3, 21]
+
+pastry shell [3, 38]
+transfer [3, 38]
+
+eggs [4, 41]
+whisk [4, 44]
+
+salt [4, 47]
+mayonnaise [4, 49]
+
+black pepper [4, 49]
+mayonnaise [4, 49]
+
+seasoning blend [4, 51]
+mayonnaise [4, 49]
+
+herbs de Provence [4, 54]
+blend [4, 57]
+
+chicken mixture [4, 61]
+pour [5, 67]
+

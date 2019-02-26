@@ -1,0 +1,21 @@
+eggs [1, 6]
+combine [1, 5]
+
+sugar [1, 8]
+combine [1, 5]
+
+milk [1, 10]
+combine [1, 5]
+
+brandy [1, 12]
+combine [1, 5]
+
+orange zest [1, 14]
+combine [1, 5]
+
+bread slices [4, 30]
+soak [4, 30]
+
+bread slices [7, 68]
+cook [7, 68]
+

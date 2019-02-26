@@ -1,0 +1,12 @@
+AC.02.e [Medicines/physic]; AF.20 [Particular food plant/product]; AG.01.h.01.e [Fruit containing stone]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01 [Fruit/a fruit]; AG.01.t.06 [Preserving/pickling]; AJ.03.c.03 [Coldness]; AP.07.d.01 [Part of whole]; BI.12.a [Raw material]; BJ.01.z.01 [Types of money-dealing]; 
+
+AG.01.ab [Fruit juice/squash]; AG.01.h.01.a [Citrus fruit]; AJ.09.e.10 [Orange]; 
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AF.10.f [Plant substances]; AG.01.ab [Fruit juice/squash]; AG.01.h.01.a [Citrus fruit]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.09.e.10 [Orange]; 
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+

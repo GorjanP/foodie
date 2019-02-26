@@ -1,0 +1,14 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AG.01.y.01.e [Brandy]; AI.09.a [Sexual desire]; 
+
+AG.01.l [Additive]; AI.08.a [Sleep]; AJ.09.e.10 [Orange]; BF.22.b [Christianity]; BF.22.b.08 [Protestantism]; 
+
+AA.06.a [Structural features of the Earth]; AG.01.n.11 [Bread]; AG.01.t.08 [Equipment for food preparation]; AP.07.d.01 [Part of whole]; BF.25.m.01 [Eucharistic elements]; 
+
+AE.13 [Class Aves (birds)]; AG.01.n.11 [Bread]; AL.04.f.01 [Extraction]; AP.07.e.07.b [Action of dividing/divided condition]; BF.25.m.01 [Eucharistic elements]; 
+

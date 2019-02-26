@@ -1,0 +1,39 @@
+whole wheat flour [2, 15]
+mix [2, 14]
+
+all-purpose flour [2, 17]
+mix [2, 14]
+
+brown sugar [2, 19]
+mix [2, 14]
+
+powder [2, 22]
+mix [2, 14]
+
+salt [2, 25]
+mix [2, 14]
+
+oats [3, 33]
+mix [3, 36]
+
+soy milk [3, 35]
+mix [3, 36]
+
+eggs [4, 39]
+whisk [4, 42]
+
+olive oil [4, 41]
+whisk [4, 42]
+
+flour mixture [5, 46]
+pour [5, 49]
+
+blueberries [7, 59]
+fold [8, 64]
+
+batter [8, 62]
+pour [8, 68]
+
+cooking [10, 87]
+continue [1701273888, 93]
+

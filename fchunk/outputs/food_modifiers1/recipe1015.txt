@@ -1,0 +1,24 @@
+banana [1, 1]
+mash [1, 0]
+
+eggs [1, 10]
+add [1, 9]
+
+powder [1, 13]
+add [1, 9]
+
+cinnamon [1, 16]
+add [1, 9]
+
+butter [2, 23]
+heat [2, 22]
+
+batter [3, 32]
+spoon [3, 31]
+
+hot butter [3, 35]
+spoon [3, 31]
+
+batter [5, 70]
+repeat [5, 68]
+
