@@ -87,7 +87,10 @@ vector<string> disallowed_endings = {
     "platter", "dish",
     "maker", "pan",
     "paper", "mug",
-    "cup"
+    "cup",
+    // untested:
+
+     "can", "paper", "papers"
 };
 
 int ids_ctr = 0;
