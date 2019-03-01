@@ -95,7 +95,10 @@ vector<string> disallowed_endings = {
 
      "can", "cans",
      "shaker", "shakers",
-     "frother", "frothers"
+     "frother", "frothers",
+     "machine", "machines",
+     "mitt", "mitts",
+     "stirrer", "stirrers"
 };
 
 int ids_ctr = 0;
