@@ -98,7 +98,9 @@ vector<string> disallowed_endings = {
      "frother", "frothers",
      "machine", "machines",
      "mitt", "mitts",
-     "stirrer", "stirrers"
+     "stirrer", "stirrers",
+     "brush", "brushes",
+     "cycle", "cycles"
 };
 
 int ids_ctr = 0;
