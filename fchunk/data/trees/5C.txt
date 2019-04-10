@@ -1,0 +1,15 @@
+S
+VP
+.
+VB
+NP
+PP
+Let
+NN
+cool
+IN
+NP
+until
+JJ
+lukewarm
+.
