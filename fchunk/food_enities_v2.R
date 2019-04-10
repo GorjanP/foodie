@@ -76,7 +76,7 @@ check_duplicate_recipes <- function()
 
 tagger <- function(text)
 {
-  command <- 'java --add-modules=java.se.ee -cp .;./lib/UcrelSemTaggerClient.jar ApiTagger '
+  command <- 'java -cp .;./lib/UcrelSemTaggerClient.jar ApiTagger '
   text <- paste('"',text,sep = "")
   text <- paste(text,'"',sep = "")
   command <- paste(command,text,sep = "")
@@ -718,22 +718,14 @@ delete_output_files <- function()
   
 }
 
-parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
+parse_recipe <- function(num=10000000, close = TRUE, delete_after = FALSE)
 {
-  if(missing(num))
-  {
-    num = 10000000
-  }
-  
   delete_output_files()
-    
-  #full_files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = TRUE)
-  #files = list.files("recipes/bulk/appetizers_snacks/recipes/", full.names = FALSE)
-  
+
   time_start <- Sys.time()
   
-  full_files = list.files("recipes/", full.names = TRUE)
-  files = list.files("recipes/", full.names = FALSE)
+  full_files = list.files("./recipes/", full.names = TRUE)
+  files = list.files("./recipes/", full.names = FALSE)
 
   
   sent_token_annotator <<- Maxent_Sent_Token_Annotator()
@@ -745,10 +737,11 @@ parse_recipe <- function(num, close = TRUE, delete_after = FALSE)
   ret = list()
   ret2 = list()
   grafoj = list()
+  print(files)
   for(f in full_files)
   {
     if(ctr > num)
-      break;
+      break
     
     invisible(do.call(file.remove, list(list.files("data", full.names = TRUE))))
     invisible(do.call(file.remove, list(list.files("data/trees", full.names = TRUE))))
