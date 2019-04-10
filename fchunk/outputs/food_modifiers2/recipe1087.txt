@@ -1,9 +1,0 @@
-eggs	
-entire
-
-eggs	
-curl
-
-cheese	
-melted
-

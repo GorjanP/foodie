@@ -1,8 +1,0 @@
-AG.01.d.05 [Pork]; 
-
-AG.01.r [Meal]; AG.01.t.07 [Cooking]; AI.10 [Use of drugs, poison]; AM.02 [Duration]; AO.21.b [Effort/exertion]; AO.22.c.02 [Kindness, gentleness, mildness]; 
-
-AG.01.d.05 [Pork]; AL.01.b [Nearness]; AL.05 [Relative position]; 
-
-AA.04.c [Sea/ocean]; AE.07 [Animal body]; AJ.06.b [Gas/air in liquid/effervescence]; 
-

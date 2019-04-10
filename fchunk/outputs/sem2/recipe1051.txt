@@ -1,6 +1,0 @@
-AG.01.f [Fat/oil]; AJ.05.h.06 [Action/process of dripping/falling in drops]; AL.05.p [Inclination]; 
-
-AE.08.i [Class Insecta (insects)]; AF.20.e [Particular vegetables]; AG.01.h.02.c [Leaf vegetables]; 
-
-AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
-

@@ -1,6 +1,0 @@
-eggs
-oil
-milk
-flour
-water
-batter

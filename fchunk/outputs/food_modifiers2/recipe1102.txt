@@ -1,9 +1,0 @@
-salt	sugar	milk	eggs	
-smooth
-
-flour	
-incorporated
-
-butter	
-melts
-

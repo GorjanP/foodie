@@ -1,9 +1,0 @@
-drippings [2, 27]
-remove [2, 21]
-
-spinach [4, 36]
-add [4, 35]
-
-cheese . [8, 75]
-egg [8, 62]
-

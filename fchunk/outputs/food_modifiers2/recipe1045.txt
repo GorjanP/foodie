@@ -1,6 +1,0 @@
-milk	margarine	melted butter	eggs	
-blended
-
-No anaphora found!
-done
-

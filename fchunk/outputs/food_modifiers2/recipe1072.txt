@@ -1,9 +1,0 @@
-flour	milk	
-smooth
-
-egg	
-penetrated
-
-No anaphora found!
-golden
-

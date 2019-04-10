@@ -1,6 +1,0 @@
-eggs	
-light
-
-bread	
-done
-
