@@ -1,0 +1,36 @@
+bacon [3, 29]
+stir [3, 28]
+
+onion [3, 31]
+stir [3, 28]
+
+bacon [3, 33]
+stir [3, 28]
+
+bacon [5, 45]
+transfer [5, 44]
+
+onion [5, 47]
+transfer [5, 44]
+
+potatoes [6, 55]
+stir [6, 53]
+
+eggs [6, 57]
+stir [6, 53]
+
+Cheddar cheese [6, 59]
+stir [6, 53]
+
+cottage cheese [6, 61]
+stir [6, 53]
+
+Swiss cheese [6, 64]
+stir [6, 53]
+
+eggs [8, 78]
+bake [8, 76]
+
+cheese [8, 82]
+bake [8, 76]
+

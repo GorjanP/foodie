@@ -1,0 +1,10 @@
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01 [Fruit/a fruit]; 
+
+AF.20 [Particular food plant/product]; AG.01.h.01 [Fruit/a fruit]; 
+
+AB.17.n.02 [Bodily secretions]; AF.10.f [Plant substances]; AG.01.e [Dairy produce]; 
+
+AF.10.f [Plant substances]; AG.01.ab [Fruit juice/squash]; AG.01.h.01.a [Citrus fruit]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.09.e.10 [Orange]; 
+
+NULL
+

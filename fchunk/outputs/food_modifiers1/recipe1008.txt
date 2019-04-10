@@ -1,0 +1,39 @@
+shredded cheese [3, 20]
+spread [3, 19]
+
+cheese [4, 28]
+cover [4, 28]
+
+meat [4, 30]
+cover [4, 28]
+
+vegetables [4, 32]
+cover [4, 28]
+
+eggs [5, 39]
+combine [5, 39]
+
+salt [5, 44]
+combine [5, 39]
+
+garlic powder [5, 46]
+combine [5, 39]
+
+onions [5, 48]
+combine [5, 39]
+
+parsley [5, 50]
+combine [5, 39]
+
+milk [5, 53]
+combine [5, 39]
+
+olive oil [6, 61]
+add [6, 62]
+
+meat [7, 71]
+pour [7, 71]
+
+paprika [8, 78]
+sprinkle [8, 79]
+

@@ -1,0 +1,15 @@
+milk [1, 4]
+blend [1, 0]
+
+banana [1, 6]
+blend [1, 0]
+
+peanut butter [1, 11]
+blend [1, 0]
+
+honey [1, 13]
+blend [1, 0]
+
+cocoa powder [1, 16]
+blend [1, 0]
+

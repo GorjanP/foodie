@@ -1,0 +1,33 @@
+egg whites [1, 7]
+beat [1, 5]
+
+reduced-fat Cheddar cheese [1, 11]
+beat [1, 5]
+
+salsa [1, 15]
+beat [1, 5]
+
+tortilla [2, 31]
+in [2, 20]
+
+egg white mixture [4, 47]
+scramble [4, 48]
+
+tortilla [5, 54]
+top [5, 58]
+
+scrambled egg mixture [5, 57]
+top [5, 58]
+
+cheese [5, 60]
+top [5, 58]
+
+salsa [5, 63]
+top [5, 58]
+
+salt [6, 67]
+season [0, 72]
+
+pepper [6, 69]
+season [0, 72]
+

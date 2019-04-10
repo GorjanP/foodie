@@ -1,0 +1,28 @@
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AC.02.e [Medicines/physic]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AE.14.m.03 [Subfamily Bovinae (bovines)]; AF.20.d [Edible pods/seeds/leaves/flowers]; AG.01.m [Substances for food preparation]; AG.01.n.17.a [Sweets]; AJ.07.d [Solid state physics]; AP.07.d.01 [Part of whole]; 
+
+AF.20.d [Edible pods/seeds/leaves/flowers]; AG.01.m [Substances for food preparation]; AG.01.n.17.a [Sweets]; 
+
+AF.20.d [Edible pods/seeds/leaves/flowers]; AG.01.af [Tea manufacture]; AG.01.m [Substances for food preparation]; AG.01.n.17.a [Sweets]; AI.10.e [Tobacco]; AP.07.e.03 [Condition/state of being mixed/blended]; 
+
+AB.17.n.02 [Bodily secretions]; AG.01.a [Qualities of food]; AG.01.e [Dairy produce]; 
+
+AE.07.a [Markings/colourings]; AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.k [Flour]; 
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AG.01.m [Substances for food preparation]; AG.01.n.13 [Cake]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; BK.06.e.04 [Copiousness]; 
+
+AG.01.n.13 [Cake]; BK.06.e.04 [Copiousness]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+

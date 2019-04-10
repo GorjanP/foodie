@@ -1,0 +1,24 @@
+AB.17.e.05.b [Complexion]; AE.13 [Class Aves (birds)]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; AJ.09.e.04 [Green/greenness]; BF.25.m [Consumables]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.b [Stalk vegetables]; 
+
+AE.13.g [Feather]; AE.13.o [Order Passeriformes (song-birds)]; AG.01.n.15 [Pastry]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.b [Stalk vegetables]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+04.10 []AG.01.h.02.e [Onion/leek/garlic]; AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZA02 [Geographical Name]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZA02 [Geographical Name]; 
+
+AA.03.i [Fertile land, parkland]; AA.04.c [Sea/ocean]; AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; AJ.09.e.04 [Green/greenness]; 
+
+AE.13.g [Feather]; AE.13.o [Order Passeriformes (song-birds)]; AG.01.n.15 [Pastry]; AO.03.a [Preparation]; BK.04.a.06 [Harmony/sounds in combination]; 
+
+NULL
+

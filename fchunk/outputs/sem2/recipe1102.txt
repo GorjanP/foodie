@@ -1,0 +1,22 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AF.10.f [Plant substances]; AF.20.b [Particular fruit-tree/-plant]; AG.01.ab [Fruit juice/squash]; AG.01.h.01.a [Citrus fruit]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AF.10.h [Reproductive product - fruit, nut]; AG.01.h.01.b [Berry]; 
+
+AC.02.j [Pharmacy]; AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AG.01.t.05 [Preparation for table/cooking]; AG.01.t.07 [Cooking]; AJ.02.m.03.a [Sugars]; ZC [Grammatical Item]; 
+
+AG.01.e [Dairy produce]; AG.01.n [Dishes and prepared food]; AH.01.h.05 [Sewn/ornamented textile fabric]; AJ.09.e.01 [White/whiteness]; AP.07.e.06.a [Binding/tying]; BK.08.n.05 [Fencing]; 
+

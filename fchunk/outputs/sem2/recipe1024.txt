@@ -1,0 +1,40 @@
+AA.06 [Structure of the Earth]; AE.13.g [Feather]; AG.01.n.11 [Bread]; AG.01.n.15 [Pastry]; AL.05.v [Arrangement/fact of being arranged]; 
+
+AA.06 [Structure of the Earth]; AG.01.n.11 [Bread]; AG.01.n.15 [Pastry]; 
+
+AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AG.01.n.11 [Bread]; AG.01.n.15 [Pastry]; 
+
+AA.06 [Structure of the Earth]; AG.01.n.11 [Bread]; AG.01.n.15 [Pastry]; 
+
+NULL
+
+NULL
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+04.10 []AG.01.l.03 [Spice]; AC.02.e.04 [Preparations treating/preventing specific ailments]; AF.21 [Particular medicinal/food plants/parts]; 
+
+NULL
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AF.20.e [Particular vegetables]; AG.01.h.02.i [Herb]; 
+
+NULL
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; 
+
+AA.06 [Structure of the Earth]; AG.01.n.11 [Bread]; AG.01.n.15 [Pastry]; 
+
+NULL
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZZ [Unrecognised]AG.01.e.02 [Cheese]; 
+
+NULL
+

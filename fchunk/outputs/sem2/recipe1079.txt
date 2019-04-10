@@ -1,0 +1,36 @@
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZZ [Unrecognised]AG.01.e.02 [Cheese]; 
+
+AA [The world]; AA.08.c [Minerals, ores]; AF.02.a [Food plant/vegetable]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AF.10.i [Seed]; AF.26 [Plant/nut/bean yielding oil]; AG.01.i [Corn/cereals/grain]; AK.03.b [Source/origin]; 
+
+AF.10.i [Seed]; AK.03.b [Source/origin]; 
+
+AA [The world]; AA.08.c [Minerals, ores]; AF.02.a [Food plant/vegetable]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; BK.07.c.01 [A play]; 
+
+AG.01.h.02.f [Fruits as vegetables]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AA.08.b.01 [Soil]; AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AF.20.e [Particular vegetables]; BA.15.a.04.c [Piece of artillery]; 
+
+NULL
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZA02 [Geographical Name]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; ZZ [Unrecognised]AG.01.e.02 [Cheese]; 
+
+AF.10.i [Seed]; AK.03.b [Source/origin]; 
+
+AG.01.af [Tea manufacture]; AG.01.h.02.f [Fruits as vegetables]; AI.10.e [Tobacco]; 
+

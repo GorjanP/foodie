@@ -1,0 +1,34 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AG.01.l.04 [Sauce/dressing]; BK.04.c.04 [Dance-music]; BK.09 [Dancing]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+04.10 []AG.01.e.02 [Cheese]; AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AA.03 [Land, ground, land mass]; AE.14.m.03 [Subfamily Bovinae (bovines)]; AG.01.d.03 [Beef]; AK.03.a [Cause/reason]; 
+
+AE.14.m.03 [Subfamily Bovinae (bovines)]; AG.01.d.03 [Beef]; 
+
+AB.17.b.01 [Broad shape/physique]; AJ.04.i [Unctuousness]; AO.22.d.07 [Lack of moderation/restraint]; AP.06.b.02 [Excessive amount/degree]; BI.12.b.13 [Greasy/fatty material]; 
+
+AG.01.n.12 [Pancake/tortilla/oatcake]AG.01.l [Additive]; AG.01.t.05 [Preparation for table/cooking]; BI.06.d.04 [Constructing/working with wood]; 
+
+AE.04 [Animals hunted]; AG.01 [Food]; AG.01.af [Tea manufacture]; AG.01.d [Animals for food]; AI.10.e [Tobacco]; 
+
+AA.06 [Structure of the Earth]; AE.13.g [Feather]; AG.01.n.11 [Bread]; AG.01.n.15 [Pastry]; AP.03.b.01 [Confusion/disorder]; 
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; 
+
+AE.14.m.03 [Subfamily Bovinae (bovines)]; AG.01.d.03 [Beef]; 
+
+NULL
+

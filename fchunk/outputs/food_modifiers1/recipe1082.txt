@@ -1,0 +1,21 @@
+tomato juice [1, 2]
+mix [1, 0]
+
+beef consomme [1, 4]
+mix [1, 0]
+
+Worcestershire sauce [1, 6]
+mix [1, 0]
+
+lemon juice [1, 8]
+mix [1, 0]
+
+hot pepper sauce [1, 10]
+mix [1, 0]
+
+celery salt [1, 12]
+mix [1, 0]
+
+black pepper [1, 15]
+mix [1, 0]
+

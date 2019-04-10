@@ -1,0 +1,45 @@
+crescent dough [2, 13]
+unroll [2, 12]
+
+dough [3, 29]
+line [3, 22]
+
+dough [4, 41]
+prick [4, 41]
+
+crust [5, 46]
+bake [5, 46]
+
+chopped ham [6, 59]
+layer [6, 58]
+
+roasted red peppers [6, 61]
+layer [6, 58]
+
+spinach [6, 63]
+layer [6, 58]
+
+Cheddar cheese [6, 66]
+layer [6, 58]
+
+baked crust [6, 69]
+layer [6, 58]
+
+eggs [7, 72]
+beat [7, 77]
+
+milk [7, 74]
+beat [7, 77]
+
+black pepper [7, 76]
+beat [7, 77]
+
+hot pepper sauce [7, 79]
+beat [7, 77]
+
+egg mixture [8, 86]
+pour [9, 94]
+
+quiche [11, 118]
+allow [11, 127]
+

@@ -1,0 +1,39 @@
+olive oil [1, 2]
+heat [1, 0]
+
+asparagus [2, 13]
+add [2, 12]
+
+mushrooms [2, 15]
+add [2, 12]
+
+onions [2, 17]
+add [2, 12]
+
+asparagus [2, 24]
+stir [2, 22]
+
+eggs [3, 36]
+whisk [3, 34]
+
+milk [3, 38]
+whisk [3, 34]
+
+sauteed vegetables [3, 47]
+pour [3, 45]
+
+omelet cooks [4, 57]
+while [4, 57]
+
+uncooked egg [4, 65]
+allow [4, 66]
+
+egg [5, 74]
+when [5, 74]
+
+Parmesan cheese [5, 79]
+sprinkle [5, 82]
+
+cheese [6, 86]
+allow [6, 89]
+

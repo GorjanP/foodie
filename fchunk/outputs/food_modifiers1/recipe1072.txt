@@ -1,0 +1,36 @@
+eggs [1, 2]
+beat [1, 0]
+
+sugar [1, 4]
+beat [1, 0]
+
+salt [1, 7]
+beat [1, 0]
+
+milk [2, 17]
+whisk [2, 14]
+
+flour [2, 22]
+whisk [2, 14]
+
+oil [3, 29]
+heat [3, 28]
+
+bread slices [4, 48]
+soak [4, 46]
+
+egg mixture [4, 51]
+soak [4, 46]
+
+egg [4, 54]
+soak [4, 46]
+
+bread [4, 63]
+soak [4, 46]
+
+excess egg [5, 68]
+wipe [5, 67]
+
+French toast [8, 104]
+drain [8, 105]
+

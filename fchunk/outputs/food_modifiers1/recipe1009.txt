@@ -1,0 +1,36 @@
+yeast [2, 20]
+dissolve [2, 19]
+
+water [2, 22]
+dissolve [2, 19]
+
+milk [3, 25]
+add [3, 24]
+
+sugar [3, 27]
+add [3, 24]
+
+salt [3, 29]
+add [3, 24]
+
+soda [3, 31]
+add [3, 24]
+
+whole wheat flour [3, 33]
+add [3, 24]
+
+all-purpose flour [4, 40]
+beat [4, 40]
+
+soft dough [4, 50]
+beat [4, 40]
+
+dough [5, 55]
+turn [5, 58]
+
+loaf [6, 77]
+form [6, 78]
+
+loaf [9, 113]
+repeat [9, 111]
+

@@ -1,0 +1,34 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AE.13.a [Wild/domestic birds]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AA.06.a [Structural features of the Earth]; AG.01.n.11 [Bread]; AG.01.t.08 [Equipment for food preparation]; AP.07.d.01 [Part of whole]; BF.25.m.01 [Eucharistic elements]; 
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; 
+
+AG.01.ak [Drinking]; AG.01.n.11 [Bread]; 
+
+AG.01.ak [Drinking]; AG.01.n.11 [Bread]; 
+
+AG.01.e [Dairy produce]; AG.01.e.02 [Cheese]; AG.01.n [Dishes and prepared food]; AG.01.n.18 [Preserve]; AJ.09.e.01 [White/whiteness]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AG.01.e [Dairy produce]; AG.01.n [Dishes and prepared food]; AG.02.b.02 [Farmland]; AI.12.e [Sourness/acidity]; AJ.09.e.01 [White/whiteness]; 
+
+AG.01.ak [Drinking]; AG.01.n.11 [Bread]; AJ.03.c.02 [Heat]; AJ.09.a [Quality of colour]; ZA02 [Geographical Name]; 
+
+AF.01 [Plants collectively]; AG.01.c [Diet]; AJ.09.a [Quality of colour]; AW.11.b [Lavishness]; 
+
+AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.03.c.03 [Coldness]; BK.05.h.03 [Ornamental glass-work]; 
+

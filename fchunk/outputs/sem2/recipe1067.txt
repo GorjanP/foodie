@@ -1,0 +1,8 @@
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01 [Fruit/a fruit]; 
+
+AF.20 [Particular food plant/product]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AF.12 [Particular plants/herbs/shrubs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+

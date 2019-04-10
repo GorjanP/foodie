@@ -1,0 +1,18 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AJ.02.i [Chemical reactions/processes]; AL.04.f.01 [Extraction]; BK.06.a.02 [Extract]; 
+
+AE.13.a [Wild/domestic birds]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01 [Fruit/a fruit]; 
+
+AE.14.m.03 [Subfamily Bovinae (bovines)]; AF.20.d [Edible pods/seeds/leaves/flowers]; AG.01.m [Substances for food preparation]; AG.01.n.17.a [Sweets]; AJ.07.d [Solid state physics]; AP.07.d.01 [Part of whole]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AA.04.f [Ice]; AG.01.n.12 [Pancake/tortilla/oatcake]; AL.03 [Shape]; 
+

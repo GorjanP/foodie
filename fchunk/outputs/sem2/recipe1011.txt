@@ -1,0 +1,38 @@
+AG.01.n.11 [Bread]; AG.01.t.06 [Preserving/pickling]; AJ.03.c.03 [Coldness]; AJ.04.h.02 [Pliableness]; BF.25.m.01 [Eucharistic elements]; BJ.01.z.01 [Types of money-dealing]; 
+
+AA [The world]; AA.08.c [Minerals, ores]; AF.02.a [Food plant/vegetable]; AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AG.01.n.05 [Sausage]; AZ.06.f.05.k [Screen]; BA.06.c.09 [Shelter/screen]; 
+
+AG.01.n.11 [Bread]; AL.05.v [Arrangement/fact of being arranged]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.n.05 [Sausage]; AG.01.t.07 [Cooking]; AW.16.c.04 [Swindling]; AZ.06.f.05.k [Screen]; BA.06.c.09 [Shelter/screen]; 
+
+AA.04.c [Sea/ocean]; AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.t.07 [Cooking]; AJ.09.e.04 [Green/greenness]; 
+
+AB.08.d [Development/growth/degeneration]; AF.20.e [Particular vegetables]; AG.01.h.02.h [Fungi]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.n.06 [Meat dishes]; AG.01.n.11 [Bread]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AL.04.c.01 [Fact of taking up space]; 
+
+AF.20.e [Particular vegetables]; AG.01.n.06 [Meat dishes]; AG.01.n.11 [Bread]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
+
+AG.01.n.11 [Bread]; AL.03.f.04 [Curved three-dimensional shape/body, cylinder]; AN.02.e [Revolution/rotation]; 
+
+AA.04.b [Rivers, streams]; AA.04.d [Lake]; AE.13.d [Egg]; AG.01.g [Eggs]; 
+

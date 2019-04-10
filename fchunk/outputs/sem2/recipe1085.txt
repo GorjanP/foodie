@@ -1,0 +1,36 @@
+AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AA.03 [Land, ground, land mass]; AF.20.g [Cereal/corn/grain]; AG.01.i [Corn/cereals/grain]; AK.03.a [Cause/reason]; 
+
+AE.13.a [Wild/domestic birds]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AA.08.b [Sediment, soil, mud]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AF.10.f [Plant substances]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AF.20.c [Edible nuts/nut-trees]; AG.01.e [Dairy produce]; AG.01.h.01.f [Nut]; 
+
+AF.13.c [Non-British trees/shrubs]; AF.20.c [Edible nuts/nut-trees]; AG.01.f [Fat/oil]; AG.01.h.01.f [Nut]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AL.04.f.01 [Extraction]; BK.06.a.02 [Extract]; 
+
+AF.20.g [Cereal/corn/grain]; AG.01.af [Tea manufacture]; AG.01.i [Corn/cereals/grain]; AI.10.e [Tobacco]; 
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+NULL
+
+AF.13.c [Non-British trees/shrubs]; AF.20.c [Edible nuts/nut-trees]; AG.01.f [Fat/oil]; AG.01.h.01.f [Nut]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+

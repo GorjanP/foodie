@@ -1,0 +1,6 @@
+No anaphora found!
+smooth
+
+No anaphora found!
+combined
+

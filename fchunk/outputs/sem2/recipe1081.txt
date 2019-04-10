@@ -1,0 +1,16 @@
+AA.08.c.06 [Hydrocarbon minerals]; AC.01 [Health and disease]; AF.20.e [Particular vegetables]; AG.01.h.02.a [Root vegetable]; AI.09.a [Sexual desire]; AI.12.d [Sweetness]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AE.13.a [Wild/domestic birds]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AF.20 [Particular food plant/product]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; 
+
+AG.01.n.11 [Bread]; BF.25.m.01 [Eucharistic elements]; 
+
+AG.01.ak [Drinking]; AG.01.n.11 [Bread]; ZA02 [Geographical Name]; 
+

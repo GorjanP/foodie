@@ -1,0 +1,21 @@
+eggs [1, 1]
+beat [1, 0]
+
+milk [2, 10]
+add [2, 9]
+
+salt [2, 12]
+add [2, 9]
+
+pepper [2, 15]
+add [2, 9]
+
+olive oil [3, 27]
+coat [3, 22]
+
+egg mixture [4, 35]
+pour [4, 35]
+
+eggs [4, 44]
+stir [4, 44]
+

@@ -1,0 +1,33 @@
+buttermilk [1, 3]
+whisk [1, 0]
+
+eggs [1, 5]
+whisk [1, 0]
+
+flour [2, 19]
+stir [2, 16]
+
+powder [2, 22]
+stir [2, 16]
+
+salt [2, 25]
+stir [2, 16]
+
+buttermilk mixture [3, 46]
+stir [3, 43]
+
+mashed bananas [3, 48]
+stir [3, 43]
+
+batter [3, 57]
+mix [3, 57]
+
+batter [3, 60]
+mix [3, 57]
+
+batter [4, 68]
+let [4, 68]
+
+batter [6, 96]
+pour [6, 94]
+

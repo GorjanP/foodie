@@ -1,0 +1,48 @@
+oil [2, 13]
+heat [2, 12]
+
+onion [3, 24]
+stir [3, 22]
+
+garlic [4, 36]
+stir [4, 34]
+
+pepper [4, 40]
+stir [4, 34]
+
+tomatoes [4, 43]
+stir [4, 34]
+
+salt [5, 47]
+season [5, 45]
+
+pepper [5, 49]
+season [5, 45]
+
+cumin [5, 52]
+season [5, 45]
+
+beans [7, 65]
+mix [7, 64]
+
+onion mixture [7, 68]
+mix [7, 64]
+
+parsley [9, 79]
+toss [9, 78]
+
+eggs [10, 90]
+break [10, 90]
+
+butter [10, 97]
+break [10, 90]
+
+salt [10, 102]
+season [10, 101]
+
+pepper [10, 104]
+season [10, 101]
+
+eggs [11, 118]
+bake [11, 107]
+

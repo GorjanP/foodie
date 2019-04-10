@@ -1,0 +1,51 @@
+onion [1, 13]
+stir [1, 11]
+
+garlic [1, 15]
+stir [1, 11]
+
+mushrooms [1, 17]
+stir [1, 11]
+
+pepper [1, 19]
+stir [1, 11]
+
+eggs [3, 50]
+beat [3, 48]
+
+milk [3, 52]
+beat [3, 48]
+
+curry powder [4, 56]
+mix [4, 54]
+
+salt [4, 58]
+mix [4, 54]
+
+pepper [4, 60]
+mix [4, 54]
+
+olive oil [5, 64]
+heat [5, 63]
+
+egg mixture [6, 74]
+pour [6, 74]
+
+Cheddar cheese [7, 87]
+top [7, 88]
+
+tomato [7, 89]
+top [7, 88]
+
+onion [7, 92]
+top [7, 88]
+
+shrimp mixture [7, 94]
+top [7, 88]
+
+eggs [8, 97]
+fold [8, 101]
+
+filling [8, 99]
+fold [8, 101]
+

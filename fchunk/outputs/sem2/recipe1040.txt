@@ -1,0 +1,22 @@
+AE.07.a [Markings/colourings]; AE.13.d [Egg]; AG.01.g [Eggs]; AG.01.k [Flour]; 
+
+04.10 []ZA02 [Geographical Name]; AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.l.04 [Sauce/dressing]; BK.04.c.04 [Dance-music]; BK.09 [Dancing]; 
+
+AG.01.n.11 [Bread]; AG.01.n.12 [Pancake/tortilla/oatcake]; 
+
+AB.17.e.06.a [Types and colours of hair]; AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; AJ.09.e.01 [White/whiteness]; 
+
+AG.01.n.11 [Bread]; AG.01.n.12 [Pancake/tortilla/oatcake]; 
+
+AE.13.d [Egg]; AG.01.af [Tea manufacture]; AG.01.g [Eggs]; AI.10.e [Tobacco]; AP.03.b [Disorder]; AP.03.b.01 [Confusion/disorder]; BG.14 [Telecommunication]; 
+
+AG.01.e.02 [Cheese]; AG.01.n.18 [Preserve]; 
+
+AG.01.l.04 [Sauce/dressing]; BK.04.c.04 [Dance-music]; BK.09 [Dancing]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+

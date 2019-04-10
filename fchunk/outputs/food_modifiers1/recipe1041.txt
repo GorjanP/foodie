@@ -1,0 +1,15 @@
+sauce [1, 7]
+green [1, 0]
+
+cured the [2, 22]
+if [2, 17]
+
+water [5, 51]
+with [5, 48]
+
+melts Dry [6, 63]
+cur [6, 56]
+
+of and toast [9, 103]
+PUNC [9, 103]
+

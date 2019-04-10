@@ -1,0 +1,10 @@
+NULL
+
+AF.13 [Particular tree/shrub]; AF.20 [Particular food plant/product]; AG.01.h.01.d [Pear]; 
+
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01.c [Apple]; 
+
+AE.08.i [Class Insecta (insects)]; AF.20.e [Particular vegetables]; AG.01.h.02.c [Leaf vegetables]; 
+
+AE.13.a [Wild/domestic birds]; AF.21 [Particular medicinal/food plants/parts]; AG.01.l.03 [Spice]; 
+

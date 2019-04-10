@@ -1,0 +1,18 @@
+bacon slices [5, 55]
+place [5, 54]
+
+Fry bacon [6, 63]
+fry [6, 64]
+
+cheese [8, 80]
+break [8, 78]
+
+cheese [10, 97]
+place [10, 95]
+
+bacon [11, 112]
+wrap [11, 108]
+
+bacon [14, 145]
+bake [14, 135]
+

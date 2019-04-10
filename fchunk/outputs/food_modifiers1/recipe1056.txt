@@ -1,0 +1,42 @@
+brown sugar [2, 7]
+heat [2, 6]
+
+butter [2, 9]
+heat [2, 6]
+
+corn syrup [2, 12]
+heat [2, 6]
+
+pecans [3, 35]
+sprinkle [3, 35]
+
+apple slices [4, 38]
+arrange [4, 39]
+
+pecans [4, 40]
+arrange [4, 39]
+
+bread slices [5, 43]
+layer [5, 45]
+
+apple [5, 45]
+layer [5, 45]
+
+eggs [6, 51]
+whisk [6, 54]
+
+milk [6, 53]
+whisk [6, 54]
+
+vanilla extract [6, 55]
+whisk [6, 54]
+
+almond extract [6, 57]
+whisk [6, 54]
+
+salt [6, 60]
+whisk [6, 54]
+
+bread [6, 67]
+pour [6, 71]
+

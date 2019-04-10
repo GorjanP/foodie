@@ -1,0 +1,45 @@
+mini muffin [2, 14]
+spray [2, 12]
+
+sausage [3, 30]
+crumble [3, 29]
+
+sausage [4, 36]
+stir [4, 35]
+
+excess grease [5, 51]
+discard [5, 50]
+
+sausage [6, 54]
+sprinkle [6, 55]
+
+Cheddar cheese [6, 56]
+sprinkle [6, 55]
+
+Swiss cheese [6, 58]
+sprinkle [6, 55]
+
+green onion [6, 61]
+sprinkle [6, 55]
+
+eggs [7, 70]
+beat [7, 74]
+
+potato flakes [7, 72]
+beat [7, 74]
+
+cream [7, 75]
+beat [7, 74]
+
+salt [7, 83]
+season [8, 87]
+
+pepper [7, 85]
+season [8, 87]
+
+egg mixture [8, 88]
+pour [8, 93]
+
+quiches [9, 105]
+bake [9, 106]
+

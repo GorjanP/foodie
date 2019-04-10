@@ -1,0 +1,39 @@
+bacon [2, 13]
+place [2, 12]
+
+crisp [2, 25]
+place [2, 12]
+
+bacon [4, 37]
+sprinkle [4, 36]
+
+cheese [4, 39]
+sprinkle [4, 36]
+
+onion [4, 41]
+sprinkle [4, 36]
+
+pastry shell [4, 43]
+sprinkle [4, 36]
+
+eggs [5, 52]
+whisk [5, 51]
+
+cream [5, 54]
+whisk [5, 51]
+
+salt [5, 56]
+whisk [5, 51]
+
+sugar [5, 58]
+whisk [5, 51]
+
+cayenne pepper [5, 60]
+whisk [5, 51]
+
+pastry shell [6, 65]
+pour [6, 64]
+
+quiche [9, 108]
+allow [9, 110]
+

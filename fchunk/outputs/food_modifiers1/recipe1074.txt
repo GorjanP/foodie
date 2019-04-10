@@ -1,0 +1,15 @@
+eggs [3, 27]
+combine [3, 26]
+
+oil [3, 29]
+combine [3, 26]
+
+almond extract [3, 31]
+combine [3, 26]
+
+soy milk [4, 39]
+stir [4, 38]
+
+batter [7, 64]
+pour [7, 65]
+

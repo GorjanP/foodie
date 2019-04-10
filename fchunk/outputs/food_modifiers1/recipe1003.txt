@@ -1,0 +1,30 @@
+sunflower seed oil [1, 2]
+heat [1, 0]
+
+tomatoes [2, 14]
+stir [2, 13]
+
+oil [2, 21]
+coat [2, 20]
+
+tomato paste [3, 26]
+mix [3, 25]
+
+cumin [3, 31]
+season [3, 32]
+
+salt [3, 36]
+allspice [3, 36]
+
+tomatoes [4, 44]
+cook [4, 44]
+
+eggs [5, 54]
+pour [5, 55]
+
+tomato mixture [5, 57]
+pour [5, 55]
+
+eggs [6, 70]
+continue [6, 66]
+

@@ -1,0 +1,14 @@
+AF.10.f [Plant substances]; AF.20.e [Particular vegetables]; AG.01.h.02.f [Fruits as vegetables]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AE.14.m.03 [Subfamily Bovinae (bovines)]; AG.01.d.03 [Beef]; 
+
+AG.01.h [Fruit and vegetables]; AG.01.l.04 [Sauce/dressing]; AI.08.d [Refreshment/invigoration]; ZA02 [Geographical Name]; ZA03 [Other Proper Name]; 
+
+AF.10.f [Plant substances]; AF.20.b [Particular fruit-tree/-plant]; AG.01.ab [Fruit juice/squash]; AG.01.h.01.a [Citrus fruit]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; 
+
+AA.11.d [Hot weather]; AF.12 [Particular plants/herbs/shrubs]; AG.01 [Food]; AG.01.h [Fruit and vegetables]; AG.01.l.03 [Spice]; AG.01.l.04 [Sauce/dressing]; AG.01.w [Setting table]; AI.08.d [Refreshment/invigoration]; AJ.03.c.02 [Heat]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.b [Stalk vegetables]; AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+NULL
+

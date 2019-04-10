@@ -1,0 +1,51 @@
+eggs [1, 8]
+whisk [1, 5]
+
+milk [1, 10]
+whisk [1, 5]
+
+sugar [1, 15]
+whisk [1, 5]
+
+cinnamon [1, 18]
+whisk [1, 5]
+
+butter [2, 24]
+melt [2, 20]
+
+bread slices [3, 36]
+dip [3, 33]
+
+egg mixture [3, 39]
+dip [3, 33]
+
+bread [5, 69]
+repeat [5, 66]
+
+butter [6, 75]
+melt [6, 73]
+
+toast [6, 84]
+melt [6, 73]
+
+toast [7, 88]
+while [7, 88]
+
+cream cheese [7, 93]
+mix [7, 94]
+
+sugar [7, 98]
+mix [7, 94]
+
+sour cream [7, 100]
+mix [7, 94]
+
+warm French toast [8, 120]
+place [8, 121]
+
+generous dollop [8, 128]
+place [8, 121]
+
+frosting [8, 131]
+place [8, 121]
+

@@ -1,0 +1,18 @@
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AC.02.e [Medicines/physic]; AJ.01 [Alchemy]; AJ.04.c [Granular texture]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.20 [Particular food plant/product]; AG.01.l.02 [Sweetener (syrup/honey/chocolate)]; AJ.02.m.03.a [Sugars]; 
+
+AB.17.n.02 [Bodily secretions]; AD.03.e [Baby/infant]; AG.01.e [Dairy produce]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AE [Animals]; AG.01.e.01 [Butter]; AG.01.n [Dishes and prepared food]; AG.01.t.07 [Cooking]; AJ.05.a [Making liquid/melting]; BI.12.b.01 [Materials having undergone process]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AA.04.f [Ice]; AG.01.n.12 [Pancake/tortilla/oatcake]; AL.03 [Shape]; 
+

@@ -1,0 +1,12 @@
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AB.17.n [Secretory organs]; AB.17.n.02 [Bodily secretions]; AG.01.e [Dairy produce]; 
+
+AG.01.j [Meal]; AG.01.k [Flour]; 
+
+AA.04 [Water]; AB.17.o.03 [Excretions]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+

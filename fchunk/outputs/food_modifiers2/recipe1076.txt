@@ -1,0 +1,6 @@
+liquid	
+warm
+
+No anaphora found!
+doubled
+

@@ -1,0 +1,16 @@
+AF.20 [Particular food plant/product]; AF.20.b [Particular fruit-tree/-plant]; AG.01.h.01 [Fruit/a fruit]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+
+AA.03 [Land, ground, land mass]; AF.10.i [Seed]; AF.24 [Yielding fibre/thatching/basket material]; AH.01.b [Flax/hemp/jute]; AK.03.a [Cause/reason]; AK.03.b [Source/origin]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AJ.02.i [Chemical reactions/processes]; AL.04.f.01 [Extraction]; BK.06.a.02 [Extract]; 
+
+AF.13.c [Non-British trees/shrubs]; AF.20.c [Edible nuts/nut-trees]; AG.01.f [Fat/oil]; AG.01.h.01.f [Nut]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AG.01.m [Substances for food preparation]; AJ.04 [Constitution of matter]; AJ.04.a.02 [Viscosity]; 
+
+AA.04.f [Ice]; AG.01.n.12 [Pancake/tortilla/oatcake]; AL.03 [Shape]; 
+
+AA.04.f [Ice]; AG.01.n.12 [Pancake/tortilla/oatcake]; AL.03 [Shape]; 
+

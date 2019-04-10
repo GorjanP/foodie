@@ -1,0 +1,20 @@
+AG.01.f [Fat/oil]; AJ.04.i [Unctuousness]; BF.25.m [Consumables]; 
+
+AG.01.n.11 [Bread]; AG.01.n.12 [Pancake/tortilla/oatcake]; 
+
+AG.01.d.05 [Pork]; AG.01.n.01 [Food by way of preparation]; AG.01.n.15 [Pastry]; 
+
+AC.01.a [Ill-health in external/visible body parts]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AF.20.e [Particular vegetables]; AG.01.h.02.f [Fruits as vegetables]; 
+
+04.10 []04.10 []AG.01.l.03 [Spice]; AF.12 [Particular plants/herbs/shrubs]; AG.01.h.02.f [Fruits as vegetables]; 
+
+AG.01.l.01 [Salt]; AG.01.w [Setting table]; AJ.01 [Alchemy]; 
+
+AF.12 [Particular plants/herbs/shrubs]; AG.01.l.03 [Spice]; AG.01.w [Setting table]; 
+
+AF.10 [Part of plant]; AF.20.e [Particular vegetables]; AG.01.h.02.e [Onion/leek/garlic]; 
+
+AE.13.d [Egg]; AG.01.g [Eggs]; 
+

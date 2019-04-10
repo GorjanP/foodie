@@ -1,0 +1,54 @@
+oats [1, 1]
+process [1, 0]
+
+flour [1, 12]
+process [1, 0]
+
+ground oats [2, 15]
+combine [2, 14]
+
+cinnamon [2, 17]
+combine [2, 14]
+
+powder [2, 20]
+combine [2, 14]
+
+salt [2, 23]
+combine [2, 14]
+
+eggs [3, 29]
+whisk [3, 29]
+
+honey [3, 31]
+whisk [3, 29]
+
+almond milk [3, 33]
+whisk [3, 29]
+
+coconut oil [3, 37]
+whisk [3, 29]
+
+vanilla extract [3, 40]
+whisk [3, 29]
+
+oat mixture [4, 48]
+stir [4, 51]
+
+egg mixture [4, 50]
+stir [4, 51]
+
+batter [4, 52]
+stir [4, 51]
+
+blueberries [4, 59]
+fold [5, 63]
+
+coconut oil [5, 64]
+heat [5, 67]
+
+batter [6, 73]
+drop [6, 79]
+
+batter [8, 114]
+repeat [-1, 118]
+
