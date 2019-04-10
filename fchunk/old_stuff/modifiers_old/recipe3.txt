@@ -1,9 +1,0 @@
-chicken
-    A - 0 - Mix
-grapes
-    A - 0 - Mix
-celery
-    A - 0 - Mix
-oranges
-    A - 0 - Mix
-

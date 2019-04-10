@@ -1,5 +1,0 @@
-chicken
-grapes
-nuts
-celery
-oranges

@@ -1,2 +1,0 @@
-Process banana, lemon, mango, orange, apples, and ginger through juicer.    
-
