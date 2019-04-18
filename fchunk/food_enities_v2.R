@@ -24,7 +24,7 @@ init <- function(mem = '8g')
   # compile .cpp code here
   initCoreNLP(mem = mem)
 }
-
+old
 # function for spliting text on sentences
 
 check_duplicate_recipes <- function()
